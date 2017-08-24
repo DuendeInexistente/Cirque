@@ -1,5 +1,4 @@
 ![](Images/Puca.svg)
-
 ### Puclop
 
 <u>Puclops</u>, known as <u>Pucas</u> to some and called <u>┕┈┉╝</u> in moonlet singsong, are small creatures said to reside in the stranded wood of destroyed houses or Duda ships -possibly pieces of the larger spirit of a household- that moonlets usually reserve respect for. Their disposition depends in large part on the house's inhabitants, and they are known to grow bitter the closer the wood is to sinking.
@@ -53,7 +52,5 @@ While the last segment is harder to understand in the original telling of the st
 [^MoonLady]: The name moonlets and dudas give to the big brother.
 
 [^numbers]: It's noteworthy that both three and six are important in early Moonlet-Duda cultures: By their mythological accounts their creators '*Made Dudas to think in threes so that they may have wit, and Moonlets in sixes so that they may be swift.*'
-
-
 
 [^SunLord]: Known to us as <u>Big Sister</u>
