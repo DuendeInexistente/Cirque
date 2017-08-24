@@ -38,7 +38,7 @@ Corvis drops fell each on a lost sailor, giving them humble cups containing food
 
 Leo, fiercest of them all and said to be daughter of the Brother, gave a candle with which to light your way and burn your enemies.
 
-And, last of them all, Draco had a hard time thinking of a gift as great as all others! In her frustration she hit the water again, and again, until from her hits a giant column of water rose to the sky and covered it. It's still there on the sky, protecting us from starfalls so that we may sleep safe.
+And, last of them all, Draco had a hard time thinking of a gift as great as all others! In her frustration she hit the water again, and again, until from her hits a giant column of water rose to the sky and covered it. It's still there on the sky, protecting us from falling stars so that we may sleep safe.
 
 Last of all fell the Old Brother, now a sister. Her wings spread wide, her horn stood slender and tall, her body supple and her legs strong. She fell on Eridanus' city, crying Corvis' drops, singing Lyra's most perfect song, and her eyes shinning with light and beauty to rival Leo's flame. 
 
@@ -80,7 +80,7 @@ My mother would say, if I want the noises of Canterlot, the people of Canterlot,
 
 ![](Images/Whalianhouse.svg) ![](Images/Cloudsdale.svg)
 
-Whalian houses are perhaps the most stark difference. Gone are the arches and open spaces the characterize Cloudsdale, gone are the ceilings that are just another room, gone is all flair. Whalian houses are positively military in nature, and not of the prideful kind: Low, squatting buildings made to resist the winds undamaged, their ceilings semiespherical growths filled with windows to fly off from.
+Whalian houses are perhaps the most stark difference. Gone are the arches and open spaces the characterize Cloudsdale, gone are the ceilings that are just another room, gone is all flair. Whalian houses are positively military in nature, and not of the prideful kind: Low, squatting buildings made to resist the winds undamaged, their ceilings round growths filled with windows to fly off from.
 
 I can understand the reasoning completely, after having had to chase after the chair I forgot outside, and after the wind tore off a page off this very journal. I can understand why are these pegasi so wary and careful of everything, and why, living in the sky, they spend most of the time inside. It still saddens me deeply.
 
@@ -128,15 +128,15 @@ I guess Creek will be mad if I don't do this in her place. We are taking off to 
 
 ### 04 - 30
 
-We stopped the house at a city to restock, and while it seemed empty first, now I can hear doors closing wherever we go. There's a foul smell in the air too, like ponyscat.
+We stopped the house at a city to restock, and while it seemed empty first, now I can hear doors closing wherever we go. There's a foul smell too, like ponyscat.
 
 ### 04 - 31
 
 The people of the city burned a body yesterday. It's the first time we see them, and also the first I see an actual burial rather than just sinking the body.
 
-Everyone seemed to be sick. After a while Whisper gathered the courage to ask what was happening, and a foal said they were sick with fungi. His left eye was red and swollen.
+Everyone seemed to be sick. After a while Whisper gathered the courage to ask what was happening, and a foal said they had fungi. His left eye was red and swollen.
 
-It took me several hours to get Whisper to tell me why was the display depressing him as much as it was, even if I a' not unaffected, and when he did talk he was trying to hold back tears. This is the sickness that whipped out changelings, he said. All of them -many his friends- gone in a mater of weeks, the fungi spreading from city to city with the slightest breeze. We've agreed to try getting them help from a nearby city estate, Arabesco.
+It took me several hours to get Whisper to tell me why was the display depressing him as much as it was, even if I am not unaffected, and when he did talk he was trying to hold back tears. This is what whipped out changelings, he said. All of them -many his friends- gone in a mater of weeks, the fungi spreading from city to city with the slightest breeze. We've agreed to try getting them help from a nearby city estate, Arabesco.
 
 I asked him about the sickness spreading there, but he said the infection doesn't spread muck anymore. It's main food source is gone, after all, and nowadays it just explodes sometimes.
 
