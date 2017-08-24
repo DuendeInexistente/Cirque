@@ -8,13 +8,14 @@ As they are respected creatures, moonlets usually consider it a moral duty to re
 
 According to the tale most spread among moonlets' <u>Pucas</u> are small, round creatures with three wooden horns made of splinters, each with a small, triangular eye under it and a mouth in the central point between the horns. Older ones usually grow feather-like green growths on their backs, which might or might not give them flight but are known to be integral to their magics: Malevolent <u>Pucas</u> can be weakened by plucking the feathers off their bodies, which doesn't seem to be particularly physically painful to them according to most reliable sources.
 
+![](Images/Xolobdys.svg)
 ### Xolobdys
 
 Common stories report <u>Xolobdys</u> as the offspring of a <u>taint child</u> and either <u>star spawn</u> or a <u>starcaster</u>, many of them by raping. Some others describe the <u>star spawn</u> as foolish enough to be tricked, and in an account it was a <u>starcaster</u> that fell in love with a taint beast. In another still <u>Xolobdys</u> is the offspring of the <u>queen-of-tides</u> and three <u>incubi</u>, again by tricking or raping her.
 
 Regardless of origin, <u>Xolobdys</u> is a relevant creature on the lore of the sirens. According to them it's a creature with long, bony legs, no head, and a neck stump that devours insatiably, walking across the Styx silently. Reports are conflicting as to whether or not it's sapient, but it's been known to notice cities on the surface and devour the water under them, creating a whirlpool that makes the inhabitants and even buildings fall down to it's maw.
 
-The last reported, reliable account comes from <u>queen Shezerade</u>, may her crest be praised, in one of her searches for the <u>queen-of-tides</u>. According to the account, *'A great lumbering creature, ninety siren cubits tall and thirty across, lumbered across the old city [Of Totle] with legs wrapped in decaying flesh. Yet the wrasses didn't try to feed: They escaped with fear I had never seen in them. Some of my paladins wanted to attack the creature, but I considered it wiser to retreat.'*
+The last reported, reliable account comes from <u>queen Shezerade</u>, may her crest be praised, in one of her searches for the <u>queen-of-tides</u>. According to the account, *'A great creature, ninety siren cubits tall and thirty across, lumbered across the old city [Of Totle] with legs wrapped in decaying flesh. Yet the wrasses didn't try to feed: They escaped with fear I had never seen in them. Some of my paladins wanted to attack the creature, but I considered it wiser to retreat.'*
 
 
 ### Pisces
