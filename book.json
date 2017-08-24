@@ -1,8 +1,4 @@
 {
     "plugins": [
         "footnote-string-to-number"
-    ],
-    "pluginsConfig": {
-        }
-    }
-}
+    ]
