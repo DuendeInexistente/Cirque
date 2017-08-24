@@ -1,6 +1,5 @@
 {
     "plugins": [
-		"gitbook-plugin-underline",
 		"neo-navigator",
         "anchors",
 		"gitbook-plugin-headings",
