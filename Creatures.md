@@ -1,7 +1,7 @@
 ![](Images/Puca.svg)
 ### Puclop
 
-<u>Puclops</u>, known as <u>Pucas</u> to some and called <u>┕┈┉╝</u> in moonlet singsong, are small creatures said to reside in the stranded wood of destroyed houses or Duda ships -possibly pieces of the larger spirit of a household- that moonlets usually reserve respect for. Their disposition depends in large part on the house's inhabitants, and they are known to grow bitter the closer the wood is to sinking.
+<u>Puclops</u>, known as <u>Pucas</u> to some and called <u>┕┈┉╝</u> in moonlet singsong, are small creatures said to reside in the stranded wood of houses or Duda ships -possibly pieces of the larger spirit of a household- that moonlets usually reserve respect for. Their disposition depends in large part on the house's inhabitants, and they are known to grow bitter the closer the wood is to sinking.
 
 As they are respected creatures, moonlets usually consider it a moral duty to return the spirits and their wood to their own household, lest the <u>Puca</u> dies and weakens the household. They are also known to be mischievous if they lived with such a person, tricking anyone who approaches with either good natured jokes or outright malevolent intent.
 
