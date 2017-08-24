@@ -1,3 +1,5 @@
-# My Awesome Book
+# Cirquesque's side material.
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+Side material for [Cirquesque](https://www.anonpone.com/cirquesque/)
+
+Recommended theme: Sepia. ![](Images/theme.png)

@@ -2,8 +2,6 @@
     "plugins": [
         "anchors",
 		"gitbook-plugin-headings",
-		"gitbook-plugin-underline",
-		"neo-navigator",
         "footnote-string-to-number"
     ]
 }

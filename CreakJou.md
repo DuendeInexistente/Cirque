@@ -1,3 +1,5 @@
+
+
 ### 03 – 15(?)
 
 I found the mare Whisper heard about. She really is beautiful: Wings that wouldn't be out of place in Equestria, supple flanks, a flamboyant personality and a nice shade of pink on her mane. I don't think this mare laughs at jokes as much as she laughs at the merry and nonsense of life itself, using jokes a welcome a welcome excuse for it. And, and this is the most curious part, she reminds me of Celestia.
@@ -70,9 +72,13 @@ Today we arrived to our first whale city. Both me and Whisper have tried to draw
 
 The sheer size of it made it hard for me to accept it as a living being first, at least until it *blinked*, making my heart stop for a moment. If only I still had enough film for the camera...
 
-The city, against my hopes, is nothing like Cloudsdale. Where Cloudsdale is flamboyant, this city is subtle. Where Cloudsdale stands tall and proud, the whalians -As Whisper insists in calling them- shy away from the admittedly mighty winds of this altitude. At times I could even swear the air density is lower here, even when the residents insisted no such thing happens. 
+![](Images/Whale.svg)
 
-My mother would say, if I want the noises of Canterlot, the people of Canterlot, the sights of Canterlot, why didnt I stay in Canterlot? Yet now that I am in the opposite situation, Cloudsdale is unreachable. Would I hesitate before jumping back to Cloudsdale, even if it meant leaving my house behind? Without a second's doubt. Whisper made me promise as much.
+The city, against my hopes, is nothing like Cloudsdale. Where Cloudsdale is flamboyant, this city is subtle. Where Cloudsdale stands tall and proud, the Whalians -As Whisper insists in calling them- shy away from the admittedly mighty winds of this altitude. At times I could even swear the air density is lower here, even when the residents insisted no such thing happens. 
+
+My mother would say, if I want the noises of Canterlot, the people of Canterlot, the sights of Canterlot, why didn't I stay in Canterlot? Yet now that I am in the opposite situation, Cloudsdale is unreachable. Would I hesitate before jumping back to Cloudsdale, even if it meant leaving my house behind? Without a second's doubt. Whisper made me promise as much.
+
+![](Images/Whalianhouse.svg) ![](Images/Cloudsdale.svg)
 
 Whalian houses are perhaps the most stark difference. Gone are the arches and open spaces the characterize Cloudsdale, gone are the ceilings that are just another room, gone is all flair. Whalian houses are positively military in nature, and not of the prideful kind: Low, squatting buildings made to resist the winds undamaged, their ceilings semiespherical growths filled with windows to fly off from.
 
@@ -84,19 +90,25 @@ Normally I shy away from writing so early. It affects my writing badly, makes mo
 
 Yet I must. I am now accompanied by a curious creature, or machine, I can't tell which. It's metallic body is painted pink, and it's made of eight fragments. It has agreed to have a proper conversation with me, which I will write to my transcripts book.
 
+![](Images/PinkStar.svg)
+
 It appeared earlier. I was woken up by a electric storm that woke everyone, short of Whisper of course. Good luck waking up that stallion, with a storm or otherwise.
 
 I went outside and found, as many others, that the thunders were green and purple for some reason. The storm went as it had come, and -has living here made me numb to the fantastic?- I would've forgotten it hadn't the machine creature, similar to a Duda, appeared.
 
+------------
+
 I will admit, much as it hurts to say, that I cried after the conversation. It just hurt so much, letting myself feel hope for even a second.
+
+------------
 
 I had another dream with the griffon's eyes. His eyes, those burning pinpricks, the will o' the wisps of his madness. How can anyone have such a thing? In the orbits of his eyeballs no less, the place that should be empty.
 
-I fear those eyes, those spinning and evermoving eyes. I fear that, if I gazed too deep into them, I'd understand his madness, for madness it is. The madness of perpetual motion, of such a terrible, unyielding decision that I truly believe he's still alive not because of strange magics, but because he stared death on the eye and death backed off.
+Those eyes, spinning and ever moving eyes. I fear that, if I gazed too deep into them, I'd understand his madness, for madness it is. The madness of perpetual motion, of such a terrible, unyielding decision that I truly believe he's still alive not because of strange magics, but because he stared death on the eye and death backed off.
 
 Those eyes that violate my sleeping mind as much as they violated my sight the single time I saw them.
 
-A machine of purpose. That's the word. He has truly abandoned all that made him equine, Or gri gryphon, more like, in favor of his quest.
+A machine of purpose. That's the word. He has truly abandoned all that made him equine, Or <s>gri</s> gryphon, more like, in favor of his quest.
 
 I must sleep. The kids will make next morning busy.
 
