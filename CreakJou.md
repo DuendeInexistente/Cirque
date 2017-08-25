@@ -1,29 +1,78 @@
+### 01 - 5
 
+Ahoy! Onwards and updwards!
+
+<font face="Courier New" color="red" size="3rem">Yes!</font>
+
+What does a new journal mean, my dear Silver?
+
+<font face="Courier New" color="red" size="3rem">New adventures!</font>
+
+And what do you think, my dear Whisp?
+
+<font face="Arial Black" size="2rem">She's been wrong before, I dunno...</font>
+
+<font face="Courier New" color="red" size="4rem">Adventures to find <i>Equestria</i>!</font> 
+
+<font face="Arial Black" size="2rem">Now that sounds more like it.</font>
+
+Your turn, Cyp.
+
+<font face="Tahoma" color="red" size="2rem">To find neat stuff?</font>
+
+<font face="Courier New" color="red" size="4rem">You mean for me to keep you from falling down a hole?</font> 
+
+<font face="Tahoma" color="red" size="2rem">Same thing.</font>
 
 ### 03 - 2 
 
 Eureka! I knew the lock only needed some heating. And to think Whisper was preparing one of his contraptions.
-It's surprising that this place still holds in a piece. The bronze-and-glass hallways are nothing less than beautiful, if crearly damaged by age, and this place might still be inhabited... Some rooms seem to have water damage without any leaks, verdigris patches on the ground, and others still have signs of welding. A room, even, was half filled with blackwater-- which might either mean Dudas or ponies are here. I am not sure which, but the fact that there wasn't anything to alleviate the smell or keep it from spreading makes me think it's the former.
+It's surprising that this place still holds in a piece. The bronze-and-glass hallways are nothing less than beautiful, if crearly damaged by age, and this place might still be inhabited... Some rooms seem to have water damage without any leaks, verdigris patches on the ground, and others have signs of welding. A room, even, was half filled with blackwater-- which might either mean Dudas or ponies are here. I am not sure which, but the fact that there wasn't anything to alleviate the smell or keep it from spreading makes me think it's the former. Cypress already blocked that door with some paste. Sliver called it a waste of flour, but now that room doesn't make all surrounding areas unbearable.
 
 ### 03 - 3
 
-Another day without the team finding anyone. Sliver is as impatient for that as ever, buggering Whisper to go explore with her. 
+Another day without the team finding anyone. Sliver is as impatient as ever, buggering Whisper to go explore with her. 
 
-This place is nonetheless fascinating. The hallways of the entire place seem to be designed as a sort of museum that has guided three lost people to the orrery so far-- more of the odd, *subliminal* -to use Sliver's word- design that pervaded the churches too. Our efforts to [map it](/imgnoemb/DudaruinsMap.svg) are greatly helped by the geometric logic of this place which past Duda ruins have accustomed us to...
+This place is nonetheless fascinating. The hallways of the entire place seem to be designed as a sort of museum that has guided three lost people to the orrery so far-- more of the odd, *subliminal* -to use Sliver's word- design that pervaded the churches too. Our efforts to map it are greatly helped by the geometric logic of this place which past Duda ruins have accustomed us to...
 
 ...I still wonder if it's right to call these "ruins", with the state they are in. Give me a broken window, people! Then I won't have to worry about the exact meaning of the word.
 
 Ha. Duda glass staying broken.
 
-![Sliver insisted in include her drawing in here, which I would've done anyhow; kid's great at anything geometric. Not so much at fish, tough.](/Images/Duda/Windows.svg)
+-------------
 
-The hallways of the outer circle are probably the most beautiful part of this place: Light reaches us with just enough strength for it to play with the engravings on the wall, of which there are too many to count. Most 
+Sliver insisted I include her drawing in here, which I would've done anyhow; kid's great at anything geometric. Not so much at fish, though
 
-![](/Images/Engravings.svg) 
+![](/Images/Duda/Windows.svg)
+
+
+The hallways of the outer circle are probably the most beautiful part of this place: Light reaches us with just enough strength for it to play with the engravings on the wall, of which there are too many to count. Most of them, however, feature the same few designs. Gnash has counted four repeated ones so far.
+
+------------
+
+We just returned from what we decided was, to Sliver's chagrin, our first and last walk around the ruins today. The lower and upper floors are still off limits for now (Got to be methodical) and we haven't even explored half of the expected size of this place, but there's no such thing as too much precaution when exploring ruins. Not like they'll walk away. I added a folded copy of the map so far. 
+
+[![](/Images/FoldedPaper.svg)](/Images/Duda/DudaruinsMap.svg)
+
+### 03 - 7
+
+The orrery is operational! I was so convinced something had to be broken it took Cypress playing a prank for me to see that it wasn't. Bless that girl! Bless her disobedience!
+
+I hope she never reads that.
+
+It seems to be operated in a classical Duda configuration; the sole deviation from their usual habits is that he left lever has total freedom of horizontal movement, something that seems to that one's position on the imaginary globe can be adjusted intuitively. 
+
+And, thankfully, I found the connection I was hoping for. There *is* an alignment between these stars and Equestria's, a time of the year when our skies are the same. Over -30.0 006 x45, at least.
+
+Now I only need to actually find a <s>star cast</s> starcaster, if they even exist.
 
 ### 03 - 10
 
-We've decided to return to civilization for a while to avoid getting cabin fever again.
+We've decided to return to civilization for a while to restock and avoid getting cabin fever again. Sindula's ship will take off in the morn, and Whisper and me will follow as soon as we are done copying some of the engravings with carbon paper.
+
+------
+
+[![](/Images/FoldedPaper.svg)](/Images/Duda/Engravings.svg)
 
 ### 03 - 15
 
@@ -139,7 +188,7 @@ I must sleep. The kids will make next morning busy.
 
 ### 04 - 15
 
-The moon! How am I supposed to reach the moon!? That gryphon must be crazy! I knew dreaming about him had to mean something... I told him as much, and he only laughed- A deep bass laugher that, in another time and world, I would've found lovely.
+The moon! How am I supposed to do that!? That gryphon must be crazy! I knew dreaming about him had to mean something... I told him as much, and he only laughed- A deep bass laugher that, in another time and world, I would've found lovely.
 
 By Celestia, I will kill him one of these days. Just stab him right on the gut he doesn't have.
 
@@ -149,44 +198,9 @@ And what does he think I am!? His Knight Errant? I am not! I am a Celestia-damne
 
 ### 04-16
 
-I guess Creek will be mad if I don't do this in her place. We are taking off to the north tomorrow, what cap Sindula called the third corner, and leaving my girls with Wind's aunt. Wouldn't you hear how loud they cry to come with us, poor things.
+I guess Creek will be mad if I don't do this in her place. We are taking off to the north tomorrow, what cap Sindula called the third corner, and leaving my girls with Wind's aunt. Wouldn't you hear how much they want to come with us, poor things. Silver even tried to sneak back to us, and little Cyp was trying not to cry. Made em promise to try finding a starcaster like the fish told us, to keep them bussy.
 
-### 04 - 30
 
-We stopped the house at a city to restock, and while it seemed empty first, now I can hear doors closing wherever we go. There's a foul smell too, like ponyscat.
-
-### 04 - 31
-
-The people of the city burned a body yesterday. It's the first time we see them, and also the first I see an actual burial rather than just sinking the body.
-
-Everyone seemed to be sick. After a while Whisper gathered the courage to ask what was happening, and a foal said they had fungi. His left eye was red and swollen.
-
-It took me several hours to get Whisper to tell me why was the display depressing him as much as it was, even if I am not unaffected, and when he did talk he was trying to hold back tears. This is what whipped out changelings, he said. All of them -many his friends- gone in a mater of weeks, the fungi spreading from city to city with the slightest breeze. We've agreed to try getting them help from a nearby city estate, Arabesco.
-
-I asked him about the sickness spreading there, but he said the infection doesn't spread muck anymore. It's main food source is gone, after all, and nowadays it just explodes sometimes.
-
- 
-### 04 - 32
-
-A group of medics agreed to at least spare Vivaldi's citizens a withering death. They can't offer more.
-
-My wing itches. Everyone is worried about it, but I don't think it's the fungi.
-
-### 04 - 33 
-
-The medics are going through with the euthanasia of all those who want it… I had to keep myself from vomiting when I saw the parents on the queues. It was just so
-
-Some medics are also trying possible cures, one of them via surgery, but they are the fewer and not many volunteer.
-
-Maybe Equestrian surgeons could remove all the growths at this stage, just maybe. This place's can't. 
-
-### 05 - 01
-
-Today I saw someone who didn't take the euthanasia. They are the fewer, and while I wouldn't have said this when I was in Equestria, I don't understand their decision. He was like a bag of water, with some skin hanging on place of his belly and his ribs crearly visible through the skin.
-
-His leg fell off. It was like jello inside, but it didn't bleed. Some hair-like roots hung of the stump. It was the same color as my mane.
-
-I can't eat anything. I don't understand why haven't I flown the home somewhere else. Why
 
 ----------
-[^Cir]: This seems to mean either a <s>grif</s> gryphon mage or leader.
+[^Cir]: This seems to mean either a <s>grif</s> gryphon mage or leader, or just a very respected gryphon.
