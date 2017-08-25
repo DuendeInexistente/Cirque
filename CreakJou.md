@@ -1,8 +1,33 @@
 
 
-### 03 – 15(?)
+### 03 - 2 
 
-I found the mare Whisper heard about. She really is beautiful: Wings that wouldn't be out of place in Equestria, supple flanks, a flamboyant personality and a nice shade of pink on her mane. I don't think this mare laughs at jokes as much as she laughs at the merry and nonsense of life itself, using jokes a welcome a welcome excuse for it. And, and this is the most curious part, she reminds me of Celestia.
+Eureka! I knew the lock only needed some heating. And to think Whisper was preparing one of his contraptions.
+It's surprising that this place still holds in a piece. The bronze-and-glass hallways are nothing less than beautiful, if crearly damaged by age, and this place might still be inhabited... Some rooms seem to have water damage without any leaks, verdigris patches on the ground, and others still have signs of welding. A room, even, was half filled with blackwater-- which might either mean Dudas or ponies are here. I am not sure which, but the fact that there wasn't anything to alleviate the smell or keep it from spreading makes me think it's the former.
+
+### 03 - 3
+
+Another day without the team finding anyone. Sliver is as impatient for that as ever, buggering Whisper to go explore with her. 
+
+This place is nonetheless fascinating. The hallways of the entire place seem to be designed as a sort of museum that has guided three lost people to the orrery so far-- more of the odd, *subliminal* -to use Sliver's word- design that pervaded the churches too. Our efforts to [map it](/imgnoemb/DudaruinsMap.svg) are greatly helped by the geometric logic of this place which past Duda ruins have accustomed us to...
+
+...I still wonder if it's right to call these "ruins", with the state they are in. Give me a broken window, people! Then I won't have to worry about the exact meaning of the word.
+
+Ha. Duda glass staying broken.
+
+![Sliver insisted in include her drawing in here, which I would've done anyhow; kid's great at anything geometric. Not so much at fish, tough.](/Images/Duda/Windows.svg)
+
+The hallways of the outer circle are probably the most beautiful part of this place: Light reaches us with just enough strength for it to play with the engravings on the wall, of which there are too many to count. Most 
+
+![](/Images/Engravings.svg) 
+
+### 03 - 10
+
+We've decided to return to civilization for a while to avoid getting cabin fever again.
+
+### 03 - 15
+
+I found the tall mare Whisper heard about. She really is beautiful: Wings that wouldn't be out of place in Equestria, supple flanks, a flamboyant personality and a nice shade of pink on her mane. I don't think this mare laughs at jokes as much as she laughs at the merry and nonsense of life itself, using jokes a welcome a welcome excuse for it. And, and this is the most curious part, she reminds me of Celestia.
 
 As Whisper was told she has respectable knowledge of legends. I will try to convince her to let me transcribe the legend of the mare in the moon.
 
@@ -12,7 +37,7 @@ Still I will copy it as best I can:
 
 #### THE STORY THAT WASN'T, OF THE MARE IN THE MOON
 
-A long time ago Quesque, a bad Cir*, grew bitter on his lighthouse.
+A long time ago Quesque, a bad Cir[^Cir], grew bitter on his lighthouse.
 
 Yet the cold breeze of the night warmed his heart, and he talked with the twinkles of the moonstars. Six twinkles were his friends: Leo, Eridanus, Cassiopeia, Lyra, Corvus and Draco. They talked about strange magics and the beauties of their own worlds.
 
@@ -66,7 +91,7 @@ They saw the beauty of the world, and it's ugliness as well. They saw myst and m
 
 How she sang! How she laughed! Each time she did she was more beautiful, alight with a shine that not even divinity could give. And in her happiness, she found home. She and her six sisters returned to the sky, knowing that they could come back, for they were no longer lost, and the light of the moon became ever more shinning, ever more sublime.
 
-### 04 – 10 (?)
+### 04 - 10
 
 Today we arrived to our first whale city. Both me and Whisper have tried to draw it, but neither of us is an artist.
 
@@ -84,7 +109,7 @@ Whalian houses are perhaps the most stark difference. Gone are the arches and op
 
 I can understand the reasoning completely, after having had to chase after the chair I forgot outside, and after the wind tore off a page off this very journal. I can understand why are these pegasi so wary and careful of everything, and why, living in the sky, they spend most of the time inside. It still saddens me deeply.
 
-### 04 – 13 (?)
+### 04 - 13
 
 Normally I shy away from writing so early. It affects my writing badly, makes more more rambling than usual: Even, and I quote my mother in this, more purple than Twilight Sparkle.
 
@@ -112,13 +137,13 @@ A machine of purpose. That's the word. He has truly abandoned all that made him 
 
 I must sleep. The kids will make next morning busy.
 
-### 04 – 15 (?)
+### 04 - 15
 
 The moon! How am I supposed to reach the moon!? That gryphon must be crazy! I knew dreaming about him had to mean something... I told him as much, and he only laughed- A deep bass laugher that, in another time and world, I would've found lovely.
 
 By Celestia, I will kill him one of these days. Just stab him right on the gut he doesn't have.
 
-### 04 – 16 (?)
+### 04 - 16
 
 And what does he think I am!? His Knight Errant? I am not! I am a Celestia-damned writer!
 
@@ -153,7 +178,7 @@ The medics are going through with the euthanasia of all those who want it… I h
 
 Some medics are also trying possible cures, one of them via surgery, but they are the fewer and not many volunteer.
 
-Maybe Equestrian surgeons could remove all the growths, just maybe. This place's can't. 
+Maybe Equestrian surgeons could remove all the growths at this stage, just maybe. This place's can't. 
 
 ### 05 - 01
 
@@ -163,3 +188,5 @@ His leg fell off. It was like jello inside, but it didn't bleed. Some hair-like 
 
 I can't eat anything. I don't understand why haven't I flown the home somewhere else. Why
 
+----------
+[^Cir]: This seems to mean either a <s>grif</s> gryphon mage or leader.

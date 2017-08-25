@@ -2,4 +2,4 @@
 
 Side material for [Cirquesque](https://www.anonpone.com/cirquesque/)
 
-Recommended theme: Sepia. ![](Images/theme.png)
+Recommended themes: Sepia for *book on creatures* and white for *Creaking's journal*. ![](Images/theme.png)

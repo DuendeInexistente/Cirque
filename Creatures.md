@@ -1,4 +1,8 @@
+
+
+
 ![](Images/Puca.svg)
+
 ### Puclop
 
 <u>Puclops</u>, known as <u>Pucas</u> to some and called <u>┕┈┉╝</u> in moonlet singsong, are small creatures said to reside in the stranded wood of houses or Duda ships -possibly pieces of the larger spirit of a household- that moonlets usually reserve respect for. Their disposition depends in large part on the house's inhabitants, and they are known to grow bitter the closer the wood is to sinking.
@@ -8,6 +12,7 @@ As they are respected creatures, moonlets usually consider it a moral duty to re
 According to the tale most spread among moonlets' <u>Pucas</u> are small, round creatures with three wooden horns made of splinters, each with a small, triangular eye under it and a mouth in the central point between the horns. Older ones usually grow feather-like green growths on their backs, which might or might not give them flight but are known to be integral to their magics: Malevolent <u>Pucas</u> can be weakened by plucking the feathers off their bodies, which doesn't seem to be particularly physically painful to them according to most reliable sources.
 
 ![](Images/Xolobdys.svg)
+
 ### Xolobdys
 
 Common stories report <u>Xolobdys</u> as the offspring of a <u>taint child</u> and either <u>star spawn</u> or a <u>starcaster</u>, many of them by raping. Some others describe the <u>star spawn</u> as foolish enough to be tricked, and in an account it was a <u>starcaster</u> that fell in love with a taint beast. In another still <u>Xolobdys</u> is the offspring of the <u>queen-of-tides</u> and three <u>incubi</u>, again by tricking or raping her.
