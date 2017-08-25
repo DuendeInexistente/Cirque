@@ -10,17 +10,17 @@ What does a new journal mean, my dear Silver?
 
 And what do you think, my dear Whisp?
 
-<font face="Arial Black" size="2rem">She's been wrong before, I dunno...</font>
+<font face="Arial Black" size="2rem">She's been wrong before, I dunno...</font> <br><br>
 
-<font face="Courier New" color="red" size="4rem">Adventures to find <i>Equestria</i>!</font> 
+<font face="Courier New" color="red" size="4rem">Adventures to find <i>Equestria</i>!</font> <br><br>
 
 <font face="Arial Black" size="2rem">Now that sounds more like it.</font>
 
 Your turn, Cyp.
 
-<font face="Tahoma" color="red" size="2rem">To find neat stuff?</font>
+<font face="Tahoma" color="red" size="2rem">To find neat stuff?</font><br><br>
 
-<font face="Courier New" color="red" size="4rem">You mean for me to keep you from falling down a hole?</font> 
+<font face="Courier New" color="red" size="4rem">You mean for me to keep you from falling down a hole?</font> <br><br>
 
 <font face="Tahoma" color="red" size="2rem">Same thing.</font>
 
