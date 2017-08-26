@@ -2,27 +2,27 @@
 
 Ahoy! Onwards and updwards!
 
-<font face="Courier New" color="red" size="3rem">Yes!</font>
+<font face="Courier New" size="3rem">Yes!</font>
 
 What does a new journal mean, my dear Silver?
 
-<font face="Courier New" color="red" size="3rem">New adventures!</font>
+<font face="Courier New" size="3rem">New adventures!</font>
 
 And what do you think, my dear Whisp?
 
-<font face="Arial Black" size="2rem">She's been wrong before, I dunno...</font> <br><br>
+<font face="Arial Black" size="2rem">She's been wrong before, I dunno...</font> <br>
 
-<font face="Courier New" color="red" size="4rem">Adventures to find <i>Equestria</i>!</font> <br><br>
+<font face="Courier New" size="4rem">Adventures to find <i>Equestria</i>!</font> <br>
 
 <font face="Arial Black" size="2rem">Now that sounds more like it.</font>
 
 Your turn, Cyp.
 
-<font face="Tahoma" color="red" size="2rem">To find neat stuff?</font><br><br>
+<font face="Tahoma" size="2rem">To find neat stuff?</font><br>
 
-<font face="Courier New" color="red" size="4rem">You mean for me to keep you from falling down a hole?</font> <br><br>
+<font face="Courier New" size="2rem">You mean for me to keep you from falling down a hole?</font><br>
 
-<font face="Tahoma" color="red" size="2rem">Same thing.</font>
+<font face="Tahoma" size="2rem">Same thing.</font>
 
 ### 03 - 2 
 

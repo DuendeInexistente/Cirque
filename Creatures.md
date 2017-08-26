@@ -1,9 +1,26 @@
+### Sun Bird
+![](Images/Phoenix.svg)
 
+The <u>sun bird</u>,called is a mythological creature appearing and dying multiple times in history, from which can be safely assumed that there's multiple instances of it. Other assumptions take it as an aspect or servant of the Big Brother that cannot be destroyed, early Duda mythology going as far as entitling it a messenger. In all instances it seems to have a modicum of control over all fire near it, and the ability to produce heat in a very short area around it's body.
 
+"<u>╙╤╕</u>" in Moonlet singsong and pronounced as "<u>Scolou ndo</u>" by Dudas, the <u>Scolou</u> is the oldest known instance. It's name translates very loosely to "Sundering", which reflects it's status as an agent of merciless renovation or, in some translation, destructive chaos. The two mythological cycles in which it's most prominent both relate the destruction of civilizations which have grown arrogant and complacent.
 
-![](Images/Puca.svg)
+Shortly after it's death in Duda/Moonlet mythology[^SBDed], <u>"Nt nde ghe"</u> appears to griffons *"Carrying a message // In it's passage // And naught did it // But deem us misfit"*. This is immediately followed by a series of calamities that only ends after the griffonic hero *Gilgamesh* confronts and kills it. Like in the previous instance here it burns itself to ashes, possibly as a sort of ritualistic suicide to conserve it's honor.
+
+Over two hundred years later, <u>اجرای</u> or <u>Ruith</u> terrifies the then city state of Alba[^Alba] -ruled by queen Scheherazade- with it's mere presence. The pony city was heavily influenced by griffons and traded with Dudas, who at the time were shifting into their modern sailing culture. By most accounts, the bird merely stood perched on a cart.
+
+Unlike the previous cases, however, the queen *"Remained still, in front of a destroyer who was not destroying, and extended her great wings in a display of ladyness. Ruith in return extended it's wings arrogantly to a nearly equal but minor span, remaining still and defiant. Yet, under My Lady's gaze, it eventually folded them again. My Lady folded them in return shortly after, if only out of kindness."*
+
+Atypically enough the queen tamed the beast, who remained by her side for several decades as either a friend or a pet-- It seemingly was a point of contention between the few narrators who wrote the history of this period.
+
+During this time it's described as joking and manipulative, finding mirth in tricking ponies who mistook it for mere animal and often ridiculing members of the court, all of this to Queen Scheherazade's joy.
+
+Regardless of which, the <u>sun bird</u> lives with her for at least *"Ten tens of years, then half as much"*, past two wars and five husbands. At this point the <u>sun bird</u> is -for the sole time in all tenable stories- suffering from age, losing it's feathers and refusing to eat. As a last act, rather than dying of age, it again immolates itself to ashes.
+
+The queen *"Spread it's ashes to the sea with great gravity, her face an unreadable rictus, then jumped to the waters herself."* She was not found again after this, and is presumed to have drowned. Shortly after, the city spiraled to civil war due to the sudden, unexpected void in power.
 
 ### Puclop
+![](Images/Puca.svg)
 
 <u>Puclops</u>, known as <u>Pucas</u> to some and called <u>┕┈┉╝</u> in moonlet singsong, are small creatures said to reside in the stranded wood of houses or Duda ships -possibly pieces of the larger spirit of a household- that moonlets usually reserve respect for. Their disposition depends in large part on the house's inhabitants, and they are known to grow bitter the closer the wood is to sinking.
 
@@ -11,9 +28,9 @@ As they are respected creatures, moonlets usually consider it a moral duty to re
 
 According to the tale most spread among moonlets' <u>Pucas</u> are small, round creatures with three wooden horns made of splinters, each with a small, triangular eye under it and a mouth in the central point between the horns. Older ones usually grow feather-like green growths on their backs, which might or might not give them flight but are known to be integral to their magics: Malevolent <u>Pucas</u> can be weakened by plucking the feathers off their bodies, which doesn't seem to be particularly physically painful to them according to most reliable sources.
 
-![](Images/Xolobdys.svg)
 
 ### Xolobdys
+![](Images/Xolobdys.svg) 
 
 Common stories report <u>Xolobdys</u> as the offspring of a <u>taint child</u> and either <u>star spawn</u> or a <u>starcaster</u>, many of them by raping. Some others describe the <u>star spawn</u> as foolish enough to be tricked, and in an account it was a <u>starcaster</u> that fell in love with a taint beast. In another still <u>Xolobdys</u> is the offspring of the <u>queen-of-tides</u> and three <u>incubi</u>, again by tricking or raping her.
 
@@ -49,6 +66,9 @@ While the last segment is harder to understand in the original telling of the st
 
 
 ------------
+[^SBDed]: The exact nature is a contention point, as there are at least a dozen heroes to claim having done it. A common but unfunded interpretation of this is that there were at least a dozen <u>Scolous</u>.
+
+[^Alba]: One of the first in recorded history.
 
 [^Jump]: Some untranslatable word choices to describe the water seem to imply they are at the second corner of the world at this point.
 
