@@ -1,5 +1,7 @@
+
+
 ### Sun Bird
-![](Images/Phoenix.svg)
+![](Images/Creatures/Phoenix.svg)
 
 The <u>sun bird</u>,called is a mythological creature appearing and dying multiple times in history, from which can be safely assumed that there's multiple instances of it. Other assumptions take it as an aspect or servant of the Big Brother that cannot be destroyed, early Duda mythology going as far as entitling it a messenger. In all instances it seems to have a modicum of control over all fire near it, and the ability to produce heat in a very short area around it's body.
 
@@ -9,18 +11,18 @@ Shortly after it's death in Duda/Moonlet mythology[^SBDed], <u>"Nt nde ghe"</u> 
 
 Over two hundred years later, <u>اجرای</u> or <u>Ruith</u> terrifies the then city state of Alba[^Alba] -ruled by queen Scheherazade- with it's mere presence. The pony city was heavily influenced by griffons and traded with Dudas, who at the time were shifting into their modern sailing culture. By most accounts, the bird merely stood perched on a cart.
 
-Unlike the previous cases, however, the queen *"Remained still, in front of a destroyer who was not destroying, and extended her great wings in a display of ladyness. Ruith in return extended it's wings arrogantly to a nearly equal but minor span, remaining still and defiant. Yet, under My Lady's gaze, it eventually folded them again. My Lady folded them in return shortly after, if only out of kindness."*
+The queen *"Remained still, in front of a destroyer who was not destroying, and extended her great wings in a display of ladyness. Ruith in return extended it's wings arrogantly to a nearly equal but minor span, remaining still and defiant. Yet, under My Lady's gaze, it eventually folded them again. My Lady folded them in return shortly after, if only out of kindness."*
 
-Atypically enough the queen tamed the beast, who remained by her side for several decades as either a friend or a pet-- It seemingly was a point of contention between the few narrators who wrote the history of this period.
+<u>Ruith</u> remained by her side for several decades as either a friend or a pet -It was a point of contention between the few narrators who wrote the history of this period- and during this time is described as joking and openly manipulative, finding mirth in tricking ponies who mistook it for mere animal and often ridiculing members of the court; all of this to Queen Scheherazade's unmasked amusement.
 
-During this time it's described as joking and manipulative, finding mirth in tricking ponies who mistook it for mere animal and often ridiculing members of the court, all of this to Queen Scheherazade's joy.
+This lasts at least *"Ten tens of years, then half again as much"*, past two wars and five husbands. At this point the <u>sun bird</u> is -for the sole time in all tenable accounts- suffering from age, losing it's feathers and refusing to eat. As a last act, rather than dying of age, it again immolates itself to ashes.
 
-Regardless of which, the <u>sun bird</u> lives with her for at least *"Ten tens of years, then half as much"*, past two wars and five husbands. At this point the <u>sun bird</u> is -for the sole time in all tenable stories- suffering from age, losing it's feathers and refusing to eat. As a last act, rather than dying of age, it again immolates itself to ashes.
+The queen *"Spread his ashes to the sea with great gravity, her face an unreadable rictus, and jumped to the waters herself."* She was not found after this, and is presumed to have drowned.
 
-The queen *"Spread it's ashes to the sea with great gravity, her face an unreadable rictus, then jumped to the waters herself."* She was not found again after this, and is presumed to have drowned. Shortly after, the city spiraled to civil war due to the sudden, unexpected void in power.
+Shortly after, the city spiraled to civil war due to the sudden, unexpected void in power and was eventually cannibalized by neighboring cities.
 
 ### Puclop
-![](Images/Puca.svg)
+![](Images/Creatures/Puca.svg)
 
 <u>Puclops</u>, known as <u>Pucas</u> to some and called <u>┕┈┉╝</u> in moonlet singsong, are small creatures said to reside in the stranded wood of houses or Duda ships -possibly pieces of the larger spirit of a household- that moonlets usually reserve respect for. Their disposition depends in large part on the house's inhabitants, and they are known to grow bitter the closer the wood is to sinking.
 
@@ -30,13 +32,13 @@ According to the tale most spread among moonlets' <u>Pucas</u> are small, round 
 
 
 ### Xolobdys
-![](Images/Xolobdys.svg) 
+![](Images/Creatures/Xolobdys.svg) 
 
 Common stories report <u>Xolobdys</u> as the offspring of a <u>taint child</u> and either <u>star spawn</u> or a <u>starcaster</u>, many of them by raping. Some others describe the <u>star spawn</u> as foolish enough to be tricked, and in an account it was a <u>starcaster</u> that fell in love with a taint beast. In another still <u>Xolobdys</u> is the offspring of the <u>queen-of-tides</u> and three <u>incubi</u>, again by tricking or raping her.
 
 Regardless of origin, <u>Xolobdys</u> is a relevant creature on the lore of the sirens. According to them it's a creature with long, bony legs, no head, and a neck stump that devours insatiably, walking across the Styx silently. Reports are conflicting as to whether or not it's sapient, but it's been known to notice cities on the surface and swallow the water under them, creating a whirlpool that makes the inhabitants and even buildings fall down to it's maw.
 
-The last reported, reliable account comes from <u>queen Shezerade</u>, may her crest be praised, in one of her searches for the <u>queen-of-tides</u>. According to the account, *'A great creature, ninety siren cubits tall and thirty across, lumbered across the old city [Of Totle] with legs wrapped in decaying flesh. Yet the wrasses didn't try to feed: They escaped with fear I had never seen in them. Some of my paladins wanted to attack the creature, but I considered it wiser to retreat.'*
+The last reliable account comes from the siren queen Tajoom the third in one of her searches for the <u>queen-of-tides</u>. According to it, *'A great creature, ninety siren cubits tall and thirty across, lumbered across the old city [Of Totle] with legs wrapped in decaying flesh. Yet the wrasses didn't try to feed: They escaped with fear I had never seen in them. Some of my paladins wanted to attack the creature, but I considered it wiser to retreat.'*
 
 
 ### Pisces
@@ -57,13 +59,15 @@ The third story relates to <u>Pisces</u> more closely, and is about it's attempt
 
 While the last segment is harder to understand in the original telling of the story, it proposes a key trait of <u>Pisces</u> which is only implied in other stories, the many levels at which it's role as messenger work. Other parts reinforce this concept; Even after it's <u>Riveros</u> and <u>Sunpo</u> that earn the new belly, it's Pisces that transports it. And <u>Pisces</u>' intent in his initial deceit -saying that it couldn't be the one to ask for the belly- was from the beginning to convey a message to the <u>moon lady</u> which ultimately leads to her rebirth. This, interestingly enough, contrasts with a pervading contradiction in Duda culture-- Their antipathy to the idea that if you remain in your assigned station, everything will be fine.
 
+### Garey Larey
 
+![](Images/Creatures/Slug.svg)
 
+The <u>Gar<s>y</s>ey Larey</u> (Stardom), also known as <u>╰╕┈╾</u> to moonlets or as "Star slug" to commoners, is a creature sighted a number of times around or close to the docks of Landly, recognized for the blue glow which it emits.
 
+It's body is similar to that of a snake or a slug, although it reflects light poorly, and is mostly noticeable because of two veins running at each of it's sides, both glowing with a blue shine that is starkingly similar to that of a starcaster. It's face, described as a mask by some, doesn't seem to display 
 
-
-
-
+------------
 
 ------------
 [^SBDed]: The exact nature is a contention point, as there are at least a dozen heroes to claim having done it. A common but unfunded interpretation of this is that there were at least a dozen <u>Scolous</u>.

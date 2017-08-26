@@ -1,8 +1,5 @@
-<link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Herr+Von+Muellerhoff" />
+### 04 - 13
 
-23 – 3 -08
-
->
 >**Me**: What is your name?
 >
 >**??**: This unit's operative classification is beta pink-03.
@@ -49,8 +46,9 @@
 >
 >(It flew off the window after this)
 
+#### 3 - 18
 
->(Creaking asked me to transcribe discretely for her, since our dear hostess doesn't seem like she'd like to know I am doing it.)
+>(Creaking asked me to transcribe discretely for her, since our "dear" hostess doesn't seem like she'd like to know I am doing it.)
 >
 >
 >**Cr**: I still don't know what do you mean by “Saving” us.
