@@ -26,16 +26,16 @@ Your turn, Cyp.
 
 ### 03 - 2 
 
-Eureka! I knew the lock only needed some heating. And to think Whisper was preparing one of his contraptions.
-It's surprising that this place still holds in a piece. The bronze-and-glass hallways are nothing less than beautiful, if crearly damaged by age, and this place might still be inhabited... Some rooms seem to have water damage without any leaks, verdigris patches on the ground, and others have signs of welding. A room, even, was half filled with blackwater-- which might either mean Dudas or ponies are here. I am not sure which, but the fact that there wasn't anything to alleviate the smell or keep it from spreading makes me think it's the former. Cypress already blocked that door with some paste. Sliver called it a waste of flour, but now that room doesn't make all surrounding areas unbearable.
+Eureka! All the lock needed was some heating.
+It's surprising that this place still holds in a piece after so long. The bronze-and-glass hallways are nothing less than beautiful, if crearly damaged by age, and this place might very well still be inhabited... Some rooms seem to have water damage without any leaks, verdigris patches on the ground, and others have signs of welding. A room, had a pool filled with blackwater-- A sure sign of Dudas as was the fact that there wasn't anything to alleviate the smell or keep it from spreading. Cypress already blocked that door with some paste, which Sliver called it a waste of flour, but now that room doesn't make all surrounding areas unbearable.
 
 ### 03 - 3
 
 Another day without the team finding anyone. Sliver is as impatient as ever, buggering Whisper to go explore with her. 
 
-This place is nonetheless fascinating. The hallways of the entire place seem to be designed as a sort of museum that has guided three lost people to the orrery so far-- more of the odd, *subliminal* -to use Sliver's word- design that pervaded the churches too. Our efforts to map it are greatly helped by the geometric logic of this place which past Duda ruins have accustomed us to...
+This place is nonetheless fascinating. The hallways of the entire place seem to be designed as a sort of museum that has guided three lost people to the orrery so far-- more of the odd, *subliminal* -to use Cyp's word- design that pervaded the churches too. Our efforts to map it are greatly helped by the geometric logic of this place which past Duda ruins have accustomed us to.
 
-...I still wonder if it's right to call these "ruins", with the state they are in. Give me a broken window, people! Then I won't have to worry about the exact meaning of the word.
+I still wonder if it's right to call these "ruins", with the state they are in. Give me a broken window, people! Then I won't have to worry about the exact meaning of the word.
 
 Ha. Duda glass staying broken.
 
@@ -86,7 +86,7 @@ Still I will copy it as best I can:
 
 #### THE STORY THAT WASN'T, OF THE MARE IN THE MOON
 
-A long time ago Quesque, a bad Cir[^Cir], grew bitter on his lighthouse.
+A long time ago Quesque, a bad Cir[*This seems to mean either a <s>grif</s> gryphon mage or leader, or just a very respected gryphon.*], grew bitter on his lighthouse.
 
 Yet the cold breeze of the night warmed his heart, and he talked with the twinkles of the moonstars. Six twinkles were his friends: Leo, Eridanus, Cassiopeia, Lyra, Corvus and Draco. They talked about strange magics and the beauties of their own worlds.
 
@@ -199,8 +199,3 @@ And what does he think I am!? His Knight Errant? I am not! I am a Celestia-damne
 ### 04-16
 
 I guess Creek will be mad if I don't do this in her place. We are taking off to the north tomorrow, what cap Sindula called the third corner, and leaving my girls with Wind's aunt. Wouldn't you hear how much they want to come with us, poor things. Silver even tried to sneak back to us, and little Cyp was trying not to cry. Made em promise to try finding a starcaster like the fish told us, to keep them bussy.
-
-
-
-----------
-[^Cir]: This seems to mean either a <s>grif</s> gryphon mage or leader, or just a very respected gryphon.

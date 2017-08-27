@@ -63,11 +63,11 @@ While the last segment is harder to understand in the original telling of the st
 
 ![](Images/Creatures/Slug.svg)
 
-The <u>Gar<s>y</s>ey Larey</u> (Stardom), also known as <u>╰╕┈╾</u> to moonlets or as "Star slug" to commoners, is a creature sighted a number of times around or close to the docks of Landly, recognized for the blue glow which it emits.
+Garey Larey -named after the monster of an old children's tale which might itself be related to this creature- is a creature that until recently assumed to be mere tale and thus shunned from written word. However, a spotting by our Lord Umberto's entourage has proven beyond any doubt that Garey is, as a mater of fact, a real creature.
 
-It's body is similar to that of a snake or a slug, although it reflects light poorly, and is mostly noticeable because of two veins running at each of it's sides, both glowing with a blue shine that is starkingly similar to that of a starcaster. It's face, described as a mask by some, doesn't seem to display 
+It's body is similar to that of a snake or a slug, although it reflects light poorly, and is mostly noticeable because of two veins running at each of it's sides, both glowing with a blue shine that is described strikingly similar to that of a starcaster. It's face is usually described as rigid and glimmering, which has led some to assume it's a mask. 
 
-------------
+
 
 ------------
 [^SBDed]: The exact nature is a contention point, as there are at least a dozen heroes to claim having done it. A common but unfunded interpretation of this is that there were at least a dozen <u>Scolous</u>.
