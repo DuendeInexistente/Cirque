@@ -59,15 +59,24 @@ The third story relates to <u>Pisces</u> more closely, and is about it's attempt
 
 While the last segment is harder to understand in the original telling of the story, it proposes a key trait of <u>Pisces</u> which is only implied in other stories, the many levels at which it's role as messenger work. Other parts reinforce this concept; Even after it's <u>Riveros</u> and <u>Sunpo</u> that earn the new belly, it's Pisces that transports it. And <u>Pisces</u>' intent in his initial deceit -saying that it couldn't be the one to ask for the belly- was from the beginning to convey a message to the <u>moon lady</u> which ultimately leads to her rebirth. This, interestingly enough, contrasts with a pervading contradiction in Duda culture-- Their antipathy to the idea that if you remain in your assigned station, everything will be fine.
 
-### Garey Larey
-
 ![](Images/Creatures/Slug.svg)
-
-Garey Larey -named after the monster of an old children's tale which might itself be related to this creature- is a creature that until recently assumed to be mere tale and thus shunned from written word. However, a spotting by our Lord Umberto's entourage has proven beyond any doubt that Garey is, as a mater of fact, a real creature.
+<font style="opacity:.2">Garey Larey -named after the monster of an old children's tale which might itself be related to this creature- is a creature that until recently assumed to be mere tale and thus shunned from written word. However, a spotting by our Lord Umberto's entourage has proven beyond any doubt that Garey is, as a mater of fact, a real creature.
 
 It's body is similar to that of a snake or a slug, although it reflects light poorly, and is mostly noticeable because of two veins running at each of it's sides, both glowing with a blue shine that is described strikingly similar to that of a starcaster. It's face is usually described as rigid and glimmering, which has led some to assume it's a mask. 
 
+Alegadly the Garey Larey is connected in some way to the nightstars, as either an aspect or messenger. In some stories, it's instead described as a starcaster who commited a depicable enough crime for her patron star to deliver such a punishment as removing it's ability to communicate or express any emotions. Other stories -these corroborated by what all the time was assumed to be drunken navigators- describe it to have control over water similar to telekinesis, prefaced by movement from the limbs that hang off the sides of it's neck. The stories all give a clear warning-- While the Garey rarely reacts to someone swiming to it, approaching it with a ship is ill advised.</font>
 
+### Cipazotl
+
+![](Images/Creatures/Cipazotl.svg)
+
+The <u>Cipazotl</u> is a creature resembling vaguely a snake, with reddened and scaleless flesh which has been described as reddened as to seem infected. While it hasn't been sighted in recent times, it's appearance in several unrelated mythologies can be argued as a proof of it's existence. 
+
+The earliest account is in the early siren culture, in which it's a recurring demon attempting to overthrow their dominion. Curiously enough, in this story it seems somewhat sympathetic to ponies- Although this could be reasoned, in light of later actions, as simple drive to topple the largest, most stable paragon of society at the time. It's last appearance in their history is when *"Six sirens of royal blood parlayed, and from their words sprung unity. With their unity were forged six crowns, with which the demon in red was banished."* The crowns are very probably the same crowns with which their empire lasted several centuries until they were supposedly stolen by the <u>queen-of-tides</u>, whose fate is uncertain.
+
+At least a century passes after the sirens' fall before the <u>Cipazotl</u> appear in the midst of the *Duda-Moonlet Nascence War*, attacking the three fronts mercilessly. It was critically defeated after the eleventh such involvement in the battles, when Moonlets and Dudas staged preparation for a battle in order to lure it in. This is maybe the first case in which the <u>Cipazotl</u> is wounded gravely, being hit simultaneously by at least a twenty separate cannons operated by Dudas of the Rare design line and being forced to retreat in otder to heal. Notably, three moonlets were caught on the impact and two and swallowed some blood off the creature, both dying shortly after from acute poisoning.
+
+The next and last period in which it appears is approximately six centuries ago, during the *Guevara war*. In this case the beast appeared as before- Striking both noble and uprising forces with equal cruelty. Griffons, the starters of the uprising, suffered the worst part of it when their stolen warship the *Amadeus* was sank by this creature. It proved to be a double edged sword, however, when the self-entitled captain of the ship caused all explosives in the ship to detonate, possibly killing the creature in the process.
 
 ------------
 [^SBDed]: The exact nature is a contention point, as there are at least a dozen heroes to claim having done it. A common but unfunded interpretation of this is that there were at least a dozen <u>Scolous</u>.
