@@ -3,9 +3,9 @@
 ### Sun Bird
 ![](Images/Creatures/Phoenix.svg)
 
-The <u>sun bird</u>,called is a mythological creature appearing and dying multiple times in history, from which can be safely assumed that there's multiple instances of it. Other assumptions take it as an aspect or servant of the Big Brother that cannot be destroyed, early Duda mythology going as far as entitling it a messenger. In all instances it seems to have a modicum of control over all fire near it, and the ability to produce heat in a very short area around it's body.
+The <u>sun bird</u>,called is a mythological creature appearing and dying multiple times in history, from which can be safely assumed that there's multiple instances of it. Other assumptions take it as an aspect or servant of the Big Brother that cannot be destroyed, early siren mythology going as far as entitling it a messenger. In all instances it seems to have a modicum of control over all fire near it, and the ability to produce heat in a very short area around it's body.
 
-"<u>╙╤╕</u>" in Moonlet singsong and pronounced as "<u>Scolou ndo</u>" by Dudas, the <u>Scolou</u> is the oldest known instance. It's name translates very loosely to "Sundering", which reflects it's status as an agent of merciless renovation or, in some translation, destructive chaos. The two mythological cycles in which it's most prominent both relate the destruction of civilizations which have grown arrogant and complacent.
+"<u>╙╤╕</u>" in Moonlet singsong and pronounced as "<u>Scolou ndo</u>" by Dudas, the <u>Scolou</u> is the oldest known prominent instance. It's name translates very loosely to "Sundering", which reflects it's status as an agent of merciless renovation or, in some translations, destructive chaos. The two mythological cycles in which it's most prominent both relate the destruction of civilizations which have grown arrogant and complacent.
 
 Shortly after it's death in Duda/Moonlet mythology[^SBDed], <u>"Nt nde ghe"</u> appears to griffons *"Carrying a message // In it's passage // And naught did it // But deem us misfit"*. This is immediately followed by a series of calamities that only ends after the griffonic hero *Gilgamesh* confronts and kills it. Like in the previous instance here it burns itself to ashes, possibly as a sort of ritualistic suicide to conserve it's honor.
 
@@ -15,7 +15,7 @@ The queen *"Remained still, in front of a destroyer who was not destroying, and 
 
 <u>Ruith</u> remained by her side for several decades as either a friend or a pet -It was a point of contention between the few narrators who wrote the history of this period- and during this time is described as joking and openly manipulative, finding mirth in tricking ponies who mistook it for mere animal and often ridiculing members of the court; all of this to Queen Scheherazade's unmasked amusement.
 
-This lasts at least *"Ten tens of years, then half again as much"*, past two wars and five husbands. At this point the <u>sun bird</u> is -for the sole time in all tenable accounts- suffering from age, losing it's feathers and refusing to eat. As a last act, rather than dying of age, it again immolates itself to ashes.
+This lasts at least *"Ten tens of years, then half again as much"*, or a hundred and fifty years past two wars and five husbands. At this point the <u>sun bird</u> is -for the sole time in all tenable accounts- suffering from age; losing it's feathers and refusing to eat. As a last act, rather than dying of age, it again immolates itself to ashes.
 
 The queen *"Spread his ashes to the sea with great gravity, her face an unreadable rictus, and jumped to the waters herself."* She was not found after this, and is presumed to have drowned.
 
@@ -76,19 +76,25 @@ The earliest account is in the early siren culture, in which it's a recurring de
 
 At least a century passes after the sirens' fall before the <u>Cipazotl</u> appear in the midst of the *Duda-Moonlet Nascence War*, attacking the three fronts mercilessly. It was critically defeated after the eleventh such involvement in the battles, when Moonlets and Dudas staged preparation for a battle in order to lure it in. This is maybe the first case in which the <u>Cipazotl</u> is wounded gravely, being hit simultaneously by at least a twenty separate cannons operated by Dudas of the Rare design line and being forced to retreat in otder to heal. Notably, three moonlets were caught on the impact and two and swallowed some blood off the creature, both dying shortly after from acute poisoning.
 
-The next and last period in which it appears is approximately six centuries ago, during the *Guevara war*. In this case the beast appeared as before- Striking both noble and uprising forces with equal cruelty. Griffons, the starters of the uprising, suffered the worst part of it when their stolen warship the *Amadeus* was sank by this creature. It proved to be a double edged sword, however, when the self-entitled captain of the ship caused all explosives in the ship to detonate, possibly killing the creature in the process.
+After this, it appears occasionally in unreliable and unverifiable stories by sailors, meaning that it might have been active but cautious.
+
+The next and last period in which it appears prominently is approximately six centuries ago, during the *Guevara war*. In this case the beast appeared as before- Striking both noble and uprising forces with equal cruelty. Griffons, the starters of the uprising, suffered the worst part of it when their stolen warship the *Amadeus* was sank by this creature. It proved to be a double edged sword, however, when the self-entitled captain of the ship caused all explosives in the ship to detonate, possibly killing the creature in the process.
 
 ------------
 [^SBDed]: The exact nature is a contention point, as there are at least a dozen heroes to claim having done it. A common but unfunded interpretation of this is that there were at least a dozen <u>Scolous</u>.
 
 [^Alba]: One of the first in recorded history.
 
-[^Jump]: Some untranslatable word choices to describe the water seem to imply they are at the second corner of the world at this point.
-
-[^sun]: It's unknown if this is somehow related to the already described sun-bird.
-
-[^MoonLady]: The name moonlets and dudas give to the big brother.
 
 [^numbers]: It's noteworthy that both three and six are important in early Moonlet-Duda cultures: By their mythological accounts their creators '*Made Dudas to think in threes so that they may have wit, and Moonlets in sixes so that they may be swift.*'
 
+[^MoonLady]: The name moonlets and dudas give to the big brother.
+
+[^sun]: It's unknown if this is somehow related to the already described sun-bird.
+
 [^SunLord]: Known to us as <u>Big Sister</u>
+
+[^Jump]: Some untranslatable word choices to describe the water seem to imply they are at the second corner of the world at this point.
+
+
+

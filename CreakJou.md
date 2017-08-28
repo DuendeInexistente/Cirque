@@ -199,3 +199,25 @@ And what does he think I am!? His Knight Errant? I am not! I am a Celestia-damne
 ### 04-16
 
 I guess Creek will be mad if I don't do this in her place. We are taking off to the north tomorrow, what cap Sindula called the third corner, and leaving my girls with Wind's aunt. Wouldn't you hear how much they want to come with us, poor things. Silver even tried to sneak back to us, and little Cyp was trying not to cry. Made em promise to try finding a starcaster like the fish told us, to keep them bussy.
+
+### 04 - 20
+
+I hate that griffon.
+
+I hate it so goddamn much. I hate this all. I hate being pushed into a higher purpose I care none for. What am I, a school filly to be pushed? I left Canterlot to avoid exactly that.
+
+###  04 - 23
+
+As it so happens, the north is frozen.
+
+Big effing surprise. Who'd thunk it.
+
+Seeing as we'll have to circle around the entire damn Nikkal Storm, it might be over a year before we see the girls again. I don't even know if we have the money to get there, let alone buy all we'll need in ice plains; All I know is, I might have to sell my journals of all things after the books were stolen.
+
+I'll try to sell my journals from Equestria first.
+
+------------
+
+I want to go south. I don't want to do what that bastard tells me to. I don't want to feel like a confused filly again. If it was up to me, I'd do just the opposite of what he tells me to, but then I'd be too easy to manipulate, wouldn't I? Better to be more subtle. To creatively misinterpret. To read the implied subtext and subvert it, and by doing that to go back home without doing any of what he wants me to.
+
+Better to be like a cleverer character than I am myself, in short.

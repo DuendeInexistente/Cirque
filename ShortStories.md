@@ -3,7 +3,7 @@
 
 Water flows.
 
-Fish swim under my shack, some of them chasing other ones.m— long, flexible, an eel dashes like a clay arrow after a carp, itself chased by a foal-sized, dense mass… an urban dolphin. The threefold hunt whirls like circles of light within my awareness of the water—
+Fish swim under my shack, some of them chasing other ones— long, flexible, an eel dashes like a clay arrow after a carp, itself chased by a foal-sized, dense mass… an urban dolphin. The threefold hunt whirls like circles of light within my awareness of the water—
 
 Big.
 
@@ -239,7 +239,7 @@ Leaf didn't answer, only blushing deeply.
 
  "I knew you wouldn't." She pulled him into a clumsy hug. "You are a good friend, Leaf."
 
-The physical contact felt awkward after the small revelation, but Leaf forced himself to relax and, against his expectations, found it soothing, "Thanks."
+The physical contact felt awkward after the revelation, but Leaf forced himself to relax and, against his expectations, found it soothing, "Thanks."
 
  "You'll get back home." She said.
 
@@ -249,7 +249,7 @@ The physical contact felt awkward after the small revelation, but Leaf forced hi
 
 The awkwardness returned.
 
- "She's got the physique, Now she'd only need subtlety." She wandered off another drunken tangent. "And maybe a wardrobe too."
+ "She's got the physique, now she'd only need subtlety." She wandered off another drunken tangent. "And maybe a wardrobe too."
 
 The mental image Leaf got wasn't unpleasant, but it wasn't one he felt comfortable with either.
 
