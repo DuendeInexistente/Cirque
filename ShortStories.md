@@ -217,7 +217,7 @@ A door opened somewhere else in the house-- Cas' house, actually, so it wasn't h
 
  "Really?"
 
- "Hard to when moonlighting." She rolled her eyes. "But it's the way things work."
+ "Hard to when moonlighting." She rolled her eyes. "So dark, but it's the way things work."
 
  "Uh." 
 
