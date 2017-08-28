@@ -160,7 +160,7 @@ Nitzan returned, carrying a tied stallion.
 
 ---
 
-The doors of the restaurant opened with a bang. The patrons looked at the newcomer with a mix of emotions, then relaxed. Only the owner.
+The doors of the restaurant opened with a bang. The patrons looked at the newcomer with a mix of emotions, then relaxed. Just the owner.
 
 Nitzan looked away from the griffon she was talking with, "Far away?" She asked curiously. He wasn't due for another day.
 
@@ -217,7 +217,7 @@ A door opened somewhere else in the house-- Cas' house, actually, so it wasn't h
 
  "Really?"
 
- "Always somewhere dark and at night" She rolled her eyes. "But it's the way things work."
+ "Hard to when moonlighting." She rolled her eyes. "But it's the way things work."
 
  "Uh." 
 
