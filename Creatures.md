@@ -3,7 +3,7 @@
 ### Sun Bird
 ![](Images/Creatures/Phoenix.svg)
 
-The <u>sun bird</u>,called is a mythological creature appearing and dying multiple times in history, from which can be safely assumed that there's multiple instances of it. Other assumptions take it as an aspect or servant of the Big Brother that cannot be destroyed, early siren mythology going as far as entitling it a messenger. In all instances it seems to have a modicum of control over all fire near it, and the ability to produce heat in a very short area around it's body.
+The <u>sun bird</u> is a mythological creature appearing and dying multiple times in history, from which can be safely assumed that there's multiple instances of it. Other assumptions take it as an aspect or servant of the Big Brother that cannot be destroyed, early siren mythology going as far as entitling it a messenger. In all instances it seems to have a modicum of control over all fire near it, and the ability to produce heat in a very short area around it's body.
 
 "<u>╙╤╕</u>" in Moonlet singsong and pronounced as "<u>Scolou ndo</u>" by Dudas, the <u>Scolou</u> is the oldest known prominent instance. It's name translates very loosely to "Sundering", which reflects it's status as an agent of merciless renovation or, in some translations, destructive chaos. The two mythological cycles in which it's most prominent both relate the destruction of civilizations which have grown arrogant and complacent.
 
