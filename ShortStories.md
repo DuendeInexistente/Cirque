@@ -1,5 +1,5 @@
 # Flow.
-### (And how it might betray you)
+**(And how it might betray you)**
 
 Water flows.
 
@@ -90,7 +90,7 @@ Water flows.
 ----------
 
 # Grief 
-### (A possible outcome, years down the road)
+**(A possible outcome, years down the road)**
 
 Natan entered the kitchen and, before even being fully aware of what was happening, took the spear tip off Leaf's hooves. His recently bent leg nearly made him lose balance.
 
@@ -185,7 +185,7 @@ Natan turned around and asked the patrons to return later, reimbursing their ord
 ----------
 
 # It's only natural.
-### (Of a grown up to have some needs)
+**(Of a grown up to have some needs)**
 
 Leaf swung her tail splashing, hot water around the bathroom, and searched around blindly for a towel. *Say what you may about the sea*, he thought, *but at least the towels are great. And they all smell of Cinnamon for some reason.* No shampoo, though. And he didn't trust what was used around these parts.
 
