@@ -209,7 +209,7 @@ A door opened somewhere else in the house-- Cas' house, actually, so it wasn't h
 
  "How do you know I am not the wrong guy?"
 
- "Leaf, I am good at judging ponies. I got to be."
+ "Leaf, I am good at judging ponies."
 
  "Er, how so?" He asked, backed into a literal corner and hoping to stall her.
 
@@ -217,13 +217,13 @@ A door opened somewhere else in the house-- Cas' house, actually, so it wasn't h
 
  "Really?"
 
- "Hard to when moonlighting." She rolled her eyes. "So dark, but it's the way things work."
+ "It's hard to when moonlighting." She rolled her eyes. "So dark, but it's the way things work."
 
  "Uh." 
 
  "Not as many mares as you'd think." She seemed confused by this.
 
- "Cas?" Said Leaf, realizing that she hadn't even mentioned working before.
+ "Cas?" Said Leaf, realizing that she hadn't even mentioned having a job before.
 
  "You know what do I want to do?" Asked Cas, "Do it on the day too."
 
@@ -239,13 +239,13 @@ Leaf didn't answer, only blushing deeply.
 
  "I knew you wouldn't." She pulled him into a clumsy hug. "You are a good friend, Leaf."
 
-The physical contact felt awkward after the revelation, but Leaf forced himself to relax and, against his expectations, found it soothing, "Thanks."
+The physical contact felt awkward after the revelation, but Leaf forced himself to relax and, against his expectations, found it soothing.
 
- "You'll get back home." She said.
+ "You'll get back home." She added.
 
  "Thanks."
 
- "You know what, your friend'd be good at it too."
+ "You know what, you and your friend'd be good at it too."
 
 The awkwardness returned.
 
@@ -259,4 +259,4 @@ The mental image Leaf got wasn't unpleasant, but it wasn't one he felt comfortab
 
  "See you later." She walked off the bathroom unfazed.
 
-Leaf walked home, trying unsuccessfully not to imagine Cas and Sea in scant clothing.
+On his way home, trying unsuccessfully not to imagine Cas and Sea in scant clothing.
