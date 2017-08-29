@@ -1,5 +1,6 @@
-# Flow.
-**(And how it might betray you)**
+## Flow.
+
+**\(And how it might betray you\)**
 
 Water flows.
 
@@ -13,19 +14,19 @@ Squid, not the prey I still crave for, and probably made poisonous by the city. 
 
 Water flows.
 
- "You seem nervous." Comes the duda's, Natan's, voice from near Far away… maybe. The reverberation in his voice makes it harder to tell where he is, as with all of his kind.
+"You seem nervous." Comes the duda's, Natan's, voice from near Far away… maybe. The reverberation in his voice makes it harder to tell where he is, as with all of his kind.
 
 I open my mouth.
 
- "What a surprise." Says the small duda that follows Natan around. It seems to assume none of us understand it.
+"What a surprise." Says the small duda that follows Natan around. It seems to assume none of us understand it.
 
 I remain silent. No sense in echoing it.
 
- "What did she say?" Asks the star, whatever it is. 
+"What did she say?" Asks the star, whatever it is.
 
- "Just a joke." Says Natan, avid to avoid the topic. "Leaf?"
+"Just a joke." Says Natan, avid to avoid the topic. "Leaf?"
 
- "Just Uhm, still getting used to it." He taps something heavy and wet, probably my shark.
+"Just Uhm, still getting used to it." He taps something heavy and wet, probably my shark.
 
 Why does Natan avoid translating what the other one says? Why does it avoid each of the star's questions on the topic? Is it interested in keeping the small duda separated from everyone else?
 
@@ -35,21 +36,21 @@ But what does the duda value enough to die for? The little one? Is the isolation
 
 Isolation doesn't protect. Isolation stunts.
 
-And the star, is she still angry over the bet? Am I supposed to do something about that, is everybody expecting that from me? Is it not enough that I gave her the prize I earned?  
+And the star, is she still angry over the bet? Am I supposed to do something about that, is everybody expecting that from me? Is it not enough that I gave her the prize I earned?
 
 Water flows.
 
-  "Sea?" Asks Far away nervously, a soft sound of brushing I still haven't identified coming from the grass under him. "I know you hunted it and all, but…"
+"Sea?" Asks Far away nervously, a soft sound of brushing I still haven't identified coming from the grass under him. "I know you hunted it and all, but…"
 
- "Get to it."
+"Get to it."
 
- "Can you, er," Just how can this stallion add nervous pauses to everything? And I thought he was improving. "Cut it?"
+"Can you, er," Just how can this stallion add nervous pauses to everything? And I thought he was improving. "Cut it?"
 
- "Cut it."
+"Cut it."
 
- "I think he means butchering." Adds Natan.
+"I think he means butchering." Adds Natan.
 
-  "That makes me think of movie killers." Says Leaf under his breath, and I decide to ignore the comment. Is it some sort of praise? Or something underhanded?
+"That makes me think of movie killers." Says Leaf under his breath, and I decide to ignore the comment. Is it some sort of praise? Or something underhanded?
 
 Nah, he doesn't have it to be underhanded.
 
@@ -67,7 +68,7 @@ It's not trying to attack and it whimpers, with a voice that's too complex to be
 
 A siren?
 
- "Sea!" Says the star.
+"Sea!" Says the star.
 
 No blood comes off the wound, which didn't penetrate past the scales anyway. Only trembling.
 
@@ -75,7 +76,7 @@ Water flows.
 
 I take the knife off her neck and spit it to my hoof to talk, "you aren't prey." I say, mildly peeved but hoping it'll convey  my lack of interest in hunting her now. It's always irritating when people cowers around me.
 
- "Sea!" Says Leaf. No, he squeaks it. A little choked would-be shout.
+"Sea!" Says Leaf. No, he squeaks it. A little choked would-be shout.
 
 Is he only reacting now?
 
@@ -83,14 +84,15 @@ I return to butchering quietly… once I find the shark again. The sudden moveme
 
 Water flows.
 
-----------
+---
 
-----------
+---
 
-----------
+---
 
-# Grief 
-**(A possible outcome, years down the road)**
+## Grief
+
+**\(A possible outcome, years down the road\)**
 
 Natan entered the kitchen and, before even being fully aware of what was happening, took the spear tip off Leaf's hooves. His recently bent leg nearly made him lose balance.
 
@@ -152,7 +154,7 @@ Natan put a hand on his shoulder.
 
 Natan tightened his grip, "it's not."
 
- "You don't know that."
+"You don't know that."
 
 Nitzan returned, carrying a tied stallion.
 
@@ -174,89 +176,91 @@ He stopped talking, some clarity shining in his eyes, and walked to Natan at the
 
 Nitzan talked, the griffon forgotten. "Where's Sea?"
 
- "She'd say, 'Why should they care.'" Leaf ignored her. "Not even ask it. Just say it."
+"She'd say, 'Why should they care.'" Leaf ignored her. "Not even ask it. Just say it."
 
 Natan turned around and asked the patrons to return later, reimbursing their orders. The musicians didn't need to be told to stop playing. It wasn't a night for business.
 
-----------
+---
 
-----------
+---
 
-----------
+---
 
-# It's only natural.
-**(Of a grown up to have some needs)**
+## It's only natural.
 
-Leaf swung her tail splashing, hot water around the bathroom, and searched around blindly for a towel. *Say what you may about the sea*, he thought, *but at least the towels are great. And they all smell of Cinnamon for some reason.* No shampoo, though. And he didn't trust what was used around these parts.
+**\(Of a grown up to have some needs\)**
+
+Leaf swung her tail splashing, hot water around the bathroom, and searched around blindly for a towel. _Say what you may about the sea_, he thought, _but at least the towels are great. And they all smell of Cinnamon for some reason._ No shampoo, though. And he didn't trust what was used around these parts.
 
 A door opened somewhere else in the house-- Cas' house, actually, so it wasn't hard to guess who it was. Then the bathroom door opened, which was only so surprising seeing as how this was Cas of all mares.
 
- "Thanks for letting me use it," He said shyly, sliding away from the her. Cas was back home, and not quite sober from the way she walked. "I--"
+"Thanks for letting me use it," He said shyly, sliding away from the her. Cas was back home, and not quite sober from the way she walked. "I--"
 
- "What if," She stopped talking for a split second, "What if you thank me more directly."
+"What if," She stopped talking for a split second, "What if you thank me more directly."
 
- "Cas, please." Leaf repeated the phrase that was starting to turn into a mantra when near her. "You are drunk."
+"Cas, please." Leaf repeated the phrase that was starting to turn into a mantra when near her. "You are drunk."
 
- "Only a little spiked." She said pleasantly.
+"Only a little spiked." She said pleasantly.
 
- "Don't you think this is a little sudden?" His flanks hit a corner of the room. "Don't you think all of your, uhm--"
+"Don't you think this is a little sudden?" His flanks hit a corner of the room. "Don't you think all of your, uhm--"
 
- "Crush?" She offered.
+"Crush?" She offered.
 
- "Don't you think it was kinda fast from you?"
+"Don't you think it was kinda fast from you?"
 
- "Maaaybe?" She singsonged, but stopped advancing to him.
+"Maaaybe?" She singsonged, but stopped advancing to him.
 
- "How do you know I am not the wrong guy?"
+"How do you know I am not the wrong guy?"
 
- "Leaf, I am good at judging ponies."
+"Leaf, I am good at judging ponies."
 
- "Er, how so?" He asked, backed into a literal corner and hoping to stall her.
+"Er, how so?" He asked, backed into a literal corner and hoping to stall her.
 
- "Oh, my job, my job…" She rolled her eyes, "I have to tell if a pony's dangerous the moment I see them."
+"Oh, my job, my job…" She rolled her eyes, "I have to tell if a pony's dangerous the moment I see them."
 
- "Really?"
+"Really?"
 
- "It's hard to when moonlighting." She rolled her eyes. "So dark, but it's the way things work."
+"It's hard to when moonlighting." She rolled her eyes. "So dark, but it's the way things work."
 
- "Uh." 
+"Uh."
 
- "Not as many mares as you'd think." She seemed confused by this.
+"Not as many mares as you'd think." She seemed confused by this.
 
- "Cas?" Said Leaf, realizing that she hadn't even mentioned having a job before.
+"Cas?" Said Leaf, realizing that she hadn't even mentioned having a job before.
 
- "You know what do I want to do?" Asked Cas, "Do it on the day too."
+"You know what do I want to do?" Asked Cas, "Do it on the day too."
 
- "On the day?" He couldn't help asking.
+"On the day?" He couldn't help asking.
 
- "Where everyone can see it." She said, still talking pleasantly, then hiccuped. "It'd be so… So daring."
+"Where everyone can see it." She said, still talking pleasantly, then hiccuped. "It'd be so… So daring."
 
 Leaf didn't answer, only blushing deeply.
 
- "Are you okay?" She asked, as if remembering that he was there at all.
+"Are you okay?" She asked, as if remembering that he was there at all.
 
- "It'sOkayIWon'tJudge." He said without thinking.
+"It'sOkayIWon'tJudge." He said without thinking.
 
- "I knew you wouldn't." She pulled him into a clumsy hug. "You are a good friend, Leaf."
+"I knew you wouldn't." She pulled him into a clumsy hug. "You are a good friend, Leaf."
 
 The physical contact felt awkward after the revelation, but Leaf forced himself to relax and, against his expectations, found it soothing.
 
- "You'll get back home." She added.
+"You'll get back home." She added.
 
- "Thanks."
+"Thanks."
 
- "You know what, you and your friend'd be good at it too."
+"You know what, you and your friend'd be good at it too."
 
 The awkwardness returned.
 
- "She's got the physique, now she'd only need subtlety." She wandered off another drunken tangent. "And maybe a wardrobe too."
+"She's got the physique, now she'd only need subtlety." She wandered off another drunken tangent. "And maybe a wardrobe too."
 
 The mental image Leaf got wasn't unpleasant, but it wasn't one he felt comfortable with either.
 
- "Will you stay for dinner?" Asked Cas. "Have I tasted your cooking yet?" She paused for effect, eyes lidded. "I'd also like your co--"
+"Will you stay for dinner?" Asked Cas. "Have I tasted your cooking yet?" She paused for effect, eyes lidded. "I'd also like your co--"
 
- "I got to go." He said suddenly, surprised by it himself. "I er got to practice and, uh, to practice."
+"I got to go." He said suddenly, surprised by it himself. "I er got to practice and, uh, to practice."
 
- "See you later." She walked off the bathroom unfazed.
+"See you later." She walked off the bathroom unfazed.
 
 On his way home, Leaf tried not to think of Cas and Sea in scant clothing. He gave up on it after a few streets.
+
