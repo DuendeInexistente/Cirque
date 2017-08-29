@@ -1,4 +1,4 @@
-### 01 - 5
+## 01 - 5
 
 Ahoy! Onwards and updwards!
 
@@ -24,12 +24,12 @@ Your turn, Cyp.
 
 <font face="Tahoma" size="2rem">Same thing.</font>
 
-### 03 - 2 
+## 03 - 2 
 
 Eureka! All the lock needed was some heating.
 It's surprising that this place still holds in a piece after so long. The bronze-and-glass hallways are nothing less than beautiful, if crearly damaged by age, and this place might very well still be inhabited... Some rooms seem to have water damage without any leaks, verdigris patches on the ground, and others have signs of welding. A room, had a pool filled with blackwater-- A sure sign of Dudas as was the fact that there wasn't anything to alleviate the smell or keep it from spreading. Cypress already blocked that door with some paste, which Sliver called it a waste of flour, but now that room doesn't make all surrounding areas unbearable.
 
-### 03 - 3
+## 03 - 3
 
 Another day without the team finding anyone. Sliver is as impatient as ever, buggering Whisper to go explore with her. 
 
@@ -54,7 +54,7 @@ We just returned from what we decided was, to Sliver's chagrin, our first and la
 
 [![](/Images/FoldedPaper.svg)](/Images/Duda/DudaruinsMap.svg)
 
-### 03 - 7
+## 03 - 7
 
 The orrery is operational! I was so convinced something had to be broken it took Cypress playing a prank for me to see that it wasn't. Bless that girl! Bless her disobedience!
 
@@ -66,7 +66,7 @@ And, thankfully, I found the connection I was hoping for. There *is* an alignmen
 
 Now I only need to actually find a <s>star cast</s> starcaster, if they even exist.
 
-### 03 - 10
+## 03 - 10
 
 We've decided to return to civilization for a while to restock and avoid getting cabin fever again. Sindula's ship will take off in the morn, and Whisper and me will follow as soon as we are done copying some of the engravings with carbon paper.
 
@@ -74,7 +74,7 @@ We've decided to return to civilization for a while to restock and avoid getting
 
 [![](/Images/FoldedPaper.svg)](/Images/Duda/Engravings.svg)
 
-### 03 - 15
+## 03 - 15
 
 I found the tall mare Whisper heard about. She really is beautiful: Wings that wouldn't be out of place in Equestria, supple flanks, a flamboyant personality and a nice shade of pink on her mane. I don't think this mare laughs at jokes as much as she laughs at the merry and nonsense of life itself, using jokes a welcome a welcome excuse for it. And, and this is the most curious part, she reminds me of Celestia.
 
@@ -84,7 +84,7 @@ She seemed offended that I'd do such a thing, strangely enough: "Paper cannot co
 
 Still I will copy it as best I can:
 
-#### THE STORY THAT WASN'T, OF THE MARE IN THE MOON
+### THE STORY THAT WASN'T, OF THE MARE IN THE MOON
 
 A long time ago Quesque, a bad Cir[*This seems to mean either a <s>grif</s> gryphon mage or leader, or just a very respected gryphon.*], grew bitter on his lighthouse.
 
@@ -140,7 +140,7 @@ They saw the beauty of the world, and it's ugliness as well. They saw myst and m
 
 How she sang! How she laughed! Each time she did she was more beautiful, alight with a shine that not even divinity could give. And in her happiness, she found home. She and her six sisters returned to the sky, knowing that they could come back, for they were no longer lost, and the light of the moon became ever more shinning, ever more sublime.
 
-### 04 - 10
+## 04 - 10
 
 Today we arrived to our first whale city. Both me and Whisper have tried to draw it, but neither of us is an artist.
 
@@ -158,7 +158,7 @@ Whalian houses are perhaps the most stark difference. Gone are the arches and op
 
 I can understand the reasoning completely, after having had to chase after the chair I forgot outside, and after the wind tore off a page off this very journal. I can understand why are these pegasi so wary and careful of everything, and why, living in the sky, they spend most of the time inside. It still saddens me deeply.
 
-### 04 - 13
+## 04 - 13
 
 Normally I shy away from writing so early. It affects my writing badly, makes more more rambling than usual: Even, and I quote my mother in this, more purple than Twilight Sparkle.
 
@@ -186,27 +186,27 @@ A machine of purpose. That's the word. He has truly abandoned all that made him 
 
 I must sleep. The kids will make next morning busy.
 
-### 04 - 15
+## 04 - 15
 
 The moon! How am I supposed to do that!? That gryphon must be crazy! I knew dreaming about him had to mean something... I told him as much, and he only laughed- A deep bass laugher that, in another time and world, I would've found lovely.
 
 By Celestia, I will kill him one of these days. Just stab him right on the gut he doesn't have.
 
-### 04 - 16
+## 04 - 16
 
 And what does he think I am!? His Knight Errant? I am not! I am a Celestia-damned writer!
 
-### 04-16
+## 04-16
 
 I guess Creek will be mad if I don't do this in her place. We are taking off to the north tomorrow, what cap Sindula called the third corner, and leaving my girls with Wind's aunt. Wouldn't you hear how much they want to come with us, poor things. Silver even tried to sneak back to us, and little Cyp was trying not to cry. Made em promise to try finding a starcaster like the fish told us, to keep them bussy.
 
-### 04 - 20
+## 04 - 20
 
 I hate that griffon.
 
 I hate it so goddamn much. I hate this all. I hate being pushed into a higher purpose I care none for. What am I, a school filly to be pushed? I left Canterlot to avoid exactly that.
 
-###  04 - 23
+##  04 - 23
 
 As it so happens, the north is frozen.
 
