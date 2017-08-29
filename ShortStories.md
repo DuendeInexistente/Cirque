@@ -259,4 +259,4 @@ The mental image Leaf got wasn't unpleasant, but it wasn't one he felt comfortab
 
  "See you later." She walked off the bathroom unfazed.
 
-On his way home, trying unsuccessfully not to imagine Cas and Sea in scant clothing.
+On his way home, Leaf tried not to think of Cas and Sea in scant clothing. He gave up on it after a few streets.
