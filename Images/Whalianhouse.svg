@@ -15,7 +15,7 @@
    version="1.1"
    id="svg8"
    inkscape:version="0.92.1 r15371"
-   sodipodi:docname="Whalian house.svg">
+   sodipodi:docname="Whalianhouse.svg">
   <defs
      id="defs2" />
   <sodipodi:namedview
@@ -25,11 +25,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.49497475"
-     inkscape:cx="582.5124"
-     inkscape:cy="248.83812"
+     inkscape:zoom="0.35"
+     inkscape:cx="332.94567"
+     inkscape:cy="186.89097"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="layer3"
      showgrid="false"
      fit-margin-top="0"
      fit-margin-left="0"
@@ -48,10 +48,22 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="Layer 2">
+    <rect
+       style="opacity:0.98000004;fill:#ffffff;fill-opacity:0.27522936;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect8357"
+       width="229.05357"
+       height="145.14285"
+       x="-0.75595242"
+       y="-0.068985485" />
+  </g>
   <g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"

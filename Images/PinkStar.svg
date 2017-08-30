@@ -15,7 +15,7 @@
    version="1.1"
    id="svg421"
    inkscape:version="0.92.1 r15371"
-   sodipodi:docname="Pink star.svg">
+   sodipodi:docname="PinkStar.svg">
   <defs
      id="defs415" />
   <sodipodi:namedview
@@ -26,10 +26,10 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.35"
-     inkscape:cx="717.54347"
-     inkscape:cy="376.96711"
+     inkscape:cx="764.76631"
+     inkscape:cy="66.804237"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="layer10"
      showgrid="false"
      inkscape:window-width="1024"
      inkscape:window-height="714"
@@ -48,10 +48,22 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer10"
+     inkscape:label="Layer 3">
+    <rect
+       style="opacity:0.98000004;fill:#ffffff;fill-opacity:0.27000002;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.56499994;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.49500002"
+       id="rect7910"
+       width="394.60715"
+       height="276.67856"
+       x="1.5119048"
+       y="2.7591701" />
+  </g>
   <g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
