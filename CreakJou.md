@@ -208,7 +208,7 @@ I hate it so goddamn much. I hate this all. I hate being pushed into a higher pu
 
 ##  04 - 23
 
-As it so happens, the north is frozen. <u>**W**</u>h<u>**o**'d thunk it.
+As it so happens, the north is frozen. <u>**W**</u>h<u>**o**</u>'d thunk it.
 
 Big effing su<u>**r**</u>prise. 
 
