@@ -208,11 +208,11 @@ I hate it so goddamn much. I hate this all. I hate being pushed into a higher pu
 
 ##  04 - 23
 
-As it so happens, the north is frozen.
+As it so happens, the north is frozen. **W**h**o**'d thunk it.
 
-Big effing surprise. Who'd thunk it.
+Big effing su**r**prise. 
 
-Seeing as we'll have to circle around the entire damn Nikkal Storm, it might be over a year before we see the girls again. I don't even know if we have the money to get there, let alone buy all we'll need in ice plains; All I know is, I might have to sell my journals of all things after the books were stolen.
+Seeing as we'l**l** have to circle aroun**d** the entire damn Nikkal Storm, it might be over a year before we see the girls again**.** I don't even know if we have the money to get there, let alone buy all we'll need in ice plain**s**; All I know is, I might ha**v**e to sell my journals of all thin**g**s after the books were stolen.
 
 I'll try to sell my journals from Equestria first.
 
