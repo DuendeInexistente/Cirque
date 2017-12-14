@@ -17,6 +17,8 @@ And why is he so insistent on iron? It's a bad material here. It rusts much fast
 
 
 <div align="center"><font size="200em">☙°❧</font></div>
+![](/Images/chapsep.svg)
+<img src="/Images/chapsep.svg" style="size: 30px;">
 
 
 
