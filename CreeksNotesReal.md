@@ -16,7 +16,7 @@ Note to self: find out for sure what does <u>'quatro que conjugou três'</u> act
 And why is he so insistent on iron? It's a bad material here. It rusts much faster than their copper. </sub>
 
 
-<div align="center"><font size="100em">☙°❧</font></div>
+<div align="center"><font size="200em">☙°❧</font></div>
 
 
 
