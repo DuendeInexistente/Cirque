@@ -9,16 +9,15 @@ It's all this that supports the theory of [...] the pony goddesses being, did th
 
 
 
-<sub>**<sup>1</sup>** :
-Note to self: find out for sure what does <u>'quatro que conjugou três'</u> actually mean; not griffonic dialicts from that time period like the rest of his notes. Is it *Vy'arenda*? It translates from that. But I need a larger sample size to tell from sure, or to see it used in other contexts. Why does that griffon like obfuscating things so much? On that mater, all the writing in this church! Half of them insult me, the other half insult themselves, and that's only the ones I can read.
+**<sup>1</sup>** :
+Note to self: find out for sure what does <u>'quatro que conjugou três'</u> actually mean; not griffonic dialicts from that time period like the rest of his notes. Is it *Vy'arenda*? It translates from that. But I need a larger sample size to tell from sure, or to see it used in other contexts. Why does that griffon like obfuscating things so much?
+<p>On that mater, all the writing in this church! Half of them insult me, the other half insult themselves, and that's only the ones I can read.
 
-<sub>**<sup>2</sup>** :
-And why is he so insistent on iron? It's a bad material here. It rusts much faster than their copper. </sub>
+**<sup>2</sup>** :
+And why is he so insistent on iron? It's a bad material here. It rusts much faster than their copper.
 
 
 <div align="center"><font size="200em">☙°❧</font></div>
-![](/Images/chapsep.svg)
-<img src="/Images/chapsep.svg" style="size: 30px;">
 
 
 
