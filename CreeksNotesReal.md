@@ -16,9 +16,10 @@ Note to self: find out for sure what does <u>'quatro que conjugou três'</u> act
 And why is he so insistent on iron? It's a bad material here. It rusts much faster than their copper. </sub>
 
 
-<div align="center">--------------
-----------------------
-</div>
+<div align="center"><font size="100em">☙°❧</font></div>
+
+
+
 (*Heard from a singing zebra while I waited from my meal:*)
 
 And so it flowed between the triangle: Praise be nelumbo that our life be birthed, praise be the sun flower that our life be sparkled, praise be  the moon smegma that our life be soothed. So it flowed between the three and so flowed with a rhythm that was the first music in our world, and music it was that  we rose from the water for, so big headed stallions and well flanked [*sic*] mares, and we may both dance with big smiles and rosy cheeks and that our swinging and dancing and loving may please nelumbo and make the sun flower look away in shame, or the moon smegma closer with curiosity.
