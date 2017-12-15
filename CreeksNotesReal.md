@@ -1,3 +1,28 @@
+"One, two, three four, make then fall like th' jAcoleid. Five, six, seven eight, ( them run with your neigh"
+
+<div align="center">______________☙°❧______________</div>
+
+Why do griffons keep asking me "Senrei, ghelkey, et tu Ghurey?"?
+
+
+I got purply again.
+
+
+
+
+
+
+
+
+
+
+
+
+Who planted 'alegria' everywhere that's sacred? It's in every church that has power and -albeit transliterated- in so many ones that once had it. What was it? Who loves it so much? Why is it d yet is not mentioned in any sacred text, apocrypha, or religion? And why do I feel it's all a joke played at my expence, breadcrumbs to nothingness?
+
+Damn. I got purple again.
+
+----
 [...]Consider then the assumed nature of alicorns, who hold inside the three-spirits-that-are-four[^word]\: A pony is contemplative yet ruthless, the pegasus wild and ecstatic, the unicorn fiery yet focused. These are [...] conflictive by nature, and it's not mere cultural traits: It's [...] a product of how their magics operate and affect their predisposition.[...]
 
 It comes to reason then that alicorns are, by nature, *holistic* creatures, as it takes a great mind, resilient body, and trained soul to congeal those three spirits into the fourth, the alicornian spirit; A spirit that's indomitable and, of course, part of the world.
@@ -8,6 +33,15 @@ It's all this that supports the theory of [...] the pony goddesses being, did th
 <div align="right">-Cir Quesque, <i>Treila reila; alicornia</i></div>
 
 
+<div align="center">______________☙°❧______________</div>
+
+(*Heard from a singing zebra while I waited from my meal. Attempted to translate, but couldn't do it as lyrics:*)
+
+And so it flowed between the triangle: Praise be nelumbo that our life be birthed, praise be the sun flower that our life be sparkled, praise be  the moon smegma that our life be soothed. So it flowed between the three and so flowed with a rhythm that was the first music in our world, and music it was that  we rose from the water for, so big headed stallions and well flanked [*sic*] mares, and we may both dance with big smiles and rosy cheeks and that our swinging and dancing and loving may please nelumbo and make the sun flower look away in shame, or the moon smegma closer with curiosity.
+
+
+
+
 
 [^word]:
 Note to self: find out for sure what does <u>'quatro que conjugou três'</u> actually mean; not griffonic dialicts from that time period like the rest of his notes. Is it *Vy'arenda*? It translates from that. But I need a larger sample size to tell from sure, or to see it used in other contexts. Why does that griffon like obfuscating things so much?
@@ -15,12 +49,3 @@ Note to self: find out for sure what does <u>'quatro que conjugou três'</u> act
 
 [^iron]:
 And why is he so insistent on iron? It's a bad material here. It rusts much faster than their copper.
-
-
-<div align="center"><font size="200%">☙°❧</font></div>
-
-
-
-(*Heard from a singing zebra while I waited from my meal:*)
-
-And so it flowed between the triangle: Praise be nelumbo that our life be birthed, praise be the sun flower that our life be sparkled, praise be  the moon smegma that our life be soothed. So it flowed between the three and so flowed with a rhythm that was the first music in our world, and music it was that  we rose from the water for, so big headed stallions and well flanked [*sic*] mares, and we may both dance with big smiles and rosy cheeks and that our swinging and dancing and loving may please nelumbo and make the sun flower look away in shame, or the moon smegma closer with curiosity.
