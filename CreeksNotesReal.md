@@ -8,9 +8,7 @@ Why do griffons keep asking me "Senrei, ghelkey, et tu Ghurey?"?
 I got purply again.
 
 
-
-
-
+One, two, three and eight, make 'em run with a neigh! Five, six, seven and ten, by us the place be taken!
 
 
 
@@ -49,3 +47,9 @@ Note to self: find out for sure what does <u>'quatro que conjugou três'</u> act
 
 [^iron]:
 And why is he so insistent on iron? It's a bad material here. It rusts much faster than their copper.
+
+
+
+
+
+![](Pages/1.svg)
