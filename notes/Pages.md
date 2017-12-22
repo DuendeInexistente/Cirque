@@ -28,6 +28,7 @@ Once that the moon had come the light was too weak still, so the moon fell with 
 And with the swaying and swinging of the father-son a firmness-before-the-moon was needed, so next came the elder sister: twilight, stone-and-mortar. Twilight had no orbits or swaying and hung from no threads that it did not choose to, and it was in this firmness and confidence that she became liaison between god and mortal, and the first holder of the spark.
 
 Being preceded by twilight gave the night moon respite for he could now lay his legs on her land, and he trashed much less as he swung. This was his third orbit.
+       ^^^^^^^^^^^^^^^^^^^^^^^^^ And this one doesn't have weird names too?
 
 Twilight then tried to use her spark to lay light upon the land so that the minds and hearts of all could see: But the spark, however nurtured it was, was not made for such things. And while twilight understood that she had misused the spark and nearly broken it, she was greatly displeased not because of her own misuse, but because of the inadequacy of her tools.
 
