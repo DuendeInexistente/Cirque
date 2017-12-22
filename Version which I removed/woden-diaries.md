@@ -4,35 +4,49 @@ To trust an unicorn is to be a fool, and I am no fool, but curses! Let the earth
 
 Onwards and upwards, Onerai!
 
-&lt;div align="center"&gt;~•~&lt;/div&gt;
+<p align="center">
+~•~
+</p>
 
 With the very same world that our gods gave us we challenge them, did they not see the irony of it? Did they not burst in laugher at it? Fa, let them! We have collected many artifacts from begone ages so that we may strike the heavens. And strike we will! With the Phoenix on our tails, we shall find tools of the civilizations it has destroyed! We shall spit others' blood onto its eyes, and see it sizzle with the fire of their and its fury.
 
-&lt;div align="center"&gt;~•~&lt;/div&gt;
+<p align="center">
+~•~
+</p>
 
 The Phoenix has recruited copper soldiers onto its ranks. Pha! They have no passion, no life! This is not a combat of wills, but an affront to mine. I tried to parlay with one, and it did not have the decency to answer.
 
 Is this my true Nemes? If it is the gods have truly grown insidious. Ha! Do they not understand that it is because of me? Does it not embitten their hearts to know that they had to improve because of me?
 
-&lt;div align="center"&gt;~•~&lt;/div&gt;
+<p align="center">
+~•~
+</p>
 
 Pha! I tried to parlay with one of the coppers and it did not answer. It lacked a mouth, even! It moved like an animal, and it was not until I removed the broken pieces of its glass eye that it stopped attacking.
 
-&lt;div align="center"&gt;~•~&lt;/div&gt;
+<p align="center">
+~•~
+</p>
 
 I have collected a reliquary from the frozen wastes, filled with glowing white dust. The Phoenix has not followed me here, and I can see why: The moon draws ever closer and lower.
 
 Onwards, Onerai!
 
-&lt;div align="center"&gt;~•~&lt;/div&gt;
+<p align="center">
+~•~
+</p>
 
 Ha! Entangled in the strands of fate, we find a new life in death! We curse the stars and challenge them, and by our hysteric screaming find, nay, create a new lease in life! Ha! Onerai, what do you think of me?! Can you laugh with me, can you see I now understand the clarity in your whimsy? Can you see how I have found an entire new world just do that it can also be cursed, so that its gods can also hear our rimbombant laugh as we find life in death?
 
 Onwards and upwards, ever forwards! For I know in my heart you hear my laughter, Onerai!
 
-&lt;div align="center"&gt;~•~&lt;/div&gt;
+<p align="center">
+<p align="center">
+~•~
+</p>
+</p>
 
-Shout with your \*'Vota\* once more, Onerai, for we have made it! The unicorns finished the contraption, made the machine so that we may again find home, and our own gods know of our insult!
+Shout with your *'Vota* once more, Onerai, for we have made it! The unicorns finished the contraption, made the machine so that we may again find home, and our own gods know of our insult!
 
 This journal will be the proof that it takes for the academy to acknowledge us, and the unicorns have embedded it with magics to make it timeless. Ha! Even time itself surrenders to our mania!
 

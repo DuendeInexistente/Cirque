@@ -4,7 +4,7 @@ Ahoy! Onwards and updwards!
 
 <font face="Courier New" size="3rem">Yes!</font>
 
-What does a new journal mean, my dear Silver?
+What does a new journal mean, my dear Sliver?
 
 <font face="Courier New" size="3rem">New adventures!</font>
 
@@ -198,7 +198,7 @@ And what does he think I am!? His Knight Errant? I am not! I am a Celestia-damne
 
 ## 04-16
 
-I guess Creek will be mad if I don't do this in her place. We are taking off to the north tomorrow, what cap Sindula called the third corner, and leaving my girls with Wind's aunt. Wouldn't you hear how much they want to come with us, poor things. Silver even tried to sneak back to us, and little Cyp was trying not to cry. Made em promise to try finding a starcaster like the fish told us, to keep them bussy.
+I guess Creek will be mad if I don't do this in her place. We are taking off to the north tomorrow, what cap Sindula called the third corner, and leaving my girls with Wind's aunt. Wouldn't you hear how much they want to come with us, poor things. Sliver even tried to sneak back to us, and little Cyp was trying not to cry. Made em promise to try finding a starcaster like the fish told us, to keep them bussy.
 
 ## 04 - 20
 
