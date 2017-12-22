@@ -20,7 +20,7 @@ I got purply again.
 
 First came the stars: And from them was birthed their father, for all was naught and life was upside down. Their shine was the first hint of light to be seen, and the one that guided the moon to it's first orbit. It was with this that night was made.
 
-Once that the moon had come the light was too weak still, so the moon fell with an aching song but he hung by the thin silver threads that the stars had strung around his neck, and his swinging from the threads was the second orbit of the moon: ????? in their own tongue or ??????????????? [tong^]
+Once that the moon had come the light was too weak still, so the moon fell with an aching song but he hung by the thin silver threads that the stars had strung around his neck, and his swinging from the threads was the second orbit of the moon: ????? in their own tongue or ??????????????? [^tong]
 
 
 And with the swaying and swinging of the father-son a firmness-before-the-moon was needed, so next came the elder sister: twilight, stone-and-mortar. Twilight had no orbits or swaying and hung from no threads that it did not choose to, and it was in this firmness and confidence that she became liaison between god and mortal, and the first holder of the spark.
