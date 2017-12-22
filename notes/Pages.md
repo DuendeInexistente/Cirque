@@ -30,6 +30,15 @@ And with the swaying and swinging of the father-son a firmness-before-the-moon w
 Being preceded by twilight gave the night moon respite for he could now lay his legs on her land, and he trashed much less as he swung. This was his third orbit.
        ^^^^^^^^^^^^^^^^^^^^^^^^^ And this one doesn't have weird names too?
 
-Twilight then tried to use her spark to lay light upon the land so that the minds and hearts of all could see: But the spark, however nurtured it was, was not made for such things. And while twilight understood that she had misused the spark and nearly broken it, she was greatly displeased not because of her own misuse, but because of the inadequacy of her tools.
+Twilight then tried to use her spark to lay light upon the land so that the minds and hearts of all could see: (---)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Where are mortals made in this whole creation myth? The lack of explanation on the mater is something very typical gri~~ph~~ffonish myth, but at the same time night being the first to exist is almost exclusive of moonlet lore. Not to mention, I am not sure moonlets existed at the time this was writen.
 
-For this 
+	(---)But the spark, however nurtured it was, was not made for such things.(---)
+		 ^^^^^^^^^^^^^^^^^^^^^
+		What was it made for then? Is this related to the rose church's spark?
+
+	(---)And while twilight understood that she had misused the spark and nearly broken it, she was greatly displeased not because of her own misuse, but because of the inadequacy of her tools.
+
+And this is why the first halves of the dualities were flawed.
+
