@@ -1,4 +1,4 @@
-"One, two, three four, make then fall like th' jAcoleid. Five, six, seven eight, ( them run with your neigh"
+"One, two, three four, make then fall like th' jAcoleid. Five, six, seven eight, make them run with your neigh"
 
 <div align="center">______________☙°❧______________</div>
 
@@ -41,15 +41,50 @@ And so it flowed between the triangle: Praise be nelumbo that our life be birthe
 
 
 
+
+
+
+First came the stars: And from them was birthed their father, for all was naught and life was upside down. Their shine was the first hint of light to be seen, and the one that guided the moon to it's first orbit. It was with this that night was made.
+
+Once that the moon had come the light was too weak still, so the moon fell with an aching song but he hung by the thin silver threads that the stars had strung around his neck, and his swinging from the threads was the second orbit of the moon: ????? in their own tongue or ??????????????? [^tong]
+
+
+And with the swaying and swinging of the father-son a firmness-before-the-moon was needed, so next came the elder sister: twilight, stone-and-mortar. Twilight had no orbits or swaying and hung from no threads that it did not choose to, and it was in this firmness and confidence that she became liaison between god and mortal, and the first holder of the spark.
+
+Being preceded by twilight gave the night moon respite for he could now lay his legs on her land[^land], and he trashed much less as he swung. This was his third orbit.[^orbit]
+
+Twilight then tried to use her spark to lay light upon the land so that the minds and hearts of all could see:[^mortals] But the spark, however nurtured it was, was not made for such things. [^spark] And while twilight understood that she had misused the spark and nearly broken it and herself, she was greatly displeased not because of her own misuse, but because of the inadequacy of her tools.
+
+And this is why the first halves of the dualities were flawed.
+
+
+
+
+
+
+[^tong]:
+Which one? Whose? What is this talking about even?
+
+[^orbit]:
+And this one doesn't have weird names like the second? Where's the first?
+
+
+[^mortals]:
+Where are mortals made in this whole creation myth? The lack of explanation on the mater is something very typical gri~~ph~~ffonish myth, but at the same time night being the first to exist is almost exclusive of moonlet lore, which, I am not sure moonlets existed at the time this was written.
+
+[^land]:
+Note to self: Find more text in this language to confirm if it's actually saying "Land."
+
+[^spark]:
+What was it made for then? And where have I read about a spark before?
+
+
+
+
+
 [^word]:
 Note to self: find out for sure what does <u>'quatro que conjugou três'</u> actually mean; not griffonic dialicts from that time period like the rest of his notes. Is it *Vy'arenda*? It translates from that. But I need a larger sample size to tell from sure, or to see it used in other contexts. Why does that griffon like obfuscating things so much?
 <p>On that mater, all the writing in this church! Half of them insult me, the other half insult themselves, and that's only the ones I can read.
 
 [^iron]:
 And why is he so insistent on iron? It's a bad material here. It rusts much faster than their copper.
-
-
-
-
-
-![](Pages/1.svg)
