@@ -4,7 +4,7 @@
 * Creaking's:
  * [Creaking's journals](CreakJou.md)
  * [Creaking's transcripts](Transcripts.md)
- * [Creaking's translations](CreekNotes.md)
+
 * [Book about creatures](Creatures.md)
 * [A few short stories](ShortStories.md)
 * [Wooden Diaries](woden-diaries.md)
