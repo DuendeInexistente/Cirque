@@ -83,8 +83,8 @@
      fit-margin-right="3"
      fit-margin-bottom="3"
      inkscape:zoom="0.48472563"
-     inkscape:cx="562.55513"
-     inkscape:cy="485.81414"
+     inkscape:cx="323.29859"
+     inkscape:cy="513.13475"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -94,7 +94,8 @@
      inkscape:groupmode="layer"
      inkscape:label="Page"
      transform="matrix(1.3333333,0,0,-1.3333333,-500.9062,1287.513)"
-     style="display:inline"><path
+     style="display:inline"
+     sodipodi:insensitive="true"><path
        d="M 1077.5,64.031 H 411.67966 V 929.633 H 1077.5 Z"
        style="fill:#fffbd9;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00742126"
        id="path64"
