@@ -21,7 +21,7 @@ Who planted 'alegria' everywhere that's sacred? It's in every church that has po
 Damn. I got purple again.
 
 ----
-[...]Consider then the assumed nature of alicorns, who hold inside the three-spirits-that-are-four[^word]\: A pony is contemplative yet ruthless, the pegasus wild and ecstatic, the unicorn fiery yet focused. These are [...] conflictive by nature, and it's not mere cultural traits: It's [...] a product of how their magics operate and affect their predisposition.[...]
+[...]Consider then the assumed nature of alicorns, brought to us with the arrival of ponies[^ponies] who hold inside the three-spirits-that-are-four[^word]\: A pony is contemplative yet ruthless, the pegasus wild and ecstatic, the unicorn fiery yet focused. These are [...] conflictive by nature, and it's not mere cultural traits: It's [...] a product of how their magics operate and affect their predisposition.[...]
 
 It comes to reason then that alicorns are, by nature, *holistic* creatures, as it takes a great mind, resilient body, and trained soul to congeal those three spirits into the fourth, the alicornian spirit; A spirit that's indomitable and, of course, part of the world.
 
@@ -31,7 +31,25 @@ It's all this that supports the theory of [...] the pony goddesses being, did th
 <div align="right">-Cir Quesque, <i>Treila reila; alicornia</i></div>
 
 
+[^ponies]:
+What?
+
+
+
+
+
 <div align="center">______________☙°❧______________</div>
+
+
+
+
+
+
+
+
+
+
+
 
 (*Heard from a singing zebra while I waited from my meal. Attempted to translate, but couldn't do it as lyrics:*)
 
@@ -46,7 +64,7 @@ And so it flowed between the triangle: Praise be nelumbo that our life be birthe
 
 First came the stars: And from them was birthed their father, for all was naught and life was upside down. Their shine was the first hint of light to be seen, and the one that guided the moon to it's first orbit. It was with this that night was made.
 
-Once that the moon had come the light was too weak still, so the moon fell with an aching song but he hung by the thin silver threads that the stars had strung around his neck, and his swinging from the threads was the second orbit of the moon: ????? in their own tongue or ??????????????? [^tong]
+Once that the moon had come the light was too weak still, so at first the moon fell with an aching song but then hung by the thin silver threads that the stars had strung around his neck, and his swinging from the threads was the second orbit of the moon: ????? in their own tongue or ??????????????? [^tong]
 
 
 And with the swaying and swinging of the father-son a firmness-before-the-moon was needed, so next came the elder sister: twilight, stone-and-mortar. Twilight had no orbits or swaying and hung from no threads that it did not choose to, and it was in this firmness and confidence that she became liaison between god and mortal, and the first holder of the spark.
