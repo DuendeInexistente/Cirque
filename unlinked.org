@@ -1,0 +1,13 @@
+ -[[./SVG pages/1.md]]
+ -[[./SVG pages/1.md]]
+ -[[./SVG pages/1.md]]
+
+
+ -[[./SVG pages/2.md]]
+ -[[./SVG pages/2.html]]
+ -[[./SVG pages/2.svg]]
+
+
+ -[[./SVG pages/3.md]]
+ -[[./SVG pages/3.html]]
+ -[[./SVG pages/3.svg]]
