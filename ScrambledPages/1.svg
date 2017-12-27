@@ -82,9 +82,9 @@
      fit-margin-left="3"
      fit-margin-right="3"
      fit-margin-bottom="3"
-     inkscape:zoom="0.48472563"
-     inkscape:cx="601.92491"
-     inkscape:cy="488.33152"
+     inkscape:zoom="0.68550556"
+     inkscape:cx="437.12542"
+     inkscape:cy="250.35028"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -1180,7 +1180,15 @@
          y="1165.6682"
          id="tspan4954"
          style="stroke-width:0.4952569" /></text>
-</g><g
+<path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 289.8547,1097.475 c -50.73676,0 -102.70608,2.3149 -152.66369,-2.063 42.02093,-3.5836 85.32984,-2.0631 127.90741,-2.0631"
+       id="path5050"
+       inkscape:connector-curvature="0" /><path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 137.19101,1095.412 c 23.73132,5.6853 103.84466,9.9684 127.90741,-2.0631"
+       id="path5052"
+       inkscape:connector-curvature="0" /></g><g
      inkscape:groupmode="layer"
      id="layer6"
      inkscape:label="Notes"
