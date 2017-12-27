@@ -82,9 +82,9 @@
      fit-margin-left="3"
      fit-margin-right="3"
      fit-margin-bottom="3"
-     inkscape:zoom="0.68550556"
-     inkscape:cx="437.12542"
-     inkscape:cy="250.35028"
+     inkscape:zoom="0.34275278"
+     inkscape:cx="456.92874"
+     inkscape:cy="306.50581"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -343,7 +343,8 @@
          style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" /></g></g><g
      inkscape:groupmode="layer"
      id="layer5"
-     inkscape:label="Texto2"><text
+     inkscape:label="Texto2"
+     style="display:none"><text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.81027603px;line-height:1.25;font-family:'attack of the cucumbers';-inkscape-font-specification:'attack of the cucumbers';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.4952569"
        x="132.61462"
