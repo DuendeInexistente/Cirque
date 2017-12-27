@@ -88,7 +88,7 @@
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer6"
+     inkscape:current-layer="layer5"
      units="pc" /><g
      id="g10"
      inkscape:groupmode="layer"
@@ -949,8 +949,7 @@
          style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" /></g></g><g
      inkscape:groupmode="layer"
      id="layer5"
-     inkscape:label="Texto2"
-     sodipodi:insensitive="true"><text
+     inkscape:label="Texto2"><text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.81027603px;line-height:1.25;font-family:'attack of the cucumbers';-inkscape-font-specification:'attack of the cucumbers';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.4952569"
        x="132.61462"
@@ -1080,12 +1079,12 @@
          x="132.61462"
          y="670.41132"
          id="tspan4920"
-         style="stroke-width:0.4952569">    could now lay his legs on her land3, and he trashed much less as</tspan><tspan
+         style="stroke-width:0.4952569">    could now lay his legs on her land(3), and he trashed much less as</tspan><tspan
          sodipodi:role="line"
          x="132.61462"
          y="695.17413"
          id="tspan4922"
-         style="stroke-width:0.4952569">    he swung. This was his third orbit.4</tspan><tspan
+         style="stroke-width:0.4952569">    he swung. This was his third orbit.(4)</tspan><tspan
          sodipodi:role="line"
          x="132.61462"
          y="719.93701"
@@ -1105,12 +1104,12 @@
          x="132.61462"
          y="794.22552"
          id="tspan4928"
-         style="stroke-width:0.4952569">    that the minds and hearts of all could see:5 But the spark,</tspan><tspan
+         style="stroke-width:0.4952569">    that the minds and hearts of all could see:(5) But the spark,</tspan><tspan
          sodipodi:role="line"
          x="132.61462"
          y="818.9884"
          id="tspan4930"
-         style="stroke-width:0.4952569">    however nurtured it was, was not made for such things. 6 And while</tspan><tspan
+         style="stroke-width:0.4952569">    however nurtured it was, was not made for such things. (6) And while</tspan><tspan
          sodipodi:role="line"
          x="132.61462"
          y="843.75122"
@@ -1184,7 +1183,9 @@
 </g><g
      inkscape:groupmode="layer"
      id="layer6"
-     inkscape:label="Notes"><text
+     inkscape:label="Notes"
+     sodipodi:insensitive="true"
+     style="display:none"><text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'attack of the cucumbers';-inkscape-font-specification:'attack of the cucumbers';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
        x="433.25687"
@@ -1329,7 +1330,8 @@
      inkscape:groupmode="layer"
      id="layer7"
      inkscape:label="Flechas"
-     sodipodi:insensitive="true"><path
+     sodipodi:insensitive="true"
+     style="display:none"><path
        style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 815.45655,253.06434 c 4.3985,-10.67248 -1.16483,-12.54354 -5.10572,-16.04655"
        id="path4984"
