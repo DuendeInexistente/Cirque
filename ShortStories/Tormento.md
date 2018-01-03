@@ -24,3 +24,5 @@ She wasn't sure of what was she supposed to do, but she stood amidst the runny e
 Vamos a despertar.
 la madre tierra nos dio el honor,
 Para este carnaval.*
+
+She wasn't going to die, so the trying could only succeed.
