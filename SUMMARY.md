@@ -11,3 +11,8 @@
 * Writen by others:
  * [Book about creatures](Creatures.md)
  * [Wooden Diaries](woden-diaries.md)
+* Some sort stories:
+ * [Flow](ShortStories/flow.md)
+ * [Grief](ShortStories/Grief.md)
+ * [It's only natural](ShortStories/OnlyNatural.md)
+ * [Como una paloma en el viento](ShortStories/Tormento.md)
