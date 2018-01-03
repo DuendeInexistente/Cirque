@@ -18,11 +18,14 @@ But that wasn't how it worked, was it? She had a personality now, and that meant
 
 So she stood.
 
-She wasn't sure of what was she supposed to do, but she stood amidst the runny earth filled with long-since-dead grass, a groove where has flank had been, and shook in the rain until all mud had gone away from all those awkward -but still welcome- parts that physicality gave her. 
+She wasn't sure of what was she supposed to do, but she stood amidst the runny earth filled with long-since-dead grass, a groove where her flank had been, and shook in the rain until all mud had gone away from all those awkward -but still welcome- parts that physicality gave her. 
 
 *Y en el zumbido de los tambores,
+
 Vamos a despertar.
+
 la madre tierra nos dio el honor,
+
 Para este carnaval.*
 
 She wasn't going to die, so the trying could only succeed. Only a mater of time.
