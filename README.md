@@ -16,8 +16,8 @@ Changelog:
 
 16/10/17: Players have found [something](https://duendeinexistente.gitbooks.io/cirque/content/World.svg), and received the wooden diaries, which still aren't fully finished.
 
-22/12/17: Made a few small corrections and tweaked the index (Visible in the sidebar) in preparation for adding new content.
+22/12/17: Made a few small corrections and tweaked the summary (The sidebar when reading books) in preparation for adding new content.
 
 27/12/17: I wave off the year with new content.
 
-2/1/18: Restored the short stories, which I had removed from the summary at some point, and [added a new one](ShortStories/Tormento.md).
+2/1/18: Restored the short stories, which I apparently removed from the summary at some point, in a more user-friendly format.
