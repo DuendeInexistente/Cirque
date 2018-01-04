@@ -12,7 +12,7 @@ The sun was out, and spun in regular circles in spite of all the conditions. In 
 
 *Este es mi monte, desierto y baldio,*
 
-But that wasn't how it worked, was it? She had a personality now, and that meant certain responsibilities-- not responsibilities to anyone, or to anything tangible. It quite literally meant intangible self impossed responsibilities to intangible abstract concepts, one of which was herself- her pride and her empathy. And this endless rain wounded her pride, and every time she saw someone else it hurt her empathy.
+But that wasn't how it worked, was it? She had a personality now, and that meant certain responsibilities-- not responsibilities to anyone, or to anything tangible. It quite literally meant intangible self impossed responsibilities to intangible abstract concepts, one of which was herself; her pride and her empathy. This endless rain wounded her pride, and every time she saw someone else hurt by it her empathy wounded her.
 
 *Prestame tu corazon*
 
