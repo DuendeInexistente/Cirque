@@ -28,4 +28,4 @@ la madre tierra nos dio el honor,
 
 Para este carnaval.*
 
-She wasn't going to die, so the trying could only succeed. Only a mater of time.
+She wasn't going to die, so the trying could only succeed. Only a mater of time, then.
