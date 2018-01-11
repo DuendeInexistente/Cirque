@@ -32,6 +32,10 @@ And then lord yellow did something that, to Fireclay's knowledge, it had never d
 
 Lady Fireclay almost twitched, almost allowed a second of hesitation to wonder if this was a question or captious on it's own, but a lifetime of seeing her friend and confidante grow insane had taught her not to:
 
- "No, lord yellow." She said without a pause, turning the lighthouse's focal mirrors on their pivots. "It's not."
+ "No, lord yellow." She said without a pause in spite of the heat, turning the lighthouse's focal mirrors on their pivots. "It's not."
 
-Yellow looked at -she supposed- her horn and then at the mirrors, and started climber the brickwork up to the pyre.
+Yellow looked at -she supposed- her horn and then at the mirrors, and started climber the brickwork up to the pyre. "Allow me to assist."
+
+ "There is no need--"
+
+Yellow climbed the brickwork, it's legs awkward but somehow still precise and sharp, and helped her push with -even for people used to it- was a surprising amount of strength for such a little thing, the flame licking it's metal that somehow did not redden from it. "The mirrors have been aligned at the appropriate angle."
