@@ -1,3 +1,5 @@
+# In a lighthouse,
+
 Wind roared around the lighthouse. It always did at this height, but some days the unicorn mare just couldn't ignore the sound still. A lifetime of practice at it wasn't enough, maybe. Or maybe she was just slow.
 
 Or maybe the wind was a constant, unrelenting reminder of what'd happen if she failed, if she fell asleep from boredom or just plain forgot to keep the magical fire alighted or to turn the focusing mirrors, of what'd happen if a ship hit their rocky shoals, the amount of spurn the family would get; and with righteous reason, then, if she was lazy or dumb enough to fail at what really were simple tasks.
@@ -52,3 +54,4 @@ Yellow paused, and suddenly draw a simple face on it's circle plate.
 
  "This unit trusts Lady Fireclay to adhere to her schedule" It said, then walked out of the room. It's legs clack-clack-clacked against the stairs on it's way down.
 
+# ...somewhere high...
