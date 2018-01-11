@@ -118,5 +118,14 @@ Pink_Unit, or Punk, stood still for a moment longer with it's sensors mainly foc
 
 Then the heat it emitted started to fade, now that it's boot was complete and several systems had grossly reduced workloads, so Punk left one of it's circle plates in the spot for any visitor that could decide to come and jumped off the ledge to start orbiting.
 
-# ...And deep in the water...
+# ...And on the lower stratum...
 
+(Orange)
+
+# ...I ask for help...
+
+(White)
+
+# ...Cry so very loud.
+
+(Cyan)
