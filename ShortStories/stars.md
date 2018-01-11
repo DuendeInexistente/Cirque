@@ -103,7 +103,7 @@ Punk collected three most relevant facts from this, aside from the city's curren
          * **Issue**: Other units may also make this decision.
              - **Decision**: Report this conflict to Princess Twlight Sparkle at earliest convenience, advising that she assigns predefined stand-or-seek roles.
              - **Possible solution**; Coordinate with Orange_Unit and Purple_Unit to inform it of current position, predefining stand-or-seek roles.
+                 + **Issue**: Orange_Unit has not yet communicated awareness of local coordinate system.
+                 + **Issue**: Purple_Unit has communicated awareness of local coordinate systems, but this knowledge seems to be flawed and/or partial.
                  + **Issue** Atmospheric bouncing of radio signals is too unreliable. No unit has as of yet answered to any attempt of bridging communication.
-                 + **Issue**: Orange_Unit has not communicated awareness of local coordinate system.
 
-Oubj
