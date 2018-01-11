@@ -1,4 +1,4 @@
-# In a lighthouse,
+# In a lighthouse...
 
 Wind roared around the lighthouse. It always did at this height, but some days the unicorn mare just couldn't ignore the sound still. A lifetime of practice at it wasn't enough, maybe. Or maybe she was just slow.
 
@@ -64,4 +64,6 @@ In it's crystaline pseudopositronic brain data flowed into motion as the complex
 
 This happened in the space of almost an hour, only four of Pink_unit's pieces there with it, the two pieces of it's circle plates and two largest rays. Below on the back of the city, it's four smaller rays floated with semi-independant complex-enough intelligences seeking information, so Pink_Unit recalled them: As every time, protocol required that the wandering pieces did not stop their information seeking unless absolutely necessary. As every time, Pink_Unit's hardware simply *wasn't enough* to reprocess a year's worth of information without all of it's pieces -each with it's own brain simile- gathered together.
 
-Pink_Unit was incapable of feeling frustration about protocol mismatching it's hardware specifications. 
+Pink_Unit was incapable of feeling frustration about protocol mismatching it's hardware specifications.
+
+Technically all this information had been processed by the non-intelligence that composed Pink_Unit during hibernation, but protocol required self-optimization of procedures and Pink_Unit had found the non-intelligence to be insufficient for proper analysis. 
