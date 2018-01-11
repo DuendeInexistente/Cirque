@@ -62,3 +62,4 @@ An exact -Equestrian- year after it had last done so, pink_unit shook into motio
 
 In it's crystaline brain data flowed into motion as the complex-enough class intelligence that resided started processing a year's worth of collected data. Wind speed, words heard idly by it's wandering pieces, air density to calculate height, shifting of star maps to calculate trajectory, the promises of visitors, it all flowed and was rearranged in arbitrary combinations to try finding coinciding facts at insane speeds that true intelligence wouldn't have allowed. 
 
+This happened in the space of almost an hour, only three of Pink_unit's pieces there with it 
