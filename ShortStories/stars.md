@@ -66,4 +66,6 @@ This happened in the space of almost an hour, only four of Pink_unit's pieces th
 
 Pink_Unit was incapable of feeling frustration about protocol mismatching it's hardware specifications.
 
-Technically all this information had been processed by the non-intelligence that composed Pink_Unit during hibernation, but protocol required self-optimization of procedures and Pink_Unit had found the non-intelligence to be insufficient for proper analysis: It simply wasn't as good at the arbitrary p
+Technically all this information had been processed by the non-intelligence that composed Pink_Unit during hibernation, but protocol required self-optimization of procedures and Pink_Unit had found the non-intelligence to be insufficient for proper analysis: It simply wasn't as good at the arbitrary information-matching that was required for expanding separate facts into a larger awareness of the world, or at properly tagging important information.
+
+Or, if those made of meat had wanted 
