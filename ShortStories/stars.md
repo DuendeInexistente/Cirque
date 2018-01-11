@@ -2,13 +2,13 @@
 
 Wind roared around the lighthouse. It always did at this height, but some days the unicorn mare just couldn't ignore the sound still. A lifetime of practice at it wasn't enough, maybe. Or maybe she was just slow.
 
-Or maybe the wind was a constant, unrelenting reminder of what'd happen if she failed, if she fell asleep from boredom or just plain forgot to keep the magical fire alighted or to turn the focal mirrors, of what'd happen if a ship hit their rocky shoals, the amount of spurn the family would get; and with righteous reason, then, if she was lazy or dumb enough to fail at what really were simple tasks.
+Or maybe the wind was a constant, unrelenting reminder of what'd happen if she failed, if she fell asleep from boredom or just plain forgot to keep the magical fire alighted or to turn the focal mirrors, of what'd happen if a ship hit their rocky shoals, the amount of spurn the family would get; and with righteous reason, that, if she was lazy or dumb enough to fail at what really were simple tasks.
 
-Clacking on the well tiled floor, "Lady Fireclay."
+ "Lady Fireclay."
 
-She turned around from the brickwork window in front of her with a start, her hairs standing on end and not only because of the faint static in the air that had come with her family's guest. Yellow had a way to startle her sometimes.
+She turned around from the brickwork window in front of her with a start, her hairs standing on end and not only because of the faint static in the air that had come with her family's guest. Yellow had a way to do that sometimes.
 
-The small, edgy Duda was coated in a mix of faded yellow and metal coated on the red rust that the family always tried desperately to keep at bay, on four detached legs with their bottom tips angled inwards like a scorpion's. At some point yellow had flown instead, but now it walked as a result of 'Non-interrelative levitation systems becoming damaged beyond practical usability' and would skulk around, 'collecting data' for whatever was that it did so, it's walking always slightly off and slightly disjointed and, in truth, everyone was convinced that yellow was slowly going insane. It wasn't any particular action, just the undergoing offness of someone you've known your entire life changing in subtle but unnerving ways that words could explain but not convey the importance of.
+The small, edgy Duda was coated in a mix of faded yellow paint and red rust that the family always tried desperately to keep at bay, on four detached legs with their bottom tips angled inwards like a scorpion's. At some point in the past yellow had flown instead, but now it walked as a result of 'Non-interrelative levitation systems becoming damaged beyond practical usability' and would skulk around, 'collecting data' for whatever was that it did so, it's walking always slightly off and slightly disjointed and, in truth, everyone was convinced that yellow was slowly going insane. It wasn't any particular action, just the undergoing offness of someone you've known your entire life changing in subtle but unnerving ways that words could explain but not convey the importance of.
 
  "Lord yellow." She said out of compromise, expecting the answer.
 
