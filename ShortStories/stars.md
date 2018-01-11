@@ -58,16 +58,28 @@ And after a moment Fireclay turned around, and continued to stand watch over the
 
 # ...somewhere high...
 
-An exact -Equestrian- year after it had last done so, pink_unit shook into motion. Power that usually cycled only to prevent damage of it's systems started galloping through it's copper veins like a stampede of horses and, even in the low-oxygen atmosphere, producing about as much heat in the process of booting up from hibernation.
+An exact Equestrian year after it had last done so, pink_unit -mechanical ambassador, scout class, resource user version alpha three point zero point five point one point nine variant dee- shook into motion. Power that usually cycled only to prevent damage of it's systems started galloping through it's copper and gold veins like a stampede of horses and, even in the low-oxygen atmosphere, exuded about as much heat in the process of booting up from hibernation. The light ceramic alloys that the tower was made of clicked softly from the temperature. On the stairs that climber up to this floor, a pilgrim felt the heat and decided to come back later.
 
-In it's crystaline pseudopositronic brain, data flowed into motion as the complex-enough class intelligence that resided started processing a year's worth of collected data. Wind speed, words heard idly by it's wandering pieces, air density to calculate height, shifting of star maps to calculate trajectory, the prayers of visitors, it all flowed and was rearranged in arbitrary combinations to try finding coinciding facts at insane speeds that true intelligence wouldn't have allowed. 
+In it's crystalline pseudopositronic brain, data flowed into motion as the complex-enough class intelligence that resided started processing a year's worth of collected data. Wind speed, words heard idly by it's wandering pieces, air density to calculate height, shifting of star maps to calculate trajectory, the prayers of visitors, it all flowed and was rearranged in arbitrary combinations to try finding coinciding facts at insane speeds that true intelligence wouldn't have allowed. 
 
-This happened in the space of almost an hour, only four of Pink_unit's pieces there with it, the two pieces of it's circle plates and two largest rays. Below on the back of the city, the three smaller rays it had left crawled with semi-independant complex-enough intelligences seeking information, so Pink_Unit recalled them: As every time, protocol required that the wandering pieces did not stop their information seeking unless absolutely necessary. As every time, Pink_Unit's hardware simply *wasn't enough* to reprocess a year's worth of information in a reasonable timeframe without all of it's pieces -each with it's own brain simile- gathered together.
+This happened in the space of almost an hour, only four of Pink_unit's pieces there with it: the two pieces of it's circle plates and two largest rays. Below on the back of the city, the three smaller rays it had left crawled with semi-independant complex-enough intelligences seeking information, so Pink_Unit recalled them: As every time, protocol required that the wandering pieces did not stop their information seeking unless absolutely necessary. As every time, Pink_Unit's hardware simply *wasn't enough* to reprocess a year's worth of information in a reasonable timeframe without all of it's pieces -each with it's own brain simile- gathered together.
 
 Pink_Unit was incapable of feeling frustration about protocol so crassly mismatching it's hardware specifications.
 
 Technically all this information had been processed by the non-intelligence that composed Pink_Unit during hibernation, but protocol required self-optimization of procedures and Pink_Unit had found the non-intelligence to be insufficient for proper analysis beyond basic calculations: It simply wasn't as good at the arbitrary information-matching that was required for expanding separate facts into a larger awareness of the world, or at properly tagging important information.
 
-Or, if those made of meat had wanted to drawn somewhat shallow comparisons, Pink_Unit -Some called it Punk, one of it's auxiliary thought processes remembered- simply needed a while to reflect about things.
+Or, if those made of meat had wanted to drawn somewhat shallow comparisons, Pink_Unit -Some called it Punk- simply needed a while to reflect about things.
 
-Punk 
+Punk collected four most relevant facts from this, aside from the city's current trajectory:
+
+ - **Fact**: The city-state of Arabesco had been destroyed in an event that as of yet had too many varying and unmatching stories. 
+     + **Addendum**: Taint-class beasts seem to have been involved.
+     + **Addendum**: Descriptions of involved pegasi have a degree of coincidence with Equestrian weather manipulation. Investigate further.
+         * **Subaddendum**: Citizen Lettuce Leaf was not reported to be acknowledgeable regarding weather manipulation.
+     + **Decision**: Recollect stories during the course of the next hibernation period as social hysteria diminishes.
+     + **Decision**: Request miss Chundra for verifiable data if she visits.
+     + **Decision**: Request miss Cypress for verifiable data if she visits.
+     + **Decision**: Request pilgrims for verifiable data.
+ - Miss Sliver had not yet returned with the promised data.
+     + **Addendum**: Current delay: Four years.
+     + **Decision**: Request miss Cypress for verifiable data if she visits.
