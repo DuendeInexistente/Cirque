@@ -22,6 +22,14 @@ And then lord yellow did something that, to Fireclay's knowledge, it had never d
 
  "Are you sure." it questioned her. Or asked, Fire didn't know, because yellow always spoke plainly and, if it ever took offence in something, it was a small and secret sort of offence that to lords and ladies was much more scary than any bout of revenge. "Have you sought answers from locally lodged travellers."
 
- "Yes." She lied with the expertise that being nobility -even an overall minor one- gave her. But in reality, why ask? Why seek answers that in a hundred years had yet to come? It was an exercise in futility, it was.
+ "Yes." She lied with the expertise that being nobility -even an overall minor one, subservant to the actual Lady of the city- gave her. But in reality, why ask? Why seek answers that in a hundred years had yet to come? It was an exercise in futility, it was.
 
  "Are you sure." At times yellow seemed to find it fit to draw a face on his circle plate, but not now. Now, it stared at her from the depths of it's own systems and machinations plain and unreadable.
+
+ "Yes, lord yellow. Have you ever lied to you?"
+
+ "Is that a captious question."
+
+Lady Fireclay almost twitched, almost allowed a second of hesitation to wonder if this was a question or captious on it's own, but a lifetime of seeing her friend and confidante grow insane had taught her not to:
+
+ "No, lord yellow." She said without a pause, turning the lighthouse's focal mirrors on their pivots. "It's not."
