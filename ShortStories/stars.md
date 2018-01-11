@@ -23,3 +23,4 @@ And then lord yellow did something that, to Fireclay's knowledge, he had never d
  "Are you sure." He questioned her. Or asked, Fire didn't know, because yellow always spoke plainly and, if it ever took offence in something, it was a small and secret sort of offence that, to lords and ladies, was much more scary than any bout of revenge. "Have you sought answers from locally lodged travellers."
 
  "Yes." She lied with the expertise that being nobility, even an overall minor one, gave her. But in reality, why ask? Why seek answers that in a hundred years had yet to come? It was an exercise in futility, it was.
+
