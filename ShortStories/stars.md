@@ -82,14 +82,14 @@ Punk collected three most relevant facts from this, aside from the city's curren
      + **Decision**: Request miss Chundra, miss Cypress, and pilgrims for verifiable data if or when they visit.
      + **Decision**: Inform Yellow_Unit of this development. Compare compiled data.
  - ***Fact***: Miss Sliver had not yet returned with the promised data.
-     + **Addendum**: Current delay: Four years.
+     + **Addendum**: Current delay: Eight years.
      + 
      + **Decision**: Request miss Cypress for verifiable data if she visits.
      + **Decision**: Attempt to locate depending on the outcome of the following fact.
  - ***Fact***: Radio frequencies from Purple_Unit, Orange_Unit, Cyan_Unit and White_Unit detected bouncing from the higher atmosphere.
      + **Addendum**: The chaos of the local higher atmosphere makes vectorization of origins impossible with current equipment impossible.
      + **Addendum**: White_Unit has repeatedly requested yellow-grade SOS.
-         * **Decision**: Six-two-six will be applied.
+         * **Decision**: Protocol 626 will be applied.
      + **Addendum**: Cyan_Unit's distorted messages may reflect extremely damaged systems.
          * **Decision**: Cyan_Unit's status tagged as red alert.
      + **Addendum**: Orange_Unit's messages indicate that it is now actively seeking other units.
@@ -97,6 +97,7 @@ Punk collected three most relevant facts from this, aside from the city's curren
      + 
      + **Conflict**: Moving from current position may result in data regarding the units position becoming useless, thus rendering any search mutually unproductive.
      + **Possible decision**: Attempt to find other units while leaving a clear trail of this unit's path.
+         * **Addendum**: Retrieval of White_Unit or Cyan_Unit marked as two highest priorities, applying protocol 626 if necessary.
          * **Issue**: No available equipment would be as easy to find as this unit's radio systems.
              - **Addendum**: Production of required equipment rendered impossible by inadequacy of local materials and White_Unit's continued absence.
      + **Possible decision**: Remain in position.
@@ -104,8 +105,9 @@ Punk collected three most relevant facts from this, aside from the city's curren
              - **Decision**: Report this conflict to Princess Twilight Sparkle at earliest convenience, advising that she assigns predefined stand-or-seek roles.
              - **Possible decision**: Coordinate with Orange_Unit and Purple_Unit to inform it of current position, predefining stand-or-seek roles.
                  + **Issue**: Orange_Unit has not yet communicated awareness of local coordinate system.
-                 + **Issue**: Purple_Unit has communicated awareness of local coordinate systems, but this knowledge seems to be flawed and/or partial.
+                 + **Issue**: Purple_Unit has communicated awareness of local coordinate systems, but this knowledge seems to be flawed and/or too partial.
                  + **Issue**: Atmospheric bouncing of radio signals is too unreliable. No unit has as of yet answered to any attempt of bridging communication.
              - **Possible decision**: Coordinate with Yellow_Unit to predefine stand-or-seek roles.
-                 + **Issue**: Yellow_Unit is too damaged to seek and has displayed failures on it's emiting radio systems that cannot be repaired without White_Unit's assistance, as well as having it's own position to await other units from.
+                 + **Issue**: Yellow_Unit is too damaged to seek and has displayed failures on it's emitting radio systems that cannot be repaired without White_Unit's assistance, as well as having it's own position to await other units from.
+                 + **Issue**: Current position of Yellow_Unit is three days, two hours, fifteen minutes from current position of Pink_Unit. Coordination may prove complicated.
 
