@@ -89,4 +89,7 @@ Punk collected four most relevant facts from this, aside from the city's current
      + **Addendum**: White_Unit has repeatedly requested yellow-grade SOS.
          * **Decision**: Six-two-six protocol may need be applied.
      + **Addendum**: Cyan_Unit's distorted messages may reflect extremely damaged systems.
-     + **Conflict**: Moving from current position may result in  units missing each other in their searches by rendering their information useless.
+     + **Conflict**: Moving from current position may result in data regarding the units position becoming useless, thus rendering any search mutually useless.
+     + **Possible decision**: Attempt to find other units while leaving a clear trail of this unit's path.
+         * **Issue**: No available equipment would be as easy to find as this unit's radio systems.
+             - **Addendum**: Production of required equipment rendered impossible by inadequacy of local materials and White_Unit's continued absence.
