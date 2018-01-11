@@ -85,7 +85,7 @@ Punk collected three most relevant facts from this, aside from the city's curren
      + **Decision**: Request Citizen Cypress for verifiable data if she visits.
      + **Decision**: Attempt to locate depending on the outcome of the following fact.
  - ***Fact***: Radio frequencies from Purple_Unit, Orange_Unit, Cyan_Unit and White_Unit detected bouncing from the higher atmosphere.
-     + **Addendum**: The chaos of the local higher atmosphere makes vectorization of origins impossible with current equipment impossible.
+     + **Addendum**: The chaos of the local higher atmosphere makes vectorization of origins impossible with current equipment.
      + **Addendum**: White_Unit has repeatedly requested yellow-grade SOS.
          * **Decision**: Protocol 626 will be applied.
      + **Addendum**: Cyan_Unit's distorted messages may reflect extremely damaged systems.
