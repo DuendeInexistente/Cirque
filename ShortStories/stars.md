@@ -62,7 +62,7 @@ An exact Equestrian year after it had last done so, pink_unit -mechanical ambass
 
 In it's crystalline pseudopositronic brain, data flowed into motion as the complex-enough class intelligence that resided started processing a year's worth of collected data. Wind speed, words heard idly by it's wandering pieces, air density to calculate height, shifting of star maps to calculate trajectory, the prayers of visitors, it all flowed and was rearranged in arbitrary combinations to try finding coinciding facts at insane speeds that true intelligence wouldn't have allowed. 
 
-This happened in the space of almost an hour, only four of Pink_unit's pieces there with it: the two halves of it's circle plate and the two largest rays. Below on the back of the city, the three smaller rays it had left crawled with semi-independant complex-enough intelligences seeking information, so Pink_Unit recalled them: As every time, protocol required that the wandering pieces did not stop their information seeking unless absolutely necessary. As every time, Pink_Unit's hardware simply *wasn't enough* to reprocess a year's worth of information in a reasonable timeframe without all of it's pieces -each with it's own brain simile- gathered together.
+This happened in the space of almost an hour, only four of Pink_unit's pieces there with it: the two halves of it's circle plate and the two largest rays. Below on the back of the city, the three smaller rays it had left crawled with semi-independant too-basic intelligences seeking information, so Pink_Unit recalled them: As every time, protocol required that the wandering pieces did not stop their information seeking unless absolutely necessary. As every time, Pink_Unit's hardware simply *wasn't enough* to reprocess a year's worth of information in a reasonable timeframe without all of it's pieces -each with it's own brain simile- gathered together.
 
 Pink_Unit was incapable of feeling frustration about protocol so crassly mismatching it's hardware specifications.
 
@@ -120,7 +120,23 @@ Then the heat it emitted started to fade, now that it's boot was complete and se
 
 # ...And on the lower stratum...
 
-(Orange)
+ "Do you know of the location of the Citizen Lettuce Leaf." Stated Orange_Unit
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 # ...I ask for help...
 
