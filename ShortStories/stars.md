@@ -111,3 +111,8 @@ Punk collected three most relevant facts from this, aside from the city's curren
                  + **Issue**: Yellow_Unit is too damaged to seek and has displayed failures on it's emitting radio systems that cannot be repaired without White_Unit's assistance, as well as having it's own position to await other units from.
                  + **Issue**: Current position of Yellow_Unit is three days, two hours, fifteen minutes from current position of Pink_Unit. Coordination may prove complicated.
 
+Pink_Unit was still for several minutes, pseudopositronic brain churning through the available data, and when a solution didn't become apparently available something else was added to the list:
+
+ - **Compromise while decisions are considered**: Orbit current location whithin maximum radio range to effectively expand communications range.
+
+And there were problems with this decision, like how small the range still was in the grand scheme of things, but when Pink_Unit thought of them they automatically triggered the common_sense daemons. The issues were much too obvious, and the o
