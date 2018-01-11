@@ -56,6 +56,6 @@ Yellow paused, and suddenly draw a simple face on it's circle plate.
 
 And after a moment Fireclay turned around, and continued to stand watch over the city below.
 
-
 # ...somewhere high...
 
+An exact -Equestrian- year after it had last done so, pink_unit shook into motion. Power that usually cycled only to prevent damage of it's systems started galloping through it's copper veins like a stampede of horses, producing about as much heat even in the low-oxygen atmosphere in the process of booting up from hibernation, and in it's crystaline brain data flowed into motion as the complex-enough class inteligence that resided started processing a year's worth of attention 
