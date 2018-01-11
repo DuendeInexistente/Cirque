@@ -44,7 +44,7 @@ And in spite of it all Firework couldn't help smiling, because it was the exact 
 
 Fireclay blinked a few times, surprised by this, before answering. "Yellow, you're red-- You're too hot."
 
-And yellow also paused at this, then said. "This unit is aware of it's temperature." It paused for a split second, then turned around to walk out of the room, it's rods starting to sparkle. "This unit will now continue readying to assist with the bug season."
+And yellow also paused at this, then said. "This unit is aware of it's temperature." It paused for a split second, then turned around to walk out of the room, it's leg rods starting to sparkle. "This unit will now continue readying to assist with the bug season."
 
  "Yellow, I can still hug you later." Rushed to say Fireclay, still surprised by how off yellow was being today. "If you really wanted it."
 
