@@ -42,7 +42,7 @@ Yellow climbed the brickwork, it's legs awkward but somehow still precise and sh
 
 And in spite of all Firework couldn't help smiling, because it was the exact same compliment, verbatim, that yellow had offered ever since she was a filly still learning the spells that kept the lighthouse's magical flame alive. Yellow never told her this when there was someone else around, just in their private moments. "Thankee, lord yellow."
 
- "This unit does not recognize nor require titles, but it is honoured." Yellow hopped down to the tiled floor, "Does the assistance have value equivalent to or greater than a hug." It stated-or-maybe-asked.
+ "This unit does not recognize nor require titles, but it is honoured." Yellow hopped down to the tiled floor, "Does the assistance have value equivalent to or greater to that of a hug." It stated-or-maybe-asked.
 
 Fireclay blinked a few times, surprised by this, before answering. "Yellow, you're red-- You're too hot."
 
@@ -107,5 +107,5 @@ Punk collected three most relevant facts from this, aside from the city's curren
                  + **Issue**: Purple_Unit has communicated awareness of local coordinate systems, but this knowledge seems to be flawed and/or partial.
                  + **Issue**: Atmospheric bouncing of radio signals is too unreliable. No unit has as of yet answered to any attempt of bridging communication.
              - **Possible decision**: Coordinate with Yellow_Unit to predefine stand-or-seek roles.
-                 + **Issue**: Yellow_Unit is too damaged to seek and has displayed failures on it's emiting radio systems, as well as having it's own position to await other units from.
+                 + **Issue**: Yellow_Unit is too damaged to seek and has displayed failures on it's emiting radio systems that cannot be repaired without White_Unit's assistance, as well as having it's own position to await other units from.
 
