@@ -45,3 +45,9 @@ And in spite of it all Firework couldn't help smiling, because it was the exact 
 Fireclay blinked a few times, surprised by this, before answering. "Yellow, you're red-- You're hot."
 
 And yellow also paused at this, then said. "This unit is aware of it's temperature." It paused for a split second, then turned around to walk out of the room. "This unit will now continue readying to assist with the bug season."
+
+ "Yellow, I can still hug you later." Rushed to say Fireclay. "If you really wanted it."
+
+Yellow paused, and suddenly draw a simple face on it's circle plate.
+
+ "This unit trusts Lady Fireclay to adhere to her schedule" It said, then walked out of the room. It's legs clacked against the stairs on it's way down.
