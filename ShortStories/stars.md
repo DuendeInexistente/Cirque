@@ -77,18 +77,23 @@ Punk collected four most relevant facts from this, aside from the city's current
      + **Addendum**: Descriptions of involved pegasi have a degree of coincidence with Equestrian weather manipulation.
          * **Addendum**: Citizen Lettuce Leaf was not reported to be acknowledgeable regarding weather manipulation.
          * **Decision**: Recollect more information regarding the pegasus involved in the destruction of Arabesco.
+     +
      + **Decision**: Recollect versions of the story during the course of the next hibernation period as social hysteria diminishes.
      + **Decision**: Request miss Chundra, miss Cypress, and pilgrims for verifiable data if or when they visit.
      + **Decision**: Inform Yellow_Unit of this development. Compare compiled data.
  - ***Fact***: Miss Sliver had not yet returned with the promised data.
      + **Addendum**: Current delay: Four years.
+     + 
      + **Decision**: Request miss Cypress for verifiable data if she visits.
      + **Decision**: Attempt to locate depending on the outcome of the following fact.
  - ***Fact***: Radio frequencies from Purple_Unit, Orange_Unit, Cyan_Unit and White_Unit detected bouncing from the higher atmosphere.
      + **Addendum**: The chaos of the local higher atmosphere makes vectorization of origins impossible with current equipment impossible.
      + **Addendum**: White_Unit has repeatedly requested yellow-grade SOS.
-         * **Decision**: Six-two-six protocol may need be applied.
+         * **Decision**: Six-two-six will be applied.
      + **Addendum**: Cyan_Unit's distorted messages may reflect extremely damaged systems.
+         * **Decision**: Cyan_Unit's status tagged as red alert.
+     + **Addendum**: Orange_Unit's messages indicate that it is actively seeking other units as per it's protocol.
+     + 
      + **Conflict**: Moving from current position may result in data regarding the units position becoming useless, thus rendering any search mutually useless.
      + **Possible decision**: Attempt to find other units while leaving a clear trail of this unit's path.
          * **Issue**: No available equipment would be as easy to find as this unit's radio systems.
