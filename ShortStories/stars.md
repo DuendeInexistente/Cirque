@@ -42,7 +42,7 @@ Yellow climbed the brickwork, it's legs awkward but somehow still precise and sh
 
 And in spite of all Firework couldn't help smiling, because it was the exact same compliment, verbatim, that yellow had offered ever since she was a filly still learning the spells that kept the lighthouse's magical flame alive. Yellow never told her this when there was someone else around, just in their private moments. "Thankee, lord yellow."
 
- "This unit does not recognize nor require titles, but it is honoured." Yellow hopped down to the tiled floor, "Does the assistance have value equivalent to a hug." It stated-or-maybe-asked.
+ "This unit does not recognize nor require titles, but it is honoured." Yellow hopped down to the tiled floor, "Does the assistance have value equivalent to or greater than a hug." It stated-or-maybe-asked.
 
 Fireclay blinked a few times, surprised by this, before answering. "Yellow, you're red-- You're too hot."
 
@@ -78,7 +78,8 @@ Punk collected four most relevant facts from this, aside from the city's current
          * **Addendum**: Citizen Lettuce Leaf was not reported to be acknowledgeable regarding weather manipulation.
          * **Decision**: Recollect more information regarding the pegasus involved in the destruction of Arabesco.
      + **Decision**: Recollect versions of the story during the course of the next hibernation period as social hysteria diminishes.
-     + **Decision**: Request miss Chundra, miss Cypress, and pilgrims for verifiable data.
+     + **Decision**: Request miss Chundra, miss Cypress, and pilgrims for verifiable data if or when they visit.
  - ***Fact***: Miss Sliver had not yet returned with the promised data.
      + **Addendum**: Current delay: Four years.
      + **Decision**: Request miss Cypress for verifiable data if she visits.
+ - ***Fact***:
