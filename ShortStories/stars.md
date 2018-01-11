@@ -26,7 +26,7 @@ And then lord yellow did something that, to Fireclay's knowledge, it had never d
 
  "Are you sure." At times yellow seemed to find it fit to draw a face on his circle plate, but not now. Now, it stared at her from the depths of it's own systems and machinations plain and unreadable.
 
- "Yes, lord yellow. Have you ever lied to you?" The heat from the pyre seemed so much hotter than usual tonight, blasting her like a furnance.
+ "Yes, lord yellow. Have you ever lied to you?" The heat from the pyre seemed so much hotter than usual tonight, blasting her like a furnace.
 
  "Is that a captious question."
 
@@ -38,4 +38,6 @@ Yellow looked at -she supposed- her horn and then at the mirrors, and started cl
 
  "There is no need--"
 
-Yellow climbed the brickwork, it's legs awkward but somehow still precise and sharp, and helped her push with -even for people used to it- was a surprising amount of strength for such a little thing, the flame licking it's metal that somehow did not redden from it. "The mirrors have been aligned at the appropriate angle."
+Yellow climbed the brickwork, it's legs awkward but somehow still precise and sharp, and helped her push with -even for people used to it- was a surprising amount of strength for such a little thing, the flame licking it's metal that somehow did not redden from it. "The mirrors have been aligned at the appropriate angle. Lady's Firework adherence to schedule remains steadfast."
+
+And in spite of it all Firework couldn't help smiling, because it was the exact same compliment, verbatim, that yellow had offered ever since she was a filly still learning the spells that kept the lighthouse's magical flame alive. Yellow never praised her when there was someone else around, just in their private moments.
