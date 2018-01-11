@@ -116,3 +116,7 @@ Pink_Unit was still for several minutes, pseudopositronic brain churning through
  - **Compromise while decisions are considered**: Orbit current location whithin maximum radio range to effectively expand communications range.
 
 And there were problems with this decision, like how small the range still was in the grand scheme of things, but when Pink_Unit thought of them they automatically triggered the common_sense daemons. The issues were much too obvious, and the solution was statedly a stopgap one, knowingly unideal. Thus, these issues weren't committed to the field report.
+
+Pink_Unit, or Punk, stood still for a moment longer with it's sensors mainly focused on the moon: It was almost spotless here, compared to what its archives portrayed the Equestrian moon as.
+
+Then the heat it emitted started to fade, now that it's boot was complete and several systems could
