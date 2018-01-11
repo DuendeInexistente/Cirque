@@ -72,7 +72,7 @@ Or, if those made of meat had wanted to drawn somewhat shallow comparisons, Pink
 
 Punk collected three most relevant facts from this, aside from the city's current trajectory:
 
- - ***Fact***: The city-state of Arabesco had been destroyed in an event that has too many varying and unmatching stories. 
+ - ***Fact***: The city-state of Arabesco has been destroyed in an event that has too many varying and unmatching stories. 
      + **Addendum**: Taint-type beasts seem to have been involved.
      + **Addendum**: Descriptions of involved pegasi have a degree of coincidence with Equestrian weather manipulation.
          * **Addendum**: Citizen Lettuce Leaf was not reported to be acknowledgeable regarding weather manipulation.
@@ -80,7 +80,7 @@ Punk collected three most relevant facts from this, aside from the city's curren
      + **Decision**: Recollect versions of the story during the course of the next hibernation period as social hysteria diminishes.
      + **Decision**: Request Citizen Chundra, Citizen Cypress, and pilgrims for verifiable data if or when they visit.
      + **Decision**: Inform Yellow_Unit of this development. Compare compiled data.
- - ***Fact***: Citizen Sliver had not yet returned with the promised data.
+ - ***Fact***: Citizen Sliver has not yet returned with the promised data.
      + **Addendum**: Current delay: Eight years.
      + **Decision**: Request Citizen Cypress for verifiable data if she visits.
      + **Decision**: Attempt to locate depending on the outcome of the following fact.
@@ -100,7 +100,7 @@ Punk collected three most relevant facts from this, aside from the city's curren
      + **Possible decision**: Remain in position.
          * **Issue**: Other units may also make this decision.
              - **Decision**: Report this conflict to Princess Twilight Sparkle at earliest convenience, advising that she assigns predefined stand-or-seek roles.
-             - **Possible decision**: Coordinate with Orange_Unit and Purple_Unit to inform it of current position, predefining stand-or-seek roles.
+             - **Possible decision**: Coordinate with Orange_Unit and Purple_Unit to inform them of current position, predefining stand-or-seek roles.
                  + **Issue**: Orange_Unit has not yet communicated awareness of local coordinate system.
                  + **Issue**: Purple_Unit has communicated awareness of local coordinate systems, but this knowledge seems to be flawed and/or too partial.
                  + **Issue**: Atmospheric bouncing of radio signals is too unreliable. No unit has as of yet answered to any attempt of bridging communication.
