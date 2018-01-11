@@ -34,7 +34,7 @@ Lady Fireclay almost twitched, almost allowed a second of hesitation to wonder i
 
  "No, lord yellow." She said without a pause in spite of the heat, turning the lighthouse's focal mirrors on their pivots. "It's not."
 
-Yellow looked at -she supposed- her horn and then at the mirrors, and looked at the brickwork up to the pyre. "Allow me to assist."
+Yellow looked at -she supposed- her horn and then at the mirrors, and looked at the pyre. "Allow me to assist."
 
  "There is no need--"
 
@@ -69,3 +69,4 @@ Pink_Unit was incapable of feeling frustration about protocol so crassly mismatc
 Technically all this information had been processed by the non-intelligence that composed Pink_Unit during hibernation, but protocol required self-optimization of procedures and Pink_Unit had found the non-intelligence to be insufficient for proper analysis: It simply wasn't as good at the arbitrary information-matching that was required for expanding separate facts into a larger awareness of the world, or at properly tagging important information.
 
 Or, if those made of meat had wanted to drawn somewhat shallow comparisons, Pink_Unit -Some called it Punk- simply needed a while to reflect about things.
+
