@@ -2,7 +2,7 @@ Wind roared around the lighthouse. It always did at this height, but some days t
 
 Or maybe the wind was a constant, unrelenting reminder of what'd happen if she failed, if she fell asleep from boredom or just plain forgot to keep the magical fire alighted or to turn the focusing mirrors, of what'd happen if a ship hit their rocky shoals, the amount of spurn the family would get; and with righteous reason, then, if she was lazy or dumb enough to fail at what really were simple tasks.
 
- "Lady Fireclay."
+Clacking on the well tiled floor, "Lady Fireclay."
 
 She turned around from the brickwork window in front of her with a start, her hairs standing on end and not only because of the faint static in the air that had come with her family's guest.
 
@@ -26,10 +26,12 @@ And then lord yellow did something that, to Fireclay's knowledge, it had never d
 
  "Are you sure." At times yellow seemed to find it fit to draw a face on his circle plate, but not now. Now, it stared at her from the depths of it's own systems and machinations plain and unreadable.
 
- "Yes, lord yellow. Have you ever lied to you?"
+ "Yes, lord yellow. Have you ever lied to you?" The heat from the pyre seemed so much hotter than usual tonight, blasting her like a furnance.
 
  "Is that a captious question."
 
 Lady Fireclay almost twitched, almost allowed a second of hesitation to wonder if this was a question or captious on it's own, but a lifetime of seeing her friend and confidante grow insane had taught her not to:
 
  "No, lord yellow." She said without a pause, turning the lighthouse's focal mirrors on their pivots. "It's not."
+
+Yellow looked at -she supposed- her horn and then at the mirrors, and started climber the brickwork up to the pyre.
