@@ -4,13 +4,11 @@ Or maybe the wind was a constant, unrelenting reminder of what'd happen if she f
 
 Clacking on the well tiled floor, "Lady Fireclay."
 
-She turned around from the brickwork window in front of her with a start, her hairs standing on end and not only because of the faint static in the air that had come with her family's guest.
+She turned around from the brickwork window in front of her with a start, her hairs standing on end and not only because of the faint static in the air that had come with her family's guest. Yellow had a way to startle her sometimes.
 
 The small, edgy Duda was coated in a mix of rusted metal that the family always tried desperately to keep at bay, on four detached legs with their bottom tips angled inwards like a scorption's. At some point it had floated instead, but now it walked as a result of 'Non-interrelative levitation systems growing damaged beyond practical usability' and would skulk around, 'collecting data' for whatever was that it did so, it's walking always slightly off and slightly disjointed and, in truth, everyone was convinced that yellow was slowly going insane. It wasn't any particular action, just the undergoing offness of someone you've known your entire life changing in subtle but unnerving ways that words could explain but not convey the importance of.
 
-Watching it walk was like seeing a stick figure come to life, in all the wrong ways.
-
- "Lord yellow." She said out of compromise.
+ "Lord yellow." She said out of compromise, expecting the answer.
 
  "This unit does not recognize nor need titles, but is honoured." Said lord yellow like it had to every member of her family for the last three generations. "Have you found news regarding Citizen Lettuce Leaf."
 
@@ -40,6 +38,10 @@ Yellow looked at -she supposed- her horn and then at the mirrors, and started cl
 
 Yellow climbed the brickwork, it's legs awkward but somehow still precise and sharp, and helped her push with -even for people used to it- was a surprising amount of strength for such a little thing, the flame licking it's metal that somehow did not redden from it. "The mirrors have been aligned at the appropriate angle. Lady's Firework adherence to schedule remains steadfast."
 
-And in spite of it all Firework couldn't help smiling, because it was the exact same compliment, verbatim, that yellow had offered ever since she was a filly still learning the spells that kept the lighthouse's magical flame alive. Yellow never praised her when there was someone else around, just in their private moments. "Thankee, lord yellow."
+And in spite of it all Firework couldn't help smiling, because it was the exact same compliment, verbatim, that yellow had offered ever since she was a filly still learning the spells that kept the lighthouse's magical flame alive. Yellow never told her this when there was someone else around, just in their private moments. "Thankee, lord yellow."
 
- "This unit does not recognize nor require titles, but it is honoured."
+ "This unit does not recognize nor require titles, but it is honoured." Yellow hopped down to the tiled floor, "Does the assistance have value equivalent to a hug." It stated-and-maybe-asked.
+
+Fireclay blinked a few times, surprised by this, before answering. "Yellow, you're red-- You're hot."
+
+And yellow also paused at this, then said. "This unit is aware of it's temperature." It paused for a split second, then turned around to walk out of the room.
