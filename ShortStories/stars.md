@@ -82,4 +82,6 @@ Punk collected four most relevant facts from this, aside from the city's current
  - ***Fact***: Miss Sliver had not yet returned with the promised data.
      + **Addendum**: Current delay: Four years.
      + **Decision**: Request miss Cypress for verifiable data if she visits.
- - ***Fact***:
+ - ***Fact***: Radio frequencies from Purple_Unit, Orange_Unit, Cyan_Unit and White_Unit detected reflected from the higher atmosphere.
+     + **Addendum**: The chaos of the local higher atmosphere makes vectorization of origins impossible with current equipment.
+     + **Addendum**: White_Unit has repeatedly requested middle-grade SOS.
