@@ -95,15 +95,18 @@ Punk collected three most relevant facts from this, aside from the city's curren
      + **Addendum**: Orange_Unit's messages indicate that it is now actively seeking other units.
      + **Addendum**: Purple_Unit's messages indicate that it has found Citizen Lettuce Leaf and is now actively seeking other units.
      + 
-     + **Conflict**: Moving from current position may result in data regarding the units position becoming useless, thus rendering any search mutually useless.
+     + **Conflict**: Moving from current position may result in data regarding the units position becoming useless, thus rendering any search mutually unproductive.
      + **Possible decision**: Attempt to find other units while leaving a clear trail of this unit's path.
          * **Issue**: No available equipment would be as easy to find as this unit's radio systems.
              - **Addendum**: Production of required equipment rendered impossible by inadequacy of local materials and White_Unit's continued absence.
      + **Possible decision**: Remain in position.
          * **Issue**: Other units may also make this decision.
-             - **Decision**: Report this conflict to Princess Twlight Sparkle at earliest convenience, advising that she assigns predefined stand-or-seek roles.
-             - **Possible solution**; Coordinate with Orange_Unit and Purple_Unit to inform it of current position, predefining stand-or-seek roles.
+             - **Decision**: Report this conflict to Princess Twilight Sparkle at earliest convenience, advising that she assigns predefined stand-or-seek roles.
+             - **Possible decision**: Coordinate with Orange_Unit and Purple_Unit to inform it of current position, predefining stand-or-seek roles.
                  + **Issue**: Orange_Unit has not yet communicated awareness of local coordinate system.
                  + **Issue**: Purple_Unit has communicated awareness of local coordinate systems, but this knowledge seems to be flawed and/or partial.
-                 + **Issue** Atmospheric bouncing of radio signals is too unreliable. No unit has as of yet answered to any attempt of bridging communication.
+                 + **Issue**: Atmospheric bouncing of radio signals is too unreliable. No unit has as of yet answered to any attempt of bridging communication.
+            - **Possible decision**: Coordinate with Yellow_Unit to predefine stand-or-seek roles.
+                + **Issue**: Yellow_Unit exhibits anomalous processing.
+                + **Issue**: 
 
