@@ -46,7 +46,7 @@ Fireclay blinked a few times, surprised by this, before answering. "Yellow, you'
 
 And yellow also paused at this, then said. "This unit is aware of it's temperature." It paused for a split second, then turned around to walk out of the room. "This unit will now continue readying to assist with the bug season."
 
- "Yellow, I can still hug you later." Rushed to say Fireclay. "If you really wanted it."
+ "Yellow, I can still hug you later." Rushed to say Fireclay, still surprised by how off yellow was being. "If you really wanted it."
 
 Yellow paused, and suddenly draw a simple face on it's circle plate.
 
