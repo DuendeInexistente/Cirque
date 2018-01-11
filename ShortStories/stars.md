@@ -119,4 +119,4 @@ And there were problems with this decision, like how small the range still was i
 
 Pink_Unit, or Punk, stood still for a moment longer with it's sensors mainly focused on the moon: It was almost spotless here, compared to what its archives portrayed the Equestrian moon as.
 
-Then the heat it emitted started to fade, now that it's boot was complete and several systems could
+Then the heat it emitted started to fade, now that it's boot was complete and several systems could work at lesser, more relaxed
