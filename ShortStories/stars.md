@@ -40,4 +40,6 @@ Yellow looked at -she supposed- her horn and then at the mirrors, and started cl
 
 Yellow climbed the brickwork, it's legs awkward but somehow still precise and sharp, and helped her push with -even for people used to it- was a surprising amount of strength for such a little thing, the flame licking it's metal that somehow did not redden from it. "The mirrors have been aligned at the appropriate angle. Lady's Firework adherence to schedule remains steadfast."
 
-And in spite of it all Firework couldn't help smiling, because it was the exact same compliment, verbatim, that yellow had offered ever since she was a filly still learning the spells that kept the lighthouse's magical flame alive. Yellow never praised her when there was someone else around, just in their private moments.
+And in spite of it all Firework couldn't help smiling, because it was the exact same compliment, verbatim, that yellow had offered ever since she was a filly still learning the spells that kept the lighthouse's magical flame alive. Yellow never praised her when there was someone else around, just in their private moments. "Thankee, lord yellow."
+
+ "This unit does not recognize nor require titles, but it is honoured."
