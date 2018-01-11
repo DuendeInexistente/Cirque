@@ -15,4 +15,3 @@
  * [Flow](ShortStories/flow.md)
  * [Grief](ShortStories/Grief.md)
  * [It's only natural](ShortStories/OnlyNatural.md)
- * [Stars](ShortStories/stars.md)
