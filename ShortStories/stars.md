@@ -70,7 +70,7 @@ Technically all this information had been processed by the non-intelligence that
 
 Or, if those made of meat had wanted to drawn somewhat shallow comparisons, Pink_Unit -Some called it Punk- simply needed a while to reflect about things.
 
-Punk collected four most relevant facts from this, aside from the city's current trajectory:
+Punk collected three most relevant facts from this, aside from the city's current trajectory:
 
  - ***Fact***: The city-state of Arabesco had been destroyed in an event that as of yet had too many varying and unmatching stories. 
      + **Addendum**: Taint-type beasts seem to have been involved.
@@ -92,9 +92,18 @@ Punk collected four most relevant facts from this, aside from the city's current
          * **Decision**: Six-two-six will be applied.
      + **Addendum**: Cyan_Unit's distorted messages may reflect extremely damaged systems.
          * **Decision**: Cyan_Unit's status tagged as red alert.
-     + **Addendum**: Orange_Unit's messages indicate that it is actively seeking other units as per it's protocol.
+     + **Addendum**: Orange_Unit's messages indicate that it is now actively seeking other units.
+     + **Addendum**: Purple_Unit's messages indicate that it has found Citizen Lettuce Leaf and is now actively seeking other units.
      + 
      + **Conflict**: Moving from current position may result in data regarding the units position becoming useless, thus rendering any search mutually useless.
      + **Possible decision**: Attempt to find other units while leaving a clear trail of this unit's path.
          * **Issue**: No available equipment would be as easy to find as this unit's radio systems.
              - **Addendum**: Production of required equipment rendered impossible by inadequacy of local materials and White_Unit's continued absence.
+     + **Possible decision**: Remain in position.
+         * **Issue**: Other units may also make this decision.
+             - **Decision**: Report this conflict to Princess Twlight Sparkle at earliest convenience, advising that she assigns predefined stand-or-seek roles.
+             - **Possible solution**; Coordinate with Orange_Unit and Purple_Unit to inform it of current position, predefining stand-or-seek roles.
+                 + **Issue** Atmospheric bouncing of radio signals is too unreliable. No unit has as of yet answered to any attempt of bridging communication.
+                 + **Issue**: Orange_Unit has not communicated awareness of local coordinate system.
+
+Oubj
