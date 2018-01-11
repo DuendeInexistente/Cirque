@@ -77,14 +77,12 @@ Punk collected three most relevant facts from this, aside from the city's curren
      + **Addendum**: Descriptions of involved pegasi have a degree of coincidence with Equestrian weather manipulation.
          * **Addendum**: Citizen Lettuce Leaf was not reported to be acknowledgeable regarding weather manipulation.
          * **Decision**: Recollect more information regarding the pegasus involved in the destruction of Arabesco.
-     +
      + **Decision**: Recollect versions of the story during the course of the next hibernation period as social hysteria diminishes.
-     + **Decision**: Request miss Chundra, miss Cypress, and pilgrims for verifiable data if or when they visit.
+     + **Decision**: Request Citizen Chundra, Citizen Cypress, and pilgrims for verifiable data if or when they visit.
      + **Decision**: Inform Yellow_Unit of this development. Compare compiled data.
- - ***Fact***: Miss Sliver had not yet returned with the promised data.
+ - ***Fact***: Citizen Sliver had not yet returned with the promised data.
      + **Addendum**: Current delay: Eight years.
-     + 
-     + **Decision**: Request miss Cypress for verifiable data if she visits.
+     + **Decision**: Request Citizen Cypress for verifiable data if she visits.
      + **Decision**: Attempt to locate depending on the outcome of the following fact.
  - ***Fact***: Radio frequencies from Purple_Unit, Orange_Unit, Cyan_Unit and White_Unit detected bouncing from the higher atmosphere.
      + **Addendum**: The chaos of the local higher atmosphere makes vectorization of origins impossible with current equipment impossible.
@@ -94,7 +92,6 @@ Punk collected three most relevant facts from this, aside from the city's curren
          * **Decision**: Cyan_Unit's status tagged as red alert.
      + **Addendum**: Orange_Unit's messages indicate that it is now actively seeking other units.
      + **Addendum**: Purple_Unit's messages indicate that it has found Citizen Lettuce Leaf and is now actively seeking other units.
-     + 
      + **Conflict**: Moving from current position may result in data regarding the units position becoming useless, thus rendering any search mutually unproductive.
      + **Possible decision**: Attempt to find other units while leaving a clear trail of this unit's path.
          * **Addendum**: Retrieval of White_Unit or Cyan_Unit marked as two highest priorities, applying protocol 626 if necessary.
