@@ -75,11 +75,9 @@ Punk collected four most relevant facts from this, aside from the city's current
  - **Fact**: The city-state of Arabesco had been destroyed in an event that as of yet had too many varying and unmatching stories. 
      + **Addendum**: Taint-class beasts seem to have been involved.
      + **Addendum**: Descriptions of involved pegasi have a degree of coincidence with Equestrian weather manipulation.
-         * **Subaddendum**: Citizen Lettuce Leaf was not reported to be acknowledgeable regarding weather manipulation.
-     + **Decision**: Recollect versions of the story during the course of the next hibernation period as social hysteria diminishes.
-     + **Decision**: Request miss Chundra for verifiable data if she visits.
-     + **Decision**: Request miss Cypress for verifiable data if she visits.
-     + **Decision**: Request pilgrims for verifiable data.
- - Miss Sliver had not yet returned with the promised data.
+         * **Addendum**: Citizen Lettuce Leaf was not reported to be acknowledgeable regarding weather manipulation.
+         * **Decision**: Recollect more information regarding the pegasus involved in the destruction of Arabesco.
+     + **Decision**: Recollect versions of the story during the course of the next hibernation period as social hysteria diminishes. Request miss Chundra, miss Cypress, and pilgrims for verifiable data.
+ - **Fact**: Miss Sliver had not yet returned with the promised data.
      + **Addendum**: Current delay: Four years.
      + **Decision**: Request miss Cypress for verifiable data if she visits.
