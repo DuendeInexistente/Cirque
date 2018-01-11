@@ -58,7 +58,7 @@ And after a moment Fireclay turned around, and continued to stand watch over the
 
 # ...somewhere high...
 
-An exact Equestrian year after it had last done so, pink_unit -mechanical ambassador, medic class, resource user version alpha three point zero point five point one point nine variant dee- shook into motion. Power that usually cycled only to prevent damage of it's systems started galloping through it's copper and gold veins like a stampede of horses and, even in the low-oxygen atmosphere, exuded about as much heat in the process of booting up from hibernation. The light ceramic alloys that the tower was made of clicked softly from the temperature. On the stairs that climber up to this floor, a pilgrim felt the heat and decided to come back later.
+An exact Equestrian year after it had last done so, pink_unit -mechanical ambassador, medic class, resource user version alpha three point zero point five point one point nine variant dee- shook into motion. Power that usually cycled only to prevent damage of it's systems started galloping through it's copper and gold veins like a stampede of horses and, even in a an atmosphere with low enough oxygen to slow down oxidation, exuded about as much heat in the process of booting up from hibernation. The light ceramic alloys that the tower was made of clicked softly from the temperature. On the stairs that climber up to this floor, a pilgrim felt the heat and decided to come back later.
 
 In it's crystalline pseudopositronic brain, data flowed into motion as the complex-enough class intelligence that resided started processing a year's worth of collected data. Wind speed, words heard idly by it's wandering pieces, air density to calculate height, shifting of star maps to calculate trajectory, the prayers of visitors, it all flowed and was rearranged in arbitrary combinations to try finding coinciding facts at insane speeds that true intelligence wouldn't have allowed. 
 
@@ -72,7 +72,7 @@ Or, if those made of meat had wanted to drawn somewhat shallow comparisons, Pink
 
 Punk collected three most relevant facts from this, aside from the city's current trajectory:
 
- - ***Fact***: The city-state of Arabesco had been destroyed in an event that as of yet had too many varying and unmatching stories. 
+ - ***Fact***: The city-state of Arabesco had been destroyed in an event that has too many varying and unmatching stories. 
      + **Addendum**: Taint-type beasts seem to have been involved.
      + **Addendum**: Descriptions of involved pegasi have a degree of coincidence with Equestrian weather manipulation.
          * **Addendum**: Citizen Lettuce Leaf was not reported to be acknowledgeable regarding weather manipulation.
@@ -115,4 +115,4 @@ Pink_Unit was still for several minutes, pseudopositronic brain churning through
 
  - **Compromise while decisions are considered**: Orbit current location whithin maximum radio range to effectively expand communications range.
 
-And there were problems with this decision, like how small the range still was in the grand scheme of things, but when Pink_Unit thought of them they automatically triggered the common_sense daemons. The issues were much too obvious, and the o
+And there were problems with this decision, like how small the range still was in the grand scheme of things, but when Pink_Unit thought of them they automatically triggered the common_sense daemons. The issues were much too obvious, and the solution was statedly a stopgap one, knowingly unideal. Thus, these issues weren't committed to the field report.
