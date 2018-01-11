@@ -79,9 +79,14 @@ Punk collected four most relevant facts from this, aside from the city's current
          * **Decision**: Recollect more information regarding the pegasus involved in the destruction of Arabesco.
      + **Decision**: Recollect versions of the story during the course of the next hibernation period as social hysteria diminishes.
      + **Decision**: Request miss Chundra, miss Cypress, and pilgrims for verifiable data if or when they visit.
+     + **Decision**: Inform Yellow_Unit of this development. Compare compiled data.
  - ***Fact***: Miss Sliver had not yet returned with the promised data.
      + **Addendum**: Current delay: Four years.
      + **Decision**: Request miss Cypress for verifiable data if she visits.
- - ***Fact***: Radio frequencies from Purple_Unit, Orange_Unit, Cyan_Unit and White_Unit detected reflected from the higher atmosphere.
-     + **Addendum**: The chaos of the local higher atmosphere makes vectorization of origins impossible with current equipment.
-     + **Addendum**: White_Unit has repeatedly requested middle-grade SOS.
+     + **Decision**: Attempt to locate depending on the outcome of the following fact.
+ - ***Fact***: Radio frequencies from Purple_Unit, Orange_Unit, Cyan_Unit and White_Unit detected bouncing from the higher atmosphere.
+     + **Addendum**: The chaos of the local higher atmosphere makes vectorization of origins impossible with current equipment impossible.
+     + **Addendum**: White_Unit has repeatedly requested yellow-grade SOS.
+         * **Decision**: Six-two-six protocol may need be applied.
+     + **Addendum**: Cyan_Unit's distorted messages may reflect extremely damaged systems.
+     + **Conflict**: Moving from current position may result in  units missing each other in their searches by rendering their information useless.
