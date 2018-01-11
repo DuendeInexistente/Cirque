@@ -58,7 +58,7 @@ And after a moment Fireclay turned around, and continued to stand watch over the
 
 # ...somewhere high...
 
-An exact Equestrian year after it had last done so, pink_unit -mechanical ambassador, scout class, resource user version alpha three point zero point five point one point nine variant dee- shook into motion. Power that usually cycled only to prevent damage of it's systems started galloping through it's copper and gold veins like a stampede of horses and, even in the low-oxygen atmosphere, exuded about as much heat in the process of booting up from hibernation. The light ceramic alloys that the tower was made of clicked softly from the temperature. On the stairs that climber up to this floor, a pilgrim felt the heat and decided to come back later.
+An exact Equestrian year after it had last done so, pink_unit -mechanical ambassador, medic class, resource user version alpha three point zero point five point one point nine variant dee- shook into motion. Power that usually cycled only to prevent damage of it's systems started galloping through it's copper and gold veins like a stampede of horses and, even in the low-oxygen atmosphere, exuded about as much heat in the process of booting up from hibernation. The light ceramic alloys that the tower was made of clicked softly from the temperature. On the stairs that climber up to this floor, a pilgrim felt the heat and decided to come back later.
 
 In it's crystalline pseudopositronic brain, data flowed into motion as the complex-enough class intelligence that resided started processing a year's worth of collected data. Wind speed, words heard idly by it's wandering pieces, air density to calculate height, shifting of star maps to calculate trajectory, the prayers of visitors, it all flowed and was rearranged in arbitrary combinations to try finding coinciding facts at insane speeds that true intelligence wouldn't have allowed. 
 
@@ -106,7 +106,6 @@ Punk collected three most relevant facts from this, aside from the city's curren
                  + **Issue**: Orange_Unit has not yet communicated awareness of local coordinate system.
                  + **Issue**: Purple_Unit has communicated awareness of local coordinate systems, but this knowledge seems to be flawed and/or partial.
                  + **Issue**: Atmospheric bouncing of radio signals is too unreliable. No unit has as of yet answered to any attempt of bridging communication.
-            - **Possible decision**: Coordinate with Yellow_Unit to predefine stand-or-seek roles.
-                + **Issue**: Yellow_Unit exhibits anomalous processing.
-                + **Issue**: 
+             - **Possible decision**: Coordinate with Yellow_Unit to predefine stand-or-seek roles.
+                 + **Issue**: Yellow_Unit is too damaged to seek and has displayed failures on it's emiting radio systems, as well as having it's own position to await other units from.
 
