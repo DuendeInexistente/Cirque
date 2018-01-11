@@ -116,7 +116,7 @@ And there were problems with this decision, like how small the range still was i
 
 Pink_Unit, or Punk, stood still for a moment longer with it's sensors mainly focused on the moon: It was almost spotless here, compared to what its archives portrayed the Equestrian moon as. It also continued to omit anomalous signals.
 
-Then the heat it emitted started to fade, now that it's boot was complete and several systems had grossly reduced workloads, so Punk left one of it's circle plates in the spot for any visitor that could decide to come and jumped off the ledge to start orbiting.
+Then the heat it emitted started to fade, now that it's boot was complete and several systems had grossly reduced workloads, so Punk left one of it's circle plates in the spot for any visitor that could decide to come and jumped off the ledge to start the orbiting.
 
 # ...And on the lower stratum...
 
