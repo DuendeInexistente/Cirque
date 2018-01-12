@@ -104,7 +104,7 @@ Punk collected three most relevant facts from this, aside from the city's curren
                  + **Issue**: Purple_Unit has communicated awareness of local coordinate systems, but this knowledge seems to be flawed and/or too partial.
                  + **Issue**: Atmospheric bouncing of radio signals is too unreliable. No unit has as of yet answered to any attempt of bridging communication.
              - **Possible decision**: Coordinate with Yellow_Unit to predefine stand-or-seek roles.
-                 + **Issue**: Yellow_Unit is too damaged to seek and has displayed failures on it's emitting radio systems that cannot be repaired without White_Unit's assistance, as well as having it's own position to await other units from.
+                 + **Issue**: Yellow_Unit is too damaged to have the seeking role and has displayed failures on it's emitting radio systems that cannot be repaired without White_Unit's assistance, as well as having it's own position to await other units from.
                  + **Issue**: Current position of Yellow_Unit is three days, two hours, fifteen minutes from current position of Pink_Unit. Coordination may prove complicated.
 
 Pink_Unit was still for several minutes, pseudopositronic brain churning through the available data, and when a solution didn't become apparently available something else was added to the list:
