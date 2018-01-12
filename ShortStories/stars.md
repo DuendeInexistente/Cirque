@@ -94,7 +94,7 @@ Punk collected three most relevant facts from this, aside from the city's curren
      + **Conflict**: Moving from current position may result in data regarding the units position becoming useless, thus rendering any search mutually unproductive.
      + **Possible decision**: Attempt to find other units while leaving a clear trail of this unit's path.
          * **Addendum**: Retrieval of White_Unit or Cyan_Unit marked as two highest priorities, applying protocol 626 if necessary.
-         * **Issue**: No available equipment would be as easy to find as this unit's radio systems.
+         * **Issue**: No available equipment could broadcast radio signals in a range equal or greather than Pink_Unit
              - **Addendum**: Production of required equipment rendered impossible by inadequacy of local materials and White_Unit's continued absence.
      + **Possible decision**: Remain in position.
          * **Issue**: Other units may also make this decision.
