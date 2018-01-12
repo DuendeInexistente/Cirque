@@ -77,7 +77,6 @@ Punk collected three most relevant facts from this, aside from the city's curren
      + **Addendum**: Descriptions of involved pegasi have a degree of coincidence with Equestrian weather manipulation.
          * **Addendum**: Citizen Lettuce Leaf was not reported to be acknowledgeable regarding weather manipulation.
          * **Decision**: Recollect more information regarding the pegasus involved in the destruction of Arabesco.
-     + **Decision**: Recollect versions of the story during the course of the next hibernation period as social hysteria diminishes.
      + **Decision**: Request Citizen Chundra, Citizen Cypress, and pilgrims for verifiable data if or when they visit.
      + **Decision**: Inform Yellow_Unit of this development. Compare compiled data.
  - ***Fact***: Citizen Sliver has not yet returned with the promised data.
@@ -89,7 +88,7 @@ Punk collected three most relevant facts from this, aside from the city's curren
      + **Addendum**: White_Unit has repeatedly requested yellow-grade SOS.
          * **Decision**: Protocol 626 will be applied.
      + **Addendum**: Cyan_Unit's distorted messages may reflect extremely damaged systems.
-         * **Decision**: Cyan_Unit's status tagged as red alert.
+         * **Decision**: Cyan_Unit's status tagged as red-grade SOS.
      + **Addendum**: Orange_Unit's messages indicate that it is now actively seeking other units.
      + **Addendum**: Purple_Unit's messages indicate that it has found Citizen Lettuce Leaf and is now actively seeking other units.
      + **Conflict**: Moving from current position may result in data regarding the units position becoming useless, thus rendering any search mutually unproductive.
@@ -120,9 +119,7 @@ Then the heat it emitted started to fade, now that it's boot was complete and se
 
 # ...And on the lower stratum...
 
- "Do you know of the location of the Citizen Lettuce Leaf." Stated Orange_Unit
-
-
+ "Do you know of the location of the Citizen Lettuce Leaf." Requested Orange_Unit to a griffon. The griffon gave it a look and 
 
 
 
