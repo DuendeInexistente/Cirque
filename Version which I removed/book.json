@@ -1,7 +1,0 @@
-{
-    "plugins": [
-		"neo-navigator",
-        "anchors",
-        "footnote-string-to-number"
-    ]
-}
