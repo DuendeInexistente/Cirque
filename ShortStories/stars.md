@@ -153,17 +153,21 @@ There was no answer, nor did any more signals bounce randomly in O_U's general d
 
 Orange_Unit was incapable of feel disheartened, or frustration.
 
-So when it saw a ```FRIENDSHIP_BUILDING``` scenario occurring below, it acted immediately immediately, without any delay. A griffon clearly making a threat display, wielding a short knife, was threatening a pony mare who was shielding a foal away from the griffon. While protocol called for cautiousness in case of ambiguity, there was very little ambiguous in this situation.
+So when it saw a ```FRIENDSHIP_BUILDING``` scenario with a value of twelve occurring below, it acted without any delay. A griffon clearly making a threat display, wielding a short knife, was threatening a pony mare who covered a foal from the griffon with her body. While protocol called for cautiousness in judging violent situations, there was very little ambiguous in this.
 
 Orange_Unit did not deem it necessary to use it's more specialized features, so it fell on the floating planks with a loud clank -intimidation could prevent violence- and extended it's rays between the griffon and the mare, increasing the volume of it's voice by a ten percent:
 
- "This unit will not enforce lethal or crippling damage in this situation, as per Equestrian law." It said.
+ "This unit will not enforce lethal or crippling damage in this situation, as per Equestrian law." It said. "You are thanked for withdrawing any threat."
 
 The griffon hesitated but tried to stab at O_U. The unit measured the speed and force of the knife, and knew that it wouldn't scratch the paint.
 
 Nothing happened for a moment, until the griffon realized what had happened. O_U repeated it's message, pushing the knife back with enough strength to almost throw the griffon off balance.
 
-The griffon looked back and forth between the unit and his knife, then ran away.
+The griffon looked back and forth between the unit and his knife.
+
+ "Hey!" Shouted someone else, angry. The griffon ran, but the unit measured the situation: The mare and foal were now intimidated by O_U. For lack of a better **Decision**, O_U withdrew it's pieces and stood a respectful distance from the mare, not floating for the moment.
+
+
 
 # ...I ask for help...
 
