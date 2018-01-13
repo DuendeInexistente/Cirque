@@ -132,14 +132,23 @@ Thus, it only broadcasted it's standard beacon signal, aimed all it's sensory eq
 Orange_Unit was incapable of feeling frustration that Citizen Lettuce Leaf had not been among this crowd.
 
 
-
+--------
 
 
  "Are you aware of the location of the Citizen Lettuce Leaf." Requested Orange_Unit to a griffon, who gave the bot a look and walked away.
 
-Orange_Unit floated in place. Primary engagement protocol was plain in it's scenario: No damage to any system, nor any signal of the sought objective, meant that it defaulted to passive search operations largely focused on establishing  
+Orange_Unit floated in place. Primary engagement protocol was plain in it's scenario: No damage to any system, nor any signal of the sought objective, meant that it defaulted to passive search operations largely focused on establishing initial familiarity with the locals and collect data. Over time, if Citizen Lettuce Leaf was not found, finding the him would gradually supersede these.
 
+Protocol unambiguously required that O_U be a bit of a pest at first; data had to be collected and opinions could be swayed for the better, when people didn't freak out at the sight of a Star.
 
+However, the initial surprise hadn't really happened, which was messing badly with protocolar etiquette. O_U had been consistly judged to be a Duda, which
+
+ - **_Fact_**: Was a seemingly mechanical species, bar some, very small, heat source in the center of their chassis
+ - **_Fact_**: Could mean a culture with technology beyond Equestria's existed in the region.
+   * **Problem**: This culture may attempt to disassemble Stars, gaining insight into Equestrian technology and possibly becoming a danger to Equestria.
+   * **Decision**: if at all possible, avoid this culture until motives and attitudes -stated, historical, and popular- regarding foreign powers are ascertained.
+   * **Decision**: if captured, escape, negotiate, or self-obliterate.
+     + **Addendum**: Have a self-obliteration system readied in case of forceful deactivation.
 
 
 
@@ -152,8 +161,6 @@ Orange_Unit floated in place. Primary engagement protocol was plain in it's scen
 # ...Cry so very loud.
 
 (Cyan)
-
-
 
 
 
