@@ -153,7 +153,7 @@ There was no answer, nor did any more signals bounce randomly in O_U's general d
 
 Orange_Unit was incapable of feel disheartened, or frustration.
 
-
+So when it saw a ```FRIENDSHIP_BUILDING``` scenario occurring below, it acted immediately
 
 
 
