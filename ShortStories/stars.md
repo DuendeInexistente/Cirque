@@ -169,6 +169,8 @@ The griffon looked back and forth between the unit and his knife.
 
  "The mare is now safe." It said.
 
+She nodded, still agitated by what had happened, nodded silently. A male triton[^tritons]
+
 
 # ...I ask for help...
 
@@ -182,8 +184,6 @@ The griffon looked back and forth between the unit and his knife.
 # For you never came to me.
 
 
-[^captain]: Mainstream Duda culture seems to be fully integrated with naval trading of services, which reflects on their social hierarchy.
-
-[^electricity]: To be noted that water seemingly covering the whole sphere, as well as Dudas monopolizing copper alloys, might make electricity manipulation known but impractical.
-
 [^fall]: O_U had a much heavier and more resistant than the other units' that allowed it to remain completely active, despite the wind overwhelming it's non-interrelative levitation systems. Unable to do anything about the fall, protocol requested it at least log it.
+
+[^tritons]: O_U had not meet any female member of this species.
