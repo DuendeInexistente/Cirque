@@ -153,7 +153,7 @@ There was no answer, nor did any more signals bounce randomly in O_U's general d
 
 Orange_Unit was incapable of feel disheartened, or frustration.
 
-So when it saw a ```FRIENDSHIP_BUILDING``` scenario occurring below, it acted immediately immediately, without any delay.
+So when it saw a ```FRIENDSHIP_BUILDING``` scenario occurring below, it acted immediately immediately, without any delay. A griffon clearly making a threat display, wielding a short knife, was threatening a mare who hid a foal behind it. While protocol called for cautiousness in case of ambiguity, there was very little ambiguous in this situation.
 
 
 
