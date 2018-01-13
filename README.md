@@ -21,3 +21,8 @@ Changelog:
 27/12/17: I wave off the year with new content.
 
 2/1/18: Restored the short stories, which I apparently removed from the summary at some point, in a more user-friendly format.
+
+13/1/18: Added one more story. And realizing that I didn't do this before, the new material is:
+
+ - [Three](ScrambledPages/1.md) [new](ScrambledPages/2.md) [pages](ScrambledPages/3.md) of Creek's journal.
+ - [A short story about starry skies.](ShortStories/stars.md)

@@ -220,21 +220,23 @@ Finally, backed into a proverbial and literal corner, Cyan_Unit activated it's e
 
 ## Yet wish that you stay away from me.
 
-The stallion walked slowly between the statues, the whitened walls of buildings that had long since been occupied surrounding the plaza like silent watchers, the high towers and spires that had once promised to shelter travelers now empty since time immemorial. And in his step was a solemnity, as was there in his face, even in the way his walking made his starry deep purple mane and tail wave behind him like water.
+The stallion walked slowly between the statues, the whitened walls of buildings that had long since been occupied surrounding the plaza like silent watchers, the high towers and spires that had once promised to shelter travellers now empty since time immemorial. And in his step was a solemnity, as was there in his face, even in the way his walking made his starry deep purple mane and tail wave behind him like water.
 
  "...Haáklu priêkzytrânkdêm," He sang under his breath, the private whisper of someone who knows himself alone. "Nezkpretaro, teknovoriz..."
 
-Rain, so fine it was closer to mist, fell over his blue fur and on the tiled floor of the plaza. The tiles weren't a square pattern, nor any specific shape: They were instead circles, rhombs, triangles, complex shapes that drew a larger pattern over the floor of the plaza, each made on it's own over the course of many patient decades. And there were silent denizens all around the plaza: Those of stone were frozen in place, a giant battle stopped short before it began, spears and armour and swords ready to strike their enemies. Each of the ponies was stuck in the motion of shouting, their wings leathery, fangs on their mouths.
+Rain, so fine it was closer to mist, fell over his blue fur and on the tiled floor of the plaza. The tiles weren't a square pattern, nor any specific shape: They were instead circles, rhomboids, triangles, complex shapes that drew a larger pattern over the floor of the plaza, each made on it's own over the course of many patient decades. And there were silent denizens all around the plaza: Those of stone were frozen in place, a giant battle stopped short before it began, spears and armour and swords ready to strike their enemies. Each of the ponies was stuck in the motion of shouting, their wings leathery, fangs in their mouths.
 
 Those of copper sat silently, patiently, vacuous eyes staring at the infinite. The stallion looked briefly into one, still singing his song, knowing himself alone.
 
-In the tallest tower of the city, a bell ringed. The stallion's heart also rang with joy, in spite of the bleakness of his task, as the copper statues moved slightly, starting to sing in a massive chorus, only the soft rain accompanying them.
+And in the tallest tower of the city a bell ringed. The stallion's heart also rang with joy, in spite of the bleakness of his task, as the copper statues moved slightly, starting to sing in a massive chorus, only the soft rain accompanying them.
 
-But for now the stallion kept walking, a rag of intertwined purple hair held in his magic, navigating the statues. Here and there were specks of dust on the statues that he cleaned away quickly but carefully, but they weren't his objective still.
+But for now he kept walking, a cloth of threaded purple hair held in his magic, navigating the statues. Here and there were specks of dust on the statues that he cleaned away quickly but carefully, but they weren't his objective still.
 
 And there, at the center of the battlefield.
 
-This bat pony did not scream like the others; Instead, he walked with patient violence in his posture. On his tail was a spear held like a scorpion's sting, and layered armour covered his chest and shoulderblades but not his legs. The helmet he wore, unadorned, hid the eyes below, and had one been curious enough -and the stallion had been- a rag could be just barely glanced between the head and the helmet, covering the eyes of the pony.
+This pony did not scream like the others; Instead, he walked with patient violence in his posture that had once made even those on his own side give him a wide berth. On his tail was a spear held like a scorpion's sting, and layered armour covered his chest and shoulder blades but not his legs. The helmet he wore, unadorned, hid the eyes below, and had one been curious enough -and the stallion had been- a rag could be just barely glanced between the head and the helmet, covering the eyes of the pony.
+
+On his side, a crescent moon had been emblazoned on layered armor over his cutie mark. It was an Equestrian flag, the half with the sun torn away.
 
 The stallion started cleaning this statue with accustomed patience, touching it with awe and respect despite how embittered his face was, and only once it was clean did he start singing with his chorus:
 
