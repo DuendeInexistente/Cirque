@@ -151,7 +151,12 @@ Then it awaited. The sun moved across the sky.
 
 There was no answer, nor did any more signals bounce randomly in O_U's general direction. It slowly turned it's sensors back downwards, as per protocol inbetween mayor actions.
 
-Orange_Unit was incapable of feel frustration.
+Orange_Unit was incapable of feel disheartened, or frustration.
+
+
+
+
+
 
 # ...I ask for help...
 
