@@ -8,7 +8,7 @@ Or maybe the wind was a constant, unrelenting reminder of what'd happen if she f
 
 She turned around from the brickwork window in front of her with a start, her hairs standing on end and not only because of the faint static in the air that had come with her family's guest. Yellow had a way to do that sometimes.
 
-The small, edgy Duda was coated in a mix of faded yellow paint and red rust that the family always tried desperately to keep at bay, on four detached legs with their bottom tips angled inwards like a scorpion's. At some point in the past yellow had flown instead, but now it walked as a result of 'Non-interrelative levitation systems becoming damaged beyond practical usability' and would skulk around, 'collecting data' for whatever was that it did so, it's walking always slightly off and slightly disjointed and, in truth, everyone was convinced that yellow was slowly going insane. It wasn't any particular action, just the undergoing offness of someone you've known your entire life changing in subtle but unnerving ways that words could explain but not convey the importance of.
+The small, edgy Duda was coated in a mix of faded yellow paint and red rust that the family always tried desperately to keep at bay, on four detached legs with their bottom tips angled inwards like a scorpion's. At some point in the past yellow had flown instead, but now it walked as a result of 'Non-relative levitation systems becoming damaged beyond practical usability' and would skulk around, 'collecting data' for whatever was that it did so, it's walking always slightly off and slightly disjointed and, in truth, everyone was convinced that yellow was slowly going insane. It wasn't any particular action, just the undergoing offness of someone you've known your entire life changing in subtle but unnerving ways that words could explain but not convey the importance of.
 
  "Lord yellow." She said out of compromise, expecting the answer.
 
@@ -145,7 +145,7 @@ It was gone now, only reaching O_U briefly because of random atmospheric bounc--
 
 O_U's complex-enough intelligence hadn't been designed with a sense of wonder or hope. Instead, the ```WILD_MATCH``` variable would increase it's value when unlikely coincidences occurred and decrease passively over time, temporarily making it more likely to try predicted failures. The variable started at 5 and floored at 0; now it was at 65.
 
-O_U awaited for longer than the protocol requested for more signals to arrive. Then it extended it's rays, straining the interrelative levitation systems that animated them, and broadcasted a radio signal at full power.
+O_U awaited for longer than the protocol requested for more signals to arrive. Then it extended it's rays, straining the relative levitation systems that animated them, and broadcasted a radio signal at full power.
 
 Then it awaited. The sun moved across the sky.
 
@@ -183,7 +183,7 @@ Several alarms blared in O_U's imitation of conciousness, immediately lowering t
 
 ## ...I ask for help...
 
-White_Unit stood on it's prods despite the non-interrelative levitation systems working at half their capacity, standing on it's four rays like a spider, inside a transparent dome. It's central disk plate had employed it's mass spectrometer on the material, and ascertained it to be non-transformable, non-crystalline ceramic alloys, tagging it as ```HARVESTABLE``` and ```USELESS```
+White_Unit stood on it's prods despite the non-relative levitation systems working at half their capacity, standing on it's four rays like a spider, inside a transparent dome. It's central disk plate had employed it's mass spectrometer on the material, and ascertained it to be non-transformable, non-crystalline ceramic alloys, tagging it as ```HARVESTABLE``` and ```USELESS```
 
 The room outside it's glass dome, all white steel and greenish glass, was empty for the first time in a good while. White_Unit kicked it's sensors into overdrive[^PlayTheFool] to analyse the room. No mass detected, no alteration in light, no heat sources.
 
@@ -199,7 +199,7 @@ White_Unit was fairly sure the locals did not know about all it could do, either
 
 QVMgSSBGQUxMIEFTIEkgU0hBVFRFUiBBUyBJIENSQUNLCg== tried to maintain altitude VEhVTkRFUiBISVRTIE1FIElUIEJVUk5TIE1FIElUIEtJTExTIE1FCg== but RW1lcmdlbmN5OiBFbmVyZ3kgb3ZlcmxvYWQgb24gYWxsIHN5c3RlbXMuIEVtZXJnZW5jeSBzaHV0ZG93biBpbiBwcm9ncmVzcwo=
 
-It turned back on several minutes later, still falling. Cyan_Unit's sensors had been damaged, but it still detected a large water body dangerously close. It's non-interrelative levitation systems kicked into overdrive, absurdly redundant and powerful engines that made the air boil away from the unit shattering into ozone and steam, and energy was diverted from all systems in an attempt to change the drop into a safe, or at least survivable, vector.
+It turned back on several minutes later, still falling. Cyan_Unit's sensors had been damaged, but it still detected a large water body dangerously close. It's non-relative levitation systems kicked into overdrive, absurdly redundant and powerful engines that made the air boil away from the unit shattering into ozone and steam, and energy was diverted from all systems in an attempt to change the drop into a safe, or at least survivable, vector.
 
 It was because of this that the fall didn't shatter Cyan_Unit into plain chunks of scrap.
 
@@ -220,13 +220,31 @@ Finally, backed into a proverbial and literal corner, Cyan_Unit activated it's e
 
 ## Yet wish that you stay away from me.
 
+The stallion walked slowly between the statues, the whitened walls of buildings that had long since been occupied surrounding the plaza like silent watchers, the high towers and spires that had once promised to shelter travelers now empty since time immemorial. And in his step was a solemnity, as was there in his face, even in the way his walking made his starry deep purple mane and tail wave behind him like water.
+
+ "...Haáklu priêkzytrânkdêm," He sang under his breath, the private whisper of someone who knows himself alone. "Nezkpretaro, teknovoriz..."
+
+Rain, so fine it was closer to mist, fell over his blue fur and on the tiled floor of the plaza. The tiles weren't a square pattern, nor any specific shape: They were instead circles, rhombs, triangles, complex shapes that drew a larger pattern over the floor of the plaza, each made on it's own over the course of many patient decades. And there were silent denizens all around the plaza: Those of stone were frozen in place, a giant battle stopped short before it began, spears and armour and swords ready to strike their enemies. Each of the ponies was stuck in the motion of shouting, their wings leathery, fangs on their mouths.
+
+Those of copper sat silently, patiently, vacuous eyes staring at the infinite. The stallion looked briefly into one, still singing his song, knowing himself alone.
+
+In the tallest tower of the city, a bell ringed. The stallion's heart also rang with joy, in spite of the bleakness of his task, as the copper statues moved slightly, starting to sing in a massive chorus, only the soft rain accompanying them.
+
+But for now the stallion kept walking, a rag of intertwined purple hair held in his magic, navigating the statues. Here and there were specks of dust on the statues that he cleaned away quickly but carefully, but they weren't his objective still.
+
+And there, at the center of the battlefield.
+
+This bat pony did not scream like the others; Instead, he walked with patient violence in his body. On his tail was a spear held like a scorpion's sting, and layered armour covered his chest but not his legs. The helmet, unadorned, hid the eyes below, a blind warrior that still awaited patiently for battle. Had one been curious enough -and the stallion had been- a rag could be just barely glanced between the head and the helmet, a strap covering the eyes of the pony.
+
+The stallion started cleaning this statue with accustomed patience, touching it with awe and respect despite how embittered his face was, and only once it was clean did he start singing with his chorus:
+
+"zintevori patzivota, sintêárru zlêpêtchá" He sang loudly now, draping the cloth -a scarf- around his neck. 
 
 
 
 
 
-
-[^fall]: O_U had a much heavier and more resistant than the other units' that allowed it to remain completely active, despite the wind overwhelming it's non-interrelative levitation systems. Unable to do anything about the fall, protocol requested it at least log it.
+[^fall]: O_U had a much heavier and more resistant than the other units' that allowed it to remain completely active, despite the wind overwhelming it's non-relative levitation systems. Unable to do anything about the fall, protocol requested it at least log it.
 
 [^tritons]: O_U had not meet any female member of this species.
 
