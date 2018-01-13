@@ -248,6 +248,6 @@ Rain fell. He sang.
 
 [^fall]: O_U had a much heavier and more resistant than the other units' that allowed it to remain completely active, despite the wind overwhelming it's non-relative levitation systems. Unable to do anything about the fall, protocol requested it at least log it.
 
-[^tritons]: O_U had not meet any female member of this species.
+[^tritons]: O_U had yet to meet any female member of this species.
 
 [^PlayTheFool]: Whilse still walking idly in a pseudo-random, animalesque pattern, so as to not display it's full intelligence.
