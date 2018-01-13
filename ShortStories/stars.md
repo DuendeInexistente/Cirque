@@ -141,6 +141,8 @@ Orange_Unit floated in place. Primary engagement protocol was plain in it's scen
 
 However and for the time being, O_U recalled it's wandering rays -each thick and heavy enough that a grown stallion would've had to put effort to lift it- and gained height shaping all rays into a bowl-like shape around it's single circle plate, then used all spare power on it's radio systems.
 
+There was faint static-- on the night of their fall[^fall]
+
 
 
 
@@ -160,4 +162,4 @@ However and for the time being, O_U recalled it's wandering rays -each thick and
 
 [^electricity]: To be noted that water seemingly covering the whole sphere, as well as Dudas monopolizing copper alloys, might make electricity manipulation known but impractical.
 
-
+[^fall]: O_U had been able to log this because it's chassis, much heavier and more resistant than the other units', allowed it to remain completely active, despite the wind overwhelming it's non-interrelative levitation systems.
