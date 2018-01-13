@@ -157,7 +157,7 @@ So when it saw a ```FRIENDSHIP_BUILDING``` scenario with a value of twelve occur
 
 Orange_Unit did not deem it necessary to use it's more specialized features, so it fell on the floating planks with a loud clank -intimidation could prevent violence- and extended it's rays between the griffon and the mare, increasing the volume of it's voice by a ten percent:
 
- "This unit will not enforce lethal or crippling damage in this situation, as per Equestrian law." It said. "You are thanked for withdrawing any threat."
+ "This unit will not enforce lethal or crippling damage in this situation, as per Equestrian law." It said. "You are thanked for withdrawing your threat."
 
 The griffon hesitated but tried to stab at O_U. The unit measured the speed and force of the knife, and knew that it wouldn't scratch the paint.
 
