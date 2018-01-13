@@ -165,7 +165,9 @@ O_U awaited for longer than the protocol requested for more signals to arrive. T
 
 Then it awaited. The sun moved across the sky.
 
-There was no answer, nor did any more signals bounce randomly in O_U's general direction. It slowly turned it's sensors back downwards, as per protocol before ending a mayor action.
+There was no answer, nor did any more signals bounce randomly in O_U's general direction. It slowly turned it's sensors back downwards, as per protocol inbetween actions.
+
+Orange_Unit was incapable of feel frustration.
 
 # ...I ask for help...
 
