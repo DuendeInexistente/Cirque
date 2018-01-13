@@ -157,11 +157,11 @@ So when it saw a ```FRIENDSHIP_BUILDING``` scenario occurring below, it acted im
 
 Orange_Unit did not deem it necessary to use it's more specialized features, so it fell on the floating planks with a loud clank -intimidation could prevent violence- and extended it's rays between the griffon and the mare, increasing the volume of it's voice by a ten percent:
 
- "This unit will not produce lethal or crippling damage in this situation, as per Equestrian law." It said.
+ "This unit will not enforce lethal or crippling damage in this situation, as per Equestrian law." It said.
 
 The griffon hesitated but tried to stab at O_U. The unit measured the speed and force of the knife, and knew that it wouldn't scratch the paint.
 
-Nothing happened for a moment, until the griffon realized what had happened. O_U repeated it's message, pushing the knife back with enough force to almost throw the griffon off balance.
+Nothing happened for a moment, until the griffon realized what had happened. O_U repeated it's message, pushing the knife back with enough strength to almost throw the griffon off balance.
 
 
 
