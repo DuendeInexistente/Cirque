@@ -218,7 +218,7 @@ Finally, backed into a proverbial and literal corner, Cyan_Unit activated it's e
  "Tartarus-class t-t-threat deeeeeeeee-- detecte-e-ed." It bolstered, it's six minor rays aligning themselves around the circle and charging electricity. "Le--Lee-lethal force require-- require-- required."
 
 
-## Yet wish that you stood away from me.
+## Yet wish that you stay away from me.
 
 
 
