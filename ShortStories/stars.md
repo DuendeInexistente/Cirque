@@ -166,6 +166,6 @@ However, the initial surprise hadn't really happened, which was messing badly wi
 
 
 
-[^captain]: Mainstream Duda culture seems to be fully integrated with naval trading of services, as is their social hierarchy.
+[^captain]: Mainstream Duda culture seems to be fully integrated with naval trading of services, which reflects on their social hierarchy.
 
 
