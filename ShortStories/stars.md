@@ -76,7 +76,7 @@ Punk collected three most relevant facts from this, aside from the city's curren
      + **Addendum**: Taint-type beasts seem to have been involved.
      + **Addendum**: Descriptions of involved pegasi have a degree of coincidence with Equestrian weather manipulation.
          * **Addendum**: Citizen Lettuce Leaf was not reported to be acknowledgeable regarding weather manipulation.
-         * **Decision**: Recollect more information regarding the pegasus involved in the destruction of Arabesco.
+         * **Decision**: Recollect more data regarding the pegasus involved in the destruction of Arabesco.
      + **Decision**: Request Citizen Chundra, Citizen Cypress, and pilgrims for verifiable data if or when they visit.
      + **Decision**: Inform Yellow_Unit of this development. Compare compiled data.
  - ***Fact***: Citizen Sliver has not yet returned with the promised data.
@@ -143,15 +143,17 @@ Protocol unambiguously required that O_U be a bit of a pest at first; data had t
 
 However, the initial surprise hadn't really happened, which was messing badly with protocolar etiquette. O_U had been consistly judged to be a Duda, which
 
- - **_Fact_**: Dudas are a seemingly mechanical species bar some, very small, heat source in the center of their chassis
-     + **Addendum**: Their leading officials, captains[^captain]
- - **_Fact_**: Could mean a culture with technology beyond Equestria's existed in the region.
+ - **_Fact_**: Are a seemingly mechanical species bar some, very small, heat source in the center of their chassis
+     + **Addendum**: Their leading officials, captains[^captain], have displayed curiosity at this unit.
+ - **_Fact_**: Could indicate a culture with technology beyond Equestria's exists in the region.
      + **Problem**: This culture may attempt to disassemble Stars, gaining insight into Equestrian technology and possibly becoming a danger to Equestria.
      + **Decision**: if at all possible, avoid this culture until motives and attitudes -stated, historical, and popular- regarding foreign powers are ascertained.
      + **Decision**: if captured, escape, negotiate, or self-obliterate.
          * **Addendum**: Have a self-obliteration system readied in case of forceful deactivation.
 
+This throttled reaction of surprise, not completely contemplated on O_U's revision of the protocol, was causing it to have to manually define the ratio at which the starting objective (Locating Citizen Lettuce Leaf) superseded general information seeking, which was while not anti protocolar, yes undesirable.
 
+Orange_Unit could not 
 
 
 
