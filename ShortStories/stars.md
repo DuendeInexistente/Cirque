@@ -163,7 +163,7 @@ The griffon hesitated but tried to stab at O_U. The unit measured the speed and 
 
 Nothing happened for a moment, until the griffon realized what had happened. O_U repeated it's message, pushing the knife back with enough strength to almost throw the griffon off balance.
 
-
+The griffon looked back and forth between the unit and his knife, then ran away.
 
 # ...I ask for help...
 
