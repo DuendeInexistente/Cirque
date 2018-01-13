@@ -218,7 +218,7 @@ Finally, backed into a proverbial and literal corner, Cyan_Unit activated it's e
  "Tartarus-class t-t-threat deeeeeeeee-- detecte-e-ed." It bolstered, it's six minor rays aligning themselves around the circle and charging electricity. "Le--Lee-lethal force require-- require-- required."
 
 
-## Yet wish that you stay away from me.
+## Yet wish that you would stay away from me.
 
 The stallion walked slowly between the statues, the whitened walls of buildings that had long since been occupied surrounding the plaza like silent watchers, the high towers and spires that had once promised to shelter travellers now empty since time immemorial. And in his step was a solemnity, as was there in his face, even in the way his walking made his starry deep purple mane and tail wave behind him like water.
 
