@@ -141,10 +141,31 @@ Orange_Unit floated in place. Primary engagement protocol was plain in it's scen
 
 However and for the time being, O_U recalled it's wandering rays -each thick and heavy enough that a grown stallion would've had to put effort to lift it- and gained height shaping all rays into a bowl-like shape around it's single circle plate, then used all spare power on it's radio systems.
 
-There was faint static-- on the night of their fall[^fall] the
+There was faint static; on the night of their fall[^fall] the atmosphere had carried all of the pieces' SOS signals far and wide, and even now brittle remains bounced back to O_U.
 
+````
+--SOS CODE YELLOW CAPT--
+````
 
+O_U focused it's aparatus on the source of the signal, but--
 
+````
+--SOS CODE RED  RO OCOL 626 RE UE TED MUL  PLE T RT RU -CLA S T REA S--
+````
+
+It was gone now, only reaching O_U briefly because of random atmospheric bounc--
+
+````
+--PURPLE-UNIT has met citizen--
+````
+
+O_U's complex-enough intelligence hadn't been designed with a sense of wonder or hope. Instead, the ```WILD_MATCH``` variable would increase it's value when unlikely coincidences occurred and decrease passively over time, temporarily making it more likely to try predicted failures. The variable started at 5 and floored at 0; now it was at 65.
+
+O_U awaited for longer than the protocol requested for more signals to arrive. Then it extanded it's rays, straining the interrelative levitation systems that animated it, and broadcasted a radio signal at full power.
+
+Then it awaited. The sun moved across the sky.
+
+There was no answer, nor did any more signals bounce randomly in O_U's general direction.
 
 # ...I ask for help...
 
