@@ -143,7 +143,7 @@ It was gone now, only reaching O_U briefly because of random atmospheric bounc--
 --PURPLE-UNIT has met citizen--
 ````
 
-O_U's complex-enough intelligence hadn't been designed with a sense of wonder or hope. Instead, the ```WILD_MATCH``` variable would increase it's value when unlikely coincidences occurred and decrease passively over time, temporarily making it more likely to try predicted failures. The variable started at 5 and floored at 0; now it was at 65.
+O_U's complex-enough intelligence hadn't been designed with a sense of wonder or hope. Instead, the ```WILD_MATCH``` variable would increase it's value when unlikely coincidences occurred and decrease passively over time, temporarily making it more likely to try attempt things predicted to fail. The variable started at 5 and floored at 0; now it was at 65.
 
 O_U awaited for longer than the protocol requested for more signals to arrive. Then it extended it's rays, straining the relative levitation systems that animated them, and broadcasted a radio signal at full power.
 
