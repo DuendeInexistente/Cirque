@@ -180,10 +180,6 @@ She nodded, still agitated by what had happened, nodded silently. A male triton[
 Several alarms blared in O_U's imitation of conciousness, immediately lowering the priority of all other protocols.
 
  "What is the last known position of Citizen Lettuce Leaf." Demanded O_U.
- 
- "Arabesco, but--"
-
-Orange_Unit was already gone.
 
 # ...I ask for help...
 
