@@ -167,7 +167,7 @@ The griffon looked back and forth between the unit and his knife.
 
  "Hey!" Shouted someone else, angry. The griffon ran, but the unit measured the situation: The mare and foal were now intimidated by O_U. For lack of a better **Decision**, O_U withdrew it's pieces and stood a respectful distance from the mare, not floating for the moment, and lowered it's voice.
 
- "The mare is now safe." It said.
+ "The subject is now safe." It said.
 
 She nodded, still agitated by what had happened, nodded silently. A male triton[^tritons] trotted to them and grabbed her in a hug, asking her if she was fine but ignoring the foal, and then turned to face O_U.
 
