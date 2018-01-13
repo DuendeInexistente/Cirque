@@ -169,8 +169,21 @@ The griffon looked back and forth between the unit and his knife.
 
  "The mare is now safe." It said.
 
-She nodded, still agitated by what had happened, nodded silently. A male triton[^tritons] trotted to them and grabbed her in a hug, asking her if she was fine but ignoring the foal.
+She nodded, still agitated by what had happened, nodded silently. A male triton[^tritons] trotted to them and grabbed her in a hug, asking her if she was fine but ignoring the foal, and then turned to face O_U.
 
+ "Hey, what's the deal with you?" He asked cautiously.
+
+ "This unit acted as per Equestrian law." It answered, some idle systems indecisive about whether ```FRIENDLY_ACQUAINTANCE``` had been achieved. "Do you know the location of the Citizen Lettuce Leaf?"
+
+ "Lettuce Leaf? What kind of name--" The triton paused. "Hey, are you one of those things he talked about?"
+
+Several alarms blared in O_U's imitation of conciousness, immediately lowering the priority of all other protocols.
+
+ "What is the last known position of Citizen Lettuce Leaf." Demanded O_U.
+ 
+ "Arabesco, but--"
+
+Orange_Unit was already gone.
 
 # ...I ask for help...
 
