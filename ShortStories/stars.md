@@ -240,7 +240,7 @@ The stallion started cleaning this statue with accustomed patience, touching it 
 
 "zintevori patzivota, sintêárru zlêpêtchá" He sang loudly now, draping the cloth -a scarf- around his neck. 
 
-Rain fell.
+Rain fell. He sang.
 
 
 
