@@ -119,22 +119,6 @@ Then the heat it emitted started to fade, now that it's boot was complete and se
 
 # ...And on the lower stratum...
 
- "Do you know of the location of the Citizen Lettuce Leaf." Requested Orange_Unit to a griffon. The griffon gave it a look and walked away.
-
-Orange_Unite stood in place. Primary protocol required bridging of communications by whatever medium so as to establish familiarity; Even if it was annoying, Orange_Unit was like all the others *required* to be a bit of a pester at first. The opinions of people could be swayed for the better later.
-
-Even still, this approach seemed rather inefficient to locate the Citizen Lettuce Leaf: Orange_Unit recalled it's wandering pieces, each thick and heavy enough that it would've taken a grown stallion some effort to lift it, and flew as high as it could.
-
-It received only the barest signals of atmospheric bouncing: Other units were active and had been for a considerable period of time, all but Cyan_Unit broadcasting to try locating each other, but Orange_Unit did not have the data required to plot the trajectory of a signal across the atmosphere. and analysis of local technology posited that the other units' signals were only identifiable due to the absence of local radio systems.
-
-Thus, it only broadcasted it's standard beacon signal, aimed all it's sensory equipment below for several minutes, and then descended again.
-
-Orange_Unit was incapable of feeling frustration that Citizen Lettuce Leaf had not been among this crowd.
-
-
---------
-
-
  "Are you aware of the location of the Citizen Lettuce Leaf." Requested Orange_Unit to a griffon, who gave the bot a look and walked away.
 
 Orange_Unit floated in place. Primary engagement protocol was plain in it's scenario: No damage to any system, nor any signal of the sought objective, meant that it defaulted to passive search operations largely focused on establishing initial familiarity with the locals and collect data. Over time, if data regarding Citizen Lettuce Leaf was not found, finding him would gradually supersede the primary engagement protocol.
