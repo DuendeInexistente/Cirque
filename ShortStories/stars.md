@@ -169,7 +169,7 @@ The griffon looked back and forth between the unit and his knife.
 
  "The mare is now safe." It said.
 
-She nodded, still agitated by what had happened, nodded silently. A male triton[^tritons]
+She nodded, still agitated by what had happened, nodded silently. A male triton[^tritons] trotted to them and grabbed her in a hug, asking her if she was fine but ignoring the foal.
 
 
 # ...I ask for help...
