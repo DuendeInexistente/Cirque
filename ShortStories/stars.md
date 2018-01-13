@@ -196,21 +196,22 @@ The locals had much more discrete ways to hide themselves than White_Unit had as
 White_Unit was fairly sure the locals did not know about all it could do, either. It continued to broadcast a SOS signal.
 
 ## ...Cry so very loud.
+
 QVMgSSBGQUxMIEFTIEkgU0hBVFRFUiBBUyBJIENSQUNLCg== tried to maintain altitude VEhVTkRFUiBISVRTIE1FIElUIEJVUk5TIE1FIElUIEtJTExTIE1FCg== but RW1lcmdlbmN5OiBFbmVyZ3kgb3ZlcmxvYWQgb24gYWxsIHN5c3RlbXMuIEVtZXJnZW5jeSBzaHV0ZG93biBpbiBwcm9ncmVzcwo=
 
-It turned back on several minutes later, still falling. Cyan_Unit's sensors had been damaged, but it still detected a large water body dangerously close. It's non-interrelative levitation systems kicked into overdrive, absurdly redundant engines that made the air boil away from the unit shattering into ozone and steam, and energy was diverted from all systems in an attempt to change the drop into a safer, or at least survivable, vector.
+It turned back on several minutes later, still falling. Cyan_Unit's sensors had been damaged, but it still detected a large water body dangerously close. It's non-interrelative levitation systems kicked into overdrive, absurdly redundant and powerful engines that made the air boil away from the unit shattering into ozone and steam, and energy was diverted from all systems in an attempt to change the drop into a safe, or at least survivable, vector.
 
 It was because of this that the fall didn't shatter Cyan_Unit into plain chunks of scrap.
 
 It didn't occur at once-- the angle had been the correct one to instead make it progressive over the course of almost a whole second, the sheer heat of it's overburdened systems producing a cushion of steam between itself and the water that the angle of the fall allowed it to ride.
 
-It surfed the steam wave of it's own maddened attempt to live as several flight systems blew their fuses and died one by one, each reducing it's chances to continue existing a little further, a V forming on the water with it's advance, electricity trailing it's damaged wiring and circuitry. There was something in the way that Cyan_Unit did not have the time to analyse and was obliterated into a red mist, and then several seconds later it hit something hard, embedding itself in it.
+It surfed the steam wave of it's own maddened attempt to live as several flight systems blew their fuses and died one by one, each reducing it's chances to continue existing a little further, a V forming on the water with it's advance, electricity trailing it's damaged wiring and circuitry. There was something in the way that Cyan_Unit did not have the time to analyse and was mostly obliterated into a fine mist, and then several seconds later it hit something hard, embedding itself in it.
 
 It turned on an unspecified amount of time later when something prodded one of it's eight rays, and the first time recorded into the log was that it was seven. One of it's two mayor rays simply wasn't there.
 
 A sharp object poked at Cyan_Unit's exposed systems, causing a minor short circuit. All of Cyan_Unit's sensors were aimed at all the surrounding heat-emitting forms that they then ascertained were living beings.
 
-Cyan_Unit toggled the fuses that had blown before and levitated away, but was chased by the creatures. They were absurdly large, and emitted heat that must've meant a protein-high diet. They were also intent on dismantling Cyan_Unit, to tear it's pieces apart. Cyan_Unit repeated prerecorded messages for a truce even as it moved each piece away from an attack in the nick of time, but they didn't answer and Cyan_Unit detected several dead ponies and unknown mechanical devices in the vicinity. It tried to send an emergency signal to the other units, but it's radio emitters died after a brief burst of life.
+Cyan_Unit toggled the fuses that had blown before and levitated away, but was chased by the creatures. They were absurdly large, and emitted heat that must've meant a high-protein diet. They were also intent on dismantling Cyan_Unit, to tear it's pieces apart. Cyan_Unit repeated prerecorded messages for a truce even as it moved each piece away from an attack in the nick of time, but they didn't answer and Cyan_Unit detected several dead ponies and unknown mechanical devices in the vicinity. It tried to send an emergency signal to the other units, but it's radio emitters died after a brief burst of life.
 
 Finally, backed into a proverbial and literal corner, Cyan_Unit activated it's electric pods as several emergency protocols enabled.
 
@@ -218,6 +219,11 @@ Finally, backed into a proverbial and literal corner, Cyan_Unit activated it's e
 
 
 ## Yet wish that you stood away from me.
+
+
+
+
+
 
 
 [^fall]: O_U had a much heavier and more resistant than the other units' that allowed it to remain completely active, despite the wind overwhelming it's non-interrelative levitation systems. Unable to do anything about the fall, protocol requested it at least log it.
