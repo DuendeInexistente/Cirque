@@ -62,7 +62,7 @@ An exact Equestrian year after it had last done so, pink_unit -mechanical ambass
 
 In it's crystalline pseudopositronic brain, data flowed into motion as the complex-enough class intelligence that resided started processing a year's worth of collected data. Wind speed, words heard idly by it's wandering pieces, air density to calculate height, shifting of star maps to calculate trajectory, the prayers of visitors, it all flowed and was rearranged in arbitrary combinations to try finding coinciding facts at insane speeds that true intelligence wouldn't have allowed. 
 
-This happened in the space of almost an hour, only four of Pink_unit's pieces there with it: the two halves of it's circle plate and the two largest rays. Below on the back of the city, the three smaller rays it had left crawled with semi-independant too-basic intelligences that sought information, so Pink_Unit recalled them: As every time, protocol required that the wandering pieces did not stop their information seeking unless absolutely necessary. As every time, Pink_Unit's hardware simply *wasn't enough* to reprocess a year's worth of information in a reasonable timeframe without all of it's pieces -each with it's own brain simile and hand for fine manipulation- gathered together.
+This happened in the space of almost an hour, only four of Pink_unit's pieces there with it: the two halves of it's circle plate and the two largest rays. Below on the back of the city, the three smaller rays it had left crawled with semi-independant too-basic intelligences that sought information, so Pink_Unit recalled them: As every time, protocol required that the wandering pieces did not stop their information seeking unless absolutely necessary. As every time, Pink_Unit's hardware simply *wasn't enough* to reprocess a year's worth of information in a reasonable timeframe without all of it's pieces -each with it's own brain simile and a hand for fine manipulation- gathered together.
 
 Pink_Unit was incapable of feeling frustration about protocol so crassly mismatching it's hardware specifications.
 
@@ -160,6 +160,8 @@ Orange_Unit did not deem it necessary to use it's more specialized features, so 
  "This unit will not produce lethal or crippling damage in this situation, as per Equestrian law." It said.
 
 The griffon hesitated but tried to stab at O_U. The unit measured the speed and force of the knife, and knew that it wouldn't scratch the paint.
+
+Nothing happened for a moment, until the griffon realized what had happened. O_U repeated it's message, pushing the knife back with enough force to almost throw the griffon off balance.
 
 
 
