@@ -234,7 +234,7 @@ But for now the stallion kept walking, a rag of intertwined purple hair held in 
 
 And there, at the center of the battlefield.
 
-This bat pony did not scream like the others; Instead, he walked with patient violence in his body. On his tail was a spear held like a scorpion's sting, and layered armour covered his chest but not his legs. The helmet, unadorned, hid the eyes below, a blind warrior that still awaited patiently for battle. Had one been curious enough -and the stallion had been- a rag could be just barely glanced between the head and the helmet, a strap covering the eyes of the pony.
+This bat pony did not scream like the others; Instead, he walked with patient violence in his posture. On his tail was a spear held like a scorpion's sting, and layered armour covered his chest but not his legs. The helmet, unadorned, hid the eyes below, a blind warrior that still awaited patiently for battle. Had one been curious enough -and the stallion had been- a rag could be just barely glanced between the head and the helmet, a strap covering the eyes of the pony.
 
 The stallion started cleaning this statue with accustomed patience, touching it with awe and respect despite how embittered his face was, and only once it was clean did he start singing with his chorus:
 
