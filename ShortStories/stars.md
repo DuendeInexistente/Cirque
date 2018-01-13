@@ -1,4 +1,4 @@
-# In a lighthouse...
+## In a lighthouse...
 
 Wind roared around the lighthouse. It always did at this height, but some days the unicorn mare just couldn't ignore the sound still. A lifetime of practice at it wasn't enough, maybe. Or maybe she was just slow.
 
@@ -56,7 +56,7 @@ Yellow paused, and suddenly draw a simple face on it's circle plate.
 
 And after a moment Fireclay turned around, and continued to stand watch over the city below.
 
-# ...somewhere high...
+## ...somewhere high...
 
 An exact Equestrian year after it had last done so, pink_unit -mechanical ambassador, medic class, resource user version alpha three point zero point five point one point nine variant dee- shook into motion. Power that usually cycled only to prevent damage of it's systems started galloping through it's copper and gold veins like a stampede of horses and, even in a an atmosphere with low enough oxygen to slow down oxidation, exuded about as much heat in the process of booting up from hibernation. The light ceramic alloys that the tower was made of clicked softly from the temperature. On the stairs that climber up to this floor, a pilgrim felt the heat and decided to come back later.
 
@@ -117,7 +117,7 @@ Pink_Unit, or Punk, stood still for a moment longer with it's sensors mainly foc
 
 Then the heat it emitted started to fade, now that it's boot was complete and several systems had grossly reduced workloads, so Punk left one of it's circle plates in the spot for any visitor that could decide to come and jumped off the ledge to start the orbiting.
 
-# ...And on the lower stratum...
+## ...And on the lower stratum...
 
  "Are you aware of the location of the Citizen Lettuce Leaf." Requested Orange_Unit to a griffon, who gave the bot a look and walked away.
 
@@ -181,18 +181,30 @@ Several alarms blared in O_U's imitation of conciousness, immediately lowering t
 
  "What is the last known position of Citizen Lettuce Leaf." Demanded O_U.
 
-# ...I ask for help...
+## ...I ask for help...
 
-(White)
+White_Unit stood on it's prods despite the non-interrelative levitation systems working at half their capacity, standing on it's four rays like a spider, inside a transparent dome. It's central disk plate had employed it's mass spectrometer on the material, and ascertained it to be non-transformable, non-crystalline ceramic alloys, tagging it as ```HARVESTABLE``` and ```USELESS```
 
-# ...Cry so very loud.
+The room outside it's glass dome, all white steel and greenish glass, was empty for the first time in a good while. White_Unit kicked it's sensors into overdrive[^PlayTheFool] to analyse the room. No mass detected, no alteration in light, no heat sources.
+
+It crawled closer to the transparent walls, turned it's 'arms' around to aim the sharp sides at the glass, and readied to pickaxe it's way out of containment.
+
+A diminutive twitch in the magical spectrum. White_Unit instead tapped the glass softly.
+
+The locals had much more discrete ways to hide themselves than White_Unit had as of yet ascertained.
+
+White_Unit was fairly sure the locals did not know about all it could do, either.
+
+## ...Cry so very loud.
 
 (Cyan)
 
 
-# For you to stay away from me.
+## Yet wish that you stood away from me.
 
 
 [^fall]: O_U had a much heavier and more resistant than the other units' that allowed it to remain completely active, despite the wind overwhelming it's non-interrelative levitation systems. Unable to do anything about the fall, protocol requested it at least log it.
 
 [^tritons]: O_U had not meet any female member of this species.
+
+[^PlayTheFool]: Ensuring that it's movements still followed a pseudo-random, animalesque pattern, so as to not display it's full intelligence.
