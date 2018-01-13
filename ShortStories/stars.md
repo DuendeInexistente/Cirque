@@ -193,7 +193,7 @@ A diminutive twitch in the magical spectrum. White_Unit instead tapped the glass
 
 The locals had much more discrete ways to hide themselves than White_Unit had as of yet ascertained.
 
-White_Unit was fairly sure the locals did not know about all it could do, either.
+White_Unit was fairly sure the locals did not know about all it could do, either. It continued to broadcast a SOS signal.
 
 ## ...Cry so very loud.
 
