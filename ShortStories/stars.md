@@ -135,6 +135,12 @@ Orange_Unit was incapable of feeling frustration that Citizen Lettuce Leaf had n
 
 
 
+ "Are you aware of the location of the Citizen Lettuce Leaf." Requested Orange_Unit to a griffon, who gave the bot a look and walked away.
+
+Orange_Unit floated in place. Primary engagement protocol was plain in it's scenario: No damage to any system, nor any signal of the sought objective, meant that it defaulted to passive search operations largely focused on establishing  
+
+
+
 
 
 
@@ -146,3 +152,10 @@ Orange_Unit was incapable of feeling frustration that Citizen Lettuce Leaf had n
 # ...Cry so very loud.
 
 (Cyan)
+
+
+
+
+
+
+
