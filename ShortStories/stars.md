@@ -183,7 +183,7 @@ Several alarms blared in O_U's imitation of conciousness, immediately lowering t
 
 ## ...I ask for help...
 
-White_Unit stood on it's prods despite the non-relative levitation systems working at half their capacity, standing on it's four rays like a spider, inside a transparent dome. It's central disk plate had employed it's mass spectrometer on the material, and ascertained it to be non-transformable, non-crystalline ceramic alloys, tagging it as ```HARVESTABLE``` and ```USELESS```
+White_Unit stood on it's prods despite the non-relative levitation systems working at half their capacity, standing on it's four rays like a spider, inside a transparent dome. It's central disk plate had employed it's mass spectrometer on the material, and ascertained it to be non-transformable, non-crystalline ceramic alloys. The material was now tagged as ```HARVESTABLE``` and ```USELESS```
 
 The room outside it's glass dome, all white steel and greenish glass, was empty for the first time in a good while. White_Unit kicked it's sensors into overdrive[^PlayTheFool] to analyse the room. No mass detected, no alteration in light, no heat sources.
 
