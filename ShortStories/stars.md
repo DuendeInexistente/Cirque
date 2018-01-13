@@ -203,7 +203,7 @@ It turned back on several minutes later, still falling. Cyan_Unit's sensors had 
 
 It was because of this that the fall didn't shatter Cyan_Unit into plain chunks of scrap.
 
-The fall didn't occur at once-- the angle had been the correct one to instead make it progressive over the course of almost a whole second, the sheer heat of it's overburdened systems producing a cushion of steam between itself and the water that the angle of the fall allowed it to ride.
+The fall didn't occur at once-- the angle had been the correct one to instead make it progressive over the course of almost a whole second, the sheer heat of it's overburdened systems producing a cushion of exploding steam between itself and the water that the angle of the fall allowed it to ride.
 
 It surfed the steam wave of it's own maddened attempt to live as several flight systems blew their fuses and died one by one, each reducing it's chances to continue existing a little further, a V forming on the water with it's advance, electricity trailing it's damaged wiring and circuitry. There was something in the way that Cyan_Unit did not have the time to analyse and was mostly obliterated into a fine mist, and then several seconds later it hit something hard, embedding itself in it.
 
