@@ -153,8 +153,13 @@ There was no answer, nor did any more signals bounce randomly in O_U's general d
 
 Orange_Unit was incapable of feel disheartened, or frustration.
 
-So when it saw a ```FRIENDSHIP_BUILDING``` scenario occurring below, it acted immediately immediately, without any delay. A griffon clearly making a threat display, wielding a short knife, was threatening a pony mare who hid a foal behind it. While protocol called for cautiousness in case of ambiguity, there was very little ambiguous in this situation.
+So when it saw a ```FRIENDSHIP_BUILDING``` scenario occurring below, it acted immediately immediately, without any delay. A griffon clearly making a threat display, wielding a short knife, was threatening a pony mare who was shielding a foal away from the griffon. While protocol called for cautiousness in case of ambiguity, there was very little ambiguous in this situation.
 
+Orange_Unit did not deem it necessary to use it's more specialized features, so it fell on the floating planks with a loud clank -intimidation could prevent violence- and extended it's rays between the griffon and the mare, increasing the volume of it's voice by a ten percent:
+
+ "This unit will not produce lethal or crippling damage in this situation, as per Equestrian law." It said.
+
+The griffon hesitated but tried to stab at O_U. The unit measured the speed and force of the knife, and knew that it wouldn't scratch the paint.
 
 
 
