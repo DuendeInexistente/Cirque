@@ -42,13 +42,13 @@ Yellow climbed the brickwork, it's legs awkward but somehow still precise and sh
 
 And in spite of all Firework couldn't help smiling, because it was the exact same compliment, verbatim, that yellow had offered ever since she was a filly still learning the spells that kept the lighthouse's magical flame alive. Yellow never told her this when there was someone else around, just in their private moments. "Thankee, lord yellow."
 
- "This unit does not recognize nor require titles, but it is honoured." Yellow hopped down to the tiled floor, "Does the assistance have value equivalent to or greater to that of a hug." It stated-or-maybe-asked.
+ "This unit does not recognize nor require titles, but it is honoured." Yellow hopped down to the tiled floor, "Does the assistance have value equivalent to or greater to that of physical contact." It stated-or-maybe-asked.
 
-Fireclay blinked a few times, surprised by this, before answering. "Yellow, you're red-- You're too hot."
+Fireclay blinked a few times, surprised by this, before answering. "A... hug? Yellow, you're red-- You're too hot."
 
-And yellow also paused at this, then said. "This unit is aware of it's temperature." It paused for a split second, then turned around to walk out of the room, it's leg rods starting to sparkle. "This unit will now continue readying to assist with the bug season."
+And yellow also paused at this, then said. "This unit was aware of it's temperature." It paused for a split second, then turned around to walk out of the room, it's leg rods starting to sparkle. "This unit will now continue readying to assist with the bug season."
 
- "Yellow, I can still hug you later." Rushed to say Fireclay, still surprised by how off yellow was being today. "If you really wanted it."
+ "I can still hug you later." Rushed to say Fireclay, still surprised by how off yellow was being today. "If you really wanted it."
 
 Yellow paused, and suddenly draw a simple face on it's circle plate.
 
@@ -139,6 +139,8 @@ Orange_Unit was incapable of feeling frustration that Citizen Lettuce Leaf had n
 
 Orange_Unit floated in place. Primary engagement protocol was plain in it's scenario: No damage to any system, nor any signal of the sought objective, meant that it defaulted to passive search operations largely focused on establishing initial familiarity with the locals and collect data. Over time, if data regarding Citizen Lettuce Leaf was not found, finding him would gradually supersede the primary engagement protocol.
 
+However and for the time being, O_U recalled it's wandering rays -each thick and heavy enough that a grown stallion would've had to put effort to lift it- and gained height shaping all rays into a bowl-like shape around it's single circle plate, then used all spare power on it's radio systems.
+
 
 
 
@@ -151,6 +153,7 @@ Orange_Unit floated in place. Primary engagement protocol was plain in it's scen
 (Cyan)
 
 
+# For you never came to me.
 
 
 [^captain]: Mainstream Duda culture seems to be fully integrated with naval trading of services, which reflects on their social hierarchy.
