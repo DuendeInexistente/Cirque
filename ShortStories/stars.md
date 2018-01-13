@@ -165,8 +165,9 @@ Nothing happened for a moment, until the griffon realized what had happened. O_U
 
 The griffon looked back and forth between the unit and his knife.
 
- "Hey!" Shouted someone else, angry. The griffon ran, but the unit measured the situation: The mare and foal were now intimidated by O_U. For lack of a better **Decision**, O_U withdrew it's pieces and stood a respectful distance from the mare, not floating for the moment.
+ "Hey!" Shouted someone else, angry. The griffon ran, but the unit measured the situation: The mare and foal were now intimidated by O_U. For lack of a better **Decision**, O_U withdrew it's pieces and stood a respectful distance from the mare, not floating for the moment, and lowered it's voice.
 
+ "The mare is now safe." It said.
 
 
 # ...I ask for help...
