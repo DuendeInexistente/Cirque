@@ -144,7 +144,7 @@ Protocol unambiguously required that O_U be a bit of a pest at first; data had t
 However, the initial surprise hadn't really happened, which was messing badly with protocolar etiquette. O_U had been consistly judged to be a Duda, which
 
  - **_Fact_**: Dudas are a seemingly mechanical species bar some, very small, heat source in the center of their chassis
-     + **Addendum**: Their leading officials, captains[captain]
+     + **Addendum**: Their leading officials, captains[^captain]
  - **_Fact_**: Could mean a culture with technology beyond Equestria's existed in the region.
      + **Problem**: This culture may attempt to disassemble Stars, gaining insight into Equestrian technology and possibly becoming a danger to Equestria.
      + **Decision**: if at all possible, avoid this culture until motives and attitudes -stated, historical, and popular- regarding foreign powers are ascertained.
@@ -167,6 +167,6 @@ However, the initial surprise hadn't really happened, which was messing badly wi
 
 
 
+Mainstream Duda culture seems to be fully integrated with naval trading of services, as is their hierarchy.
+[^captain]:
 
-[captain]:
-Mainstream Duda culture seems to be fully integrated with naval trading of services, as does their hierarchy.
