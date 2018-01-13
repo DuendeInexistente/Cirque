@@ -173,7 +173,7 @@ She nodded, still agitated by what had happened, nodded silently. A male triton[
 
  "Hey, what's the deal with you?" He asked cautiously.
 
- "This unit acted as per Equestrian law." It answered, some idle systems indecisive about whether ```FRIENDLY_ACQUAINTANCE``` had been achieved. "Do you know the location of the Citizen Lettuce Leaf?"
+ "This unit acted as per Equestrian law." It answered, some idle systems indecisive about whether ```FRIENDLY_ACQUAINTANCE``` had been achieved. "Are you aware of the location of the Citizen Lettuce Leaf?"
 
  "Lettuce Leaf? What kind of name--" The triton paused. "Hey, are you one of those things he talked about?"
 
@@ -190,7 +190,7 @@ Several alarms blared in O_U's imitation of conciousness, immediately lowering t
 (Cyan)
 
 
-# For you never came to me.
+# For you to stay away from me.
 
 
 [^fall]: O_U had a much heavier and more resistant than the other units' that allowed it to remain completely active, despite the wind overwhelming it's non-interrelative levitation systems. Unable to do anything about the fall, protocol requested it at least log it.
