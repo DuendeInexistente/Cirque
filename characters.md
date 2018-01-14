@@ -32,6 +32,8 @@ An earth pony mare who has no sight and cares very little about it. This aloof h
 
 She is perceptive about people, but often doesn't know how to react to what she realizes other people feel when she cares about them enough to want to help.
 
+She has a history with Golden Thread, the Lady of Arabesco, about which she doesn't want to talk because she's be done with it. Golden Thread, however, is not.
+ 
 She has a snake.
 
 Sea doesn't mind super-mystic fate-of-the-world so long as it keeps sending more and larger prey her way.
