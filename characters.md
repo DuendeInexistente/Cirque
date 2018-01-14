@@ -11,7 +11,7 @@ He is outgoing, curious but cautious, and his personal issues worsen when he let
 
 His necklace is the only thing keeping his taint infection at bay.
 
-He is currently learning to swim, act, fight unnarmed, fight with a pole, and use a compressed air rifle, and greatly stressed by this.
+He is currently learning to swim, act, fight unnarmed, fight with a pole, and use a compressed air rifle, and greatly stressed by this. He is greatly stressed in general.
 
 Lettuce Leaf is trying to find a way back to Equestria, and does not want any super-mystic fate-of-the-world crap.
 
