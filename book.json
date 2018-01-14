@@ -1,9 +1,9 @@
 {
     "plugins": [
-	"neo-navigator",
-        "anchors",
+	"anchor-navigation-ex",
         "footnote-string-to-number",
-        "addcssjs"
+        "addcssjs",
+	"download-pdf-link"
     ],
 "pluginsConfig": {
   "addcssjs": {
