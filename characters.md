@@ -39,7 +39,7 @@ Sea doesn't mind super-mystic fate-of-the-world so long as it keeps sending more
 
 This complex-enough inteligence, Purple_Unit, was sent along with five others by Twilight Sparkle to try assisting Leaf on his way back. She is chirpy, Politely professional or carefully oblivious when it serves her purposes, and she is most of all, not really intelligent because it's completely impossible that she is, and will argue this to the end of the world. Daemons in her head talk to her and ruined board games for her.
 
-She is extremely prideful on the fact that no one else than Twilight Sparkle, yes the one that's a princess. And she will also learn how to communicate with snakes, just you wait.
+She is extremely prideful on the fact that she was built by no one else than Twilight Sparkle, yes the one that's a princess. And she will also learn how to communicate with snakes, just you wait.
 
 She wishes she knew why is Natan so sad, or why is Nitzan so angry with her all the time.
 
