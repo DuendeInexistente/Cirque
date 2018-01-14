@@ -26,7 +26,7 @@ Herb wants to collect stories and make his way back to his flock, and wishes the
 
 An earth pony mare who has no sight and cares very little about it. This aloof huntress, whose lite and small figure, as well as her detached attitude, belie the danger she presents. She was first found floating lazily near a dragon. She is also an actress, although not forthcoming around the fact.
 
-She is perceptive about people, but doesn't always know how to react 
+She is perceptive about people, but often doesn't know how to react to what she realizes other people feel, when she cares about them to want to help.
 
 Sea doesn't mind super-mystic fate-of-the-world so long as it keeps sending more and larger prey her way.
 
