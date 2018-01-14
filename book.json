@@ -2,8 +2,7 @@
     "plugins": [
 	"anchor-navigation-ex",
         "footnote-string-to-number",
-        "addcssjs",
-	"download-pdf-link"
+        "addcssjs"
     ],
 "pluginsConfig": {
   "addcssjs": {
