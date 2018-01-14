@@ -28,6 +28,8 @@ An earth pony mare who has no sight and cares very little about it. This aloof h
 
 She is perceptive about people, but often doesn't know how to react to what she realizes other people feel, when she cares about them enough to want to help.
 
+She has a snake.
+
 Sea doesn't mind super-mystic fate-of-the-world so long as it keeps sending more and larger prey her way.
 
 #### (the) Star
@@ -37,7 +39,7 @@ Sea doesn't mind super-mystic fate-of-the-world so long as it keeps sending more
 
 This complex-enough inteligence, Purple_Unit, was sent along with five others by Twilight Sparkle to try assisting Leaf on his way back. She is chirpy, Politely professional or carefully oblivious when it serves her purposes, and she is most of all, not really intelligent because it's completely impossible that she is, and will argue this to the end of the world. Daemons in her head talk to her and ruined board games for her.
 
-She is extremely prideful on the fact that no one else than Twilight Sparkle, yes the one that's a princess.
+She is extremely prideful on the fact that no one else than Twilight Sparkle, yes the one that's a princess. And she will also learn how to communicate with snakes, just you wait.
 
 She wishes she knew why is Natan so sad, or why is Nitzan so angry with her all the time.
 
