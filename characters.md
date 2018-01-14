@@ -9,6 +9,8 @@ An Equestrian cook and farmer who may be too patient with people and who will tr
 
 He is outgoing, curious but cautious, and his personal issues worsen when he lets himself be too introspective. He is fluffy.
 
+His necklace is the only thing keeping his taint infection at bay.
+
 Lettuce Leaf is trying to find a way back to Equestria, and does not want any super-mystic fate-of-the-world crap.
 
 #### Herb
