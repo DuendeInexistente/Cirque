@@ -2,14 +2,7 @@
     "plugins": [
 	"neo-navigator",
         "anchors",
-        "footnote-string-to-number",
-        "addcssjs"
+        "footnote-string-to-number"
     ],
-"pluginsConfig": {
-  "addcssjs": {
-    "js": [],
-    "css": ["styles/style.css"]
-  }
-}
 
 }
