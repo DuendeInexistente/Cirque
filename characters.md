@@ -11,7 +11,7 @@ He is outgoing, curious but cautious, and his personal issues worsen when he let
 
 His necklace is the only thing keeping his taint infection at bay.
 
-He is currently learning to swim, act, fight unnarmed, fight with a pole, and use a compressed air rifle, and greatly stressed by this. He is greatly stressed in general.
+He is currently learning to swim, act, fight unnarmed, fight with a pole, and use a compressed air rifle, and greatly stressed by this. He is easily stressed in general.
 
 Lettuce Leaf is trying to find a way back to Equestria, and does not want any super-mystic fate-of-the-world crap.
 
@@ -28,7 +28,7 @@ Herb wants to collect stories and make his way back to his flock, and wishes the
 
 ![](Images/Papers/Sea1.png) ![](Images/Papers/Sea2.png)
 
-An earth pony mare who has no sight and cares very little about it. This aloof huntress, whose lite and small figure, as well as her detached attitude, belie the danger she presents. She was first found floating lazily near a dragon. She is also an actress, although not forthcoming around the fact.
+An earth pony mare who has no sight and cares very little about it. This aloof huntress, whose lite and small figure as well as her detached attitude belie the danger she presents, was first found in her floating shack near a dragon. She is also an actress, although not forthcoming around the fact.
 
 She is perceptive about people, but often doesn't know how to react to what she realizes other people feel, when she cares about them enough to want to help.
 
