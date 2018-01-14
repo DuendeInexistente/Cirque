@@ -30,7 +30,7 @@ Herb wants to collect stories and make his way back to his flock, and wishes the
 
 An earth pony mare who has no sight and cares very little about it. This aloof huntress, whose lite and small figure as well as her detached attitude belie the danger she presents, was first found in her floating shack near a dragon. She is also an actress, although not forthcoming around the fact.
 
-She is perceptive about people, but often doesn't know how to react to what she realizes other people feel, when she cares about them enough to want to help.
+She is perceptive about people, but often doesn't know how to react to what she realizes other people feel when she cares about them enough to want to help.
 
 She has a snake.
 
