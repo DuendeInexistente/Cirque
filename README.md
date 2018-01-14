@@ -1,8 +1,8 @@
 # Cirquesque's side material.
 
-![](Lettuce Leaf.png) ![](Sea.png)
+![](Images/Papers/Leaf1.png) ![](Images/Papers/Sea1.png)
 
-![](Leaf.png)
+![](Images/Papers/Leaf2.png) ![](Images/Papers/Sea2.png)
 
 Side material for [Cirquesque](https://www.anonpone.com/cirquesque/)
 
