@@ -18,7 +18,7 @@ Lettuce Leaf is trying to find a way back to Equestria, and does not want any su
 #### Herb
 ![](Images/Papers/Herb1.png)
 
-An Equestrian forget-me-not bird searching the way back too, a little bard with little respect for personal space who's much more perceptive about people than may be apparent, and for whom life is just another tale. His entire culture revolves around storytelling and it shows; even as he searches his way back he is still compiling, cross referencing and making up stories in the library that is his head. He was sleeping on Leaf's roof when his house was transported.
+An Equestrian forget-me-not bird searching the way back too, and a little bard with little respect for personal space who's much more perceptive about people than may be apparent. For him life is just another tale, his entire culture revolves around storytelling and it shows; even as he searches his way back he is still compiling, cross referencing and making up stories in the library that is his head. He was sleeping on Leaf's roof when his house was transported.
 
 Herb wants to collect stories and make his way back to his flock, and wishes the super-mystic fate-of-the-world crap would stay a small distance away so he can still see it unfold.
 
