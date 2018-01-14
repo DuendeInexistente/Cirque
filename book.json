@@ -1,7 +1,16 @@
 {
     "plugins": [
-		"neo-navigator",
+	"neo-navigator",
         "anchors",
-        "footnote-string-to-number"
+        "footnote-string-to-number",
+        "custom-js-css"
     ]
+"pluginsConfig": {
+  "custom-js-css": {
+    "css": [
+      "./styles/website.css"
+    ]
+  }
+}
+
 }
