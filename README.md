@@ -26,3 +26,4 @@ Changelog:
 
  - [Three](ScrambledPages/1.md) [new](ScrambledPages/2.md) [pages](ScrambledPages/3.md) of Creek's journal.
  - [A short story about starry skies.](ShortStories/stars.md)
+ - Added a [character list](characters.md)
