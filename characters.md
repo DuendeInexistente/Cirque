@@ -11,6 +11,8 @@ He is outgoing, curious but cautious, and his personal issues worsen when he let
 
 His necklace is the only thing keeping his taint infection at bay.
 
+He is currently learning to swim, act, fight unnarmed, fight with a pole, and use a compressed air rifle, and greatly stressed by this.
+
 Lettuce Leaf is trying to find a way back to Equestria, and does not want any super-mystic fate-of-the-world crap.
 
 #### Herb
@@ -40,7 +42,7 @@ Sea doesn't mind super-mystic fate-of-the-world so long as it keeps sending more
 
 ![](Images/Papers/Star1.png)![](Images/Papers/Star2.png)
 
-This complex-enough inteligence, Purple_Unit, was sent along with five others by Twilight Sparkle to try assisting Leaf on his way back. She is chirpy, Politely professional or carefully oblivious when it serves her purposes, and she is most of all, not really intelligent because it's completely impossible that she is, and will argue this to the end of the world. Daemons in her head talk to her and ruined board games for her.
+This complex-enough inteligence, Purple_Unit, was sent along with five others by Twilight Sparkle to try assisting Leaf on his way back. She is chirpy, Politely professional or carefully oblivious when it serves her purposes, and she is most of all, not really intelligent because it's completely impossible that she is, and will argue this to the end of the world. The daemons in her head ruined board games for her.
 
 She is extremely prideful on the fact that she was built by no one else than Twilight Sparkle, yes the one that's a princess. And she will also learn how to communicate with snakes, just you wait.
 
