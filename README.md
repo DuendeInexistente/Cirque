@@ -27,3 +27,5 @@ Changelog:
  - [Three](ScrambledPages/1.md) [new](ScrambledPages/2.md) [pages](ScrambledPages/3.md) of Creek's journal.
  - [A short story about starry skies.](ShortStories/stars.md)
  - Added a [character list](/meta/characters.md)
+
+25/2/18: [Added a catalogue of food Leaf has found so far.](/meta/food.md)
