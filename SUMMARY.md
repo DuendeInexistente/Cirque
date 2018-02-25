@@ -1,7 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
-* [Character list](characters.md)
+* [Character list](/meta/characters.md)
 * Written by Creaking:
  * [Her journals](CreakJou.md)
  * [Her transcripts](Transcripts.md)
