@@ -3,7 +3,7 @@
 #### Lettuce Leaf
 (AKA Far Away Boy, Lyf, qt, boyo)
 
-![](Papers/Leaf1.png) ![](Papers/Leaf2.png)
+![](../Images/Papers/Leaf1.png) ![](../Images/Papers/Leaf2.png)
 
 An Equestrian cook and farmer who may be too patient with people and who will try to talk the dragon out of keeping the princess captive, but is having to learn to apply violence the hard way. After a mysterious incident, he was transported to the sea.
 
@@ -16,7 +16,7 @@ He is currently learning to swim, act, fight unnarmed, fight with a pole, and us
 Lettuce Leaf is trying to find a way back to Equestria, and does not want any super-mystic fate-of-the-world crap.
 
 #### Herb
-![](Papers/Herb1.png)
+![](../Images/Papers/Herb1.png)
 
 An Equestrian forget-me-not bird searching the way back too, and a little bard with little respect for personal space who's much more perceptive about people than may be apparent. For him life is just another tale, his entire culture revolves around storytelling and it shows; even as he searches his way back he is still compiling, cross referencing and making up stories in the library that is his head. He was sleeping on Leaf's roof when his house was transported.
 
@@ -26,7 +26,7 @@ Herb wants to collect stories and make his way back to his flock, and wishes the
 
 (AKA Francesca, Francis.)
 
-![](Papers/Sea1.png) ![](Papers/Sea2.png)
+![](../Images/Papers/Sea1.png) ![](../Images/Papers/Sea2.png)
 
 An earth pony mare who has no sight and cares very little about it. This aloof huntress, whose lite and small figure as well as her detached attitude belie the danger she presents, was first found in her floating shack near a dragon. She is also an actress, although not forthcoming around the fact.
 
@@ -42,7 +42,7 @@ Sea doesn't mind super-mystic fate-of-the-world so long as it keeps sending more
 
 (AKA sufficiently-complex diplomacy-oriented intelligence beta zero point three bee, Purple_Unit)
 
-![](Papers/Star1.png)![](Papers/Star2.png)
+![](../Images/Papers/Star1.png)![](../Images/Papers/Star2.png)
 
 This complex-enough inteligence, Purple_Unit, was sent along with five others by Twilight Sparkle to try assisting Leaf on his way back. She is chirpy, Politely professional or carefully oblivious when it serves her purposes, and she is most of all, not really intelligent because it's completely impossible that she is, and will argue this to the end of the world. The daemons in her head ruined board games for her.
 
@@ -58,7 +58,7 @@ All this super-mystic fate-of-the-world stuff is fascinating to Star. She wants 
 
 #### Natan and Nitzan
 
-![](Papers/Natan1.png)
+![](../Images/Papers/Natan1.png)
 
 **Natan** is a Duda and once-to-be-captain in training, whose ship was sank and crew died when Star fell on them. Star is not aware of what she did, and he would prefer she remained that way. He doesn't want to blame her for falling on his ship. She had no way to avoid it and it'd be unfair of him.
 
