@@ -86,7 +86,7 @@ The next and last period in which it appears prominently is approximately six ce
 [^Alba]: One of the first in recorded history.
 
 
-[^numbers]: It's noteworthy that both three and six are important in early Moonlet-Duda cultures: By their mythological accounts their creators '*Made Dudas to think in threes so that they may have wit, and Moonlets in sixes so that they may be swift.*'
+[^numbers]:It's noteworthy that both three and six are important in early Moonlet-Duda cultures: By their mythological accounts their creators '*Made Dudas to think in threes so that they may have wit, and Moonlets in sixes so that they may be swift.*'
 
 [^MoonLady]: The name moonlets and dudas give to the big brother.
 
