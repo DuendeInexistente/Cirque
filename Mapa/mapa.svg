@@ -25,11 +25,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.4"
-     inkscape:cx="183.97357"
-     inkscape:cy="75.894159"
+     inkscape:zoom="0.70000002"
+     inkscape:cx="246.11726"
+     inkscape:cy="280.6222"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer5"
+     inkscape:current-layer="layer7"
      showgrid="false"
      inkscape:window-width="1280"
      inkscape:window-height="932"
@@ -251,8 +251,9 @@
   <g
      inkscape:groupmode="layer"
      id="layer5"
-     inkscape:label="Text"
-     transform="translate(625.93708,110.08487)">
+     inkscape:label="Text (Landly, Coracao)"
+     transform="translate(625.93708,110.08487)"
+     sodipodi:insensitive="true">
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'attack of the cucumbers';-inkscape-font-specification:'attack of the cucumbers';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
@@ -1725,7 +1726,7 @@
          id="tspan1139">the chunks floating off one after another, sometimes</tspan><tspan
          sodipodi:role="line"
          x="-602.58105"
-         y="423.28653"
+         y="423.28656"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.29474163px;line-height:0.5;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono';stroke-width:0.95592135"
          id="tspan1141">large enough to become small villages of their own.</tspan><tspan
          sodipodi:role="line"
@@ -1754,4 +1755,8 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.29474163px;line-height:0.5;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono';stroke-width:0.95592135"
          id="tspan1151">of it population.</tspan></text>
   </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer7"
+     inkscape:label="Text (Albaricoque, Copper Top)" />
 </svg>
