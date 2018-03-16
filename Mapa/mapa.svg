@@ -217,7 +217,7 @@
        x="-17.386906"
        y="221.40477"
        onmouseover="document.getElementById('landly').style.opacity = '0.9';"
-       onmouseout="document.getElementById('landly').style.opacity = '0.1';" />
+       onmouseout="document.getElementById('landly').style.opacity = '0.0';" />
     <rect
        style="opacity:0.99199997;fill:#44aa00;stroke:#310b00;stroke-width:0.13229166;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.27319587;paint-order:stroke markers fill"
        id="rect933"
