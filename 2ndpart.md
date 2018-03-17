@@ -10,4 +10,3 @@
 
 >Mortals needed day, and for this twilight and the cadence whispered to empty stars so that their glimmering threads would extend, and guided these threads across the skies until they found the brightest star, gleaming like no other. She raced across the skies with dancing motions of happiness, twirling and trying to escape the strings tirelessly. The fire of her passion inundated the stars and set them aflame, making their light truly come to life, and the the star thus became their mother-and-child, racing across the sky chased by all of her newly found offspring.
 
->The star was pulled with much effort, 
