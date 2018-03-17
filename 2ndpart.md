@@ -8,6 +8,6 @@
 
 >Yet the cadence grew exhausted for it was very little energy that the mortals had, sleeping during the long night in remembrance of ancient suns and being awake for so little. This exhaustion made her grow angry, for it was mortals that wasted the night instead of creating during it with the energy and inspiration that it gave them.
 
->Mortals needed day, and for this the moon and twilight and the cadence whispered to empty stars so that their glimmering threads would extend, and guided these threads across the skies until they found the brightest star, gleaming like no other. She raced across the skies with dancing motions of happiness, twirling and trying to escape the strings tirelessly.
+>Mortals needed day, and for this the moon and twilight and the cadence whispered to empty stars so that their golden threads would extend, and guided these threads across the skies until they found the brightest of all suns, gleaming like no other. She raced across the skies with dancing motions of happiness, twirling and trying to escape the strings tirelessly.
 
 >The fire of her passion inundated the stars and set them aflame, making their light truly come to life, and the the star thus became their mother-and-child, racing across the sky chased by all of her newly found offspring, searching for a household long since destroyed.
