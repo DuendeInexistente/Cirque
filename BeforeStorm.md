@@ -2,4 +2,6 @@ Very recently I met a curious pony. ~~S~~ he was tall and had wings like old Que
 
 He claims to hail from seas called 'Land', which is not water but a seemingly endless surface. His city is named Pegasopolis, which he claims, is at war with unicorns and ponies, whom he calls "Eartherns." Through some twist of destiny, he and his entire household -which due to bad luck was not garrisoned- were transported here, bypassing the extreme distance that we both agreed must separate us seeing as how no common point could be agreed by us. He did not know even the cold or warm seas, and I cannot fathom what a 'desert' is as much as he tried to explain it. This mishap was two months -Or as he said it, a moon and a half- ago, and he has been searching for a way back since.
 
-We discussed the differences between the cold seas and the land's for several hours and I will, indeed, write them down once I've put my thoughts in order, but the most curious part was, this 
+We discussed the differences between the cold seas and the land's for several hours and I will, indeed, write them down once I've put my thoughts in order, but the most curious part was, this was familiar to me. I talked with acquaintances about it until I could remember why.
+
+A Duda captain I know of the
