@@ -11,3 +11,5 @@
 >Mortals needed day, and for this the moon and twilight and the cadence whispered to empty stars so that their golden threads would extend, and guided these threads across the skies until they found the brightest of all suns, enraged in passion like no other. She raced across the skies with dancing motions of happiness, twirling and trying to escape the strings tirelessly.
 
 >The fire of her passion inundated the stars and set them aflame, making their light truly come to life, and the the star thus became their mother-and-child, racing across the sky chased by all of her newly found offspring, searching for a household long since destroyed.
+
+>This race-across-the-heavens was the shine and art, and the art propagated to the cadance for this was the balancing element that it needed; without art, the inspiration was cruel and ruthless. And when mortals saw this new sun, they cheered for it was the brightest that every had had. The cheering ignited the sun even further, and now it shone with dance and song. The dance was given to the twilight, and the song to the cadance. Light was offered to the moon, but it refused to accept.
