@@ -4,4 +4,4 @@ He claims to hail from seas called 'Land', which is not water but a seemingly en
 
 We discussed the differences between the cold seas and the land's for several hours and I will, indeed, write them down once I've put my thoughts in order, but the most curious part was, this was familiar to me. I talked with acquaintances about it until I could remember why.
 
-A Duda captain I know of the
+A Duda captain I know of the Bon Line, very old even among his kind, also met two land seekers -for he called them that- in his life, centuries apart. The last one was unremarkable, a mumbling, lost mare, but before that was a curious one. He refused to give his name, claiming that he had given up for his Lady- the moon lady, none less, who honoured his sacrifice with the title of baturai.
