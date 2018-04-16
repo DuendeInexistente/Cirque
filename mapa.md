@@ -46,7 +46,7 @@
 
 
 <p>
-<blockquote style="column-count: 2;column-gap: 20px;-moz-column-count: 2;-moz-column-gap: 20px;-webkit-column-count: 2;-webkit-column-gap: 20px;columns:2;">
+<blockquote style="column-count: 2;-moz-column-count: 2;-webkit-column-count: 2;columns:2;">
 Once
 <br>when I
 <br>was young
