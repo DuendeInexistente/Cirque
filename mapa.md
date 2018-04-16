@@ -45,8 +45,8 @@
 ### Coracao
 
 
-<p style="column-count: 2;column-gap: 20px;-moz-column-count: 3;-moz-column-gap: 20px;-webkit-column-count: 3;-webkit-column-gap: 20px;columns:3;">
-<blockquote>
+<p>
+<blockquote style="column-count: 2;column-gap: 20px;-moz-column-count: 3;-moz-column-gap: 20px;-webkit-column-count: 3;-webkit-column-gap: 20px;columns:3;">
 Once
 <br>when I
 <br>was young
