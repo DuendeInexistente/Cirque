@@ -29,7 +29,53 @@
 
 ### Albaricoque
 
+>"Albaricoque. They have this thing on their city, a pile o' wood." She laughs. "Not joking! It's this pillar made of wood with green stuff in it? And food grows off it. But good luck getting anywhere near it."
+
+
 ### Coracao
+
+> once
+> 
+> when I
+> 
+> was young
+> 
+> and didn't
+> 
+> ask much,
+> 
+> I went to
+> 
+> small Coracao
+> 
+> and danced
+> 
+> all night long
+
+> In the morn
+> 
+> I asked
+> 
+> why had we
+> 
+> danced.
+> 
+> And a filly
+> 
+> all tears and laugh,
+> 
+> tells me I swear
+> 
+> "I miss him so much."
+> 
+> "But what would our angels
+> 
+> rise to the stars on,
+> 
+> If it's not our laugher and dance
+> 
+> 'cause we love 'em so much."
+
 
 ### Nikkal Storm
 
