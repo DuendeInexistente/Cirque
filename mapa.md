@@ -47,47 +47,28 @@
 
 <p style="column-count: 2;column-gap: 20px;-moz-column-count: 3;-moz-column-gap: 20px;-webkit-column-count: 3;-webkit-column-gap: 20px;">
 <blockquote>
-> once
-> 
-> when I
-> 
-> was young
-> 
-> and didn't
-> 
-> ask much,
-> 
-> I went to
-> 
-> small Coracao
-> 
-> and danced
-> 
-> all night long
-
-> In the morn
-> 
-> I asked
-> 
-> why had we
-> 
-> danced.
-> 
-> And a filly
-> 
-> all tears and laugh,
-> 
-> tells me I swear
-> 
-> "I miss him so much."
-> 
-> "But what would our angels
-> 
-> rise to the stars on,
-> 
-> If it's not our laugher and dance
-> 
-> 'cause we love 'em so much."
+Once <br>
+when I
+<br> was young
+<br>and didn't
+<br>ask much,
+<br>I went to
+<br>small Coracao
+<br>and danced
+<br>all night long
+<br><br>
+<br>In the morn
+<br>I asked
+<br>why had we
+<br>danced.
+<br>And a filly
+<br>all tears and laugh,
+<br>tells me I swear
+<br>"I miss him so much."
+<br>"But what would our angels
+<br>rise to the stars on,
+<br>If it's not our laugher and dance
+<br>'cause we love 'em so much."
 </blockquote>
  -Sweeper
 </p>
