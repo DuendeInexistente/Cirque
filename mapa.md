@@ -1,4 +1,4 @@
-![](/Mapa/mapa2.svg)
+![](Mapa/mapa2.svg)
 
 ### Shallow Shoals
 
