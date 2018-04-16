@@ -46,6 +46,7 @@
 
 
 <p style="column-count: 2;column-gap: 20px;-moz-column-count: 3;-moz-column-gap: 20px;-webkit-column-count: 3;-webkit-column-gap: 20px;">
+<blockquote>
 > once
 > 
 > when I
@@ -87,7 +88,7 @@
 > If it's not our laugher and dance
 > 
 > 'cause we love 'em so much."
-
+</blockquote>
  -Sweeper
 </p>
 
