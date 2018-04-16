@@ -43,6 +43,7 @@
 
 ### Coracao
 
+<p>
 > once
 > 
 > when I
@@ -86,6 +87,7 @@
 > 'cause we love 'em so much."
 
  -Sweeper
+</p>
 
 ### Nikkal Storm
 
