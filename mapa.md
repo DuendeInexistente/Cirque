@@ -40,7 +40,7 @@
 > "Albaricoque. They have this thing on their city, a pile o' wood." She laughs. "Not joking! It's this pillar made of wood with green stuff in it? And food grows off it. But good luck getting anywhere near it."
 
  -Blue Angel
-ss
+
 
 ### Coracao
 
