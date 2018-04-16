@@ -3,7 +3,7 @@
 * [Introduction](README.md)
 * [Character list](/meta/characters.md)
 * [Foods catalogue](/meta/food.md)
-* [Mapa](mapa.md)
+* [Map](mapa.md)
 * Written by Creaking:
  * [Her journals](CreakJou.md)
  * [Her transcripts](Transcripts.md)
