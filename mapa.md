@@ -5,7 +5,9 @@
 > "The shallow shoals?"
 > 
 > "Of course, but it's on warmer waters." Necia talks over Bedside, "I've never gone there because the sea isn't too deep and sirens don't have as many cities as here.. but you can even see the bottom there on a clear day. Some ponies like that."
+> 
 > [...]
+> 
 >"The city's famous for never being invaded... the shallows are too risky and ships sink without a lighthouse on, and swimming below them isn't possible at night."
 
 ### Fire Mountains
@@ -16,14 +18,13 @@
 > 
 > "The sirens dig for us... in exchange for protection, and we can enter the..." He whispers in several other languages again, "rivers of flame, filled with enough... heat and magic to hatch the eggs."
 
+ -Starglow
+
 ### Lanka
 
-> "Oh. Lanka, bunch of yahoos." She shakes her head, smirking, "What kind of pony builds a city where no building can be over ten feet, then makes a hundred feet tower on it's center?"
-> 
-> "What kind?" You ask her back, unsure of what else could you say.
-> 
-> "Genially crazy ponies, that's who." She says, pleased.
- -Leaf & the gipsy
+> "Oh. Lanka, bunch of yahoos." She shakes her head, smirking, "What kind of pony builds a city where no building can be over ten feet, then makes a hundred feet tower on it's center? Genially crazy ponies, that's who."
+
+ -The gipsy
 
 -------------------------------------
 
@@ -31,12 +32,14 @@
 > 
 > *The city, against my hopes, is nothing like Cloudsdale. Where Cloudsdale is flamboyant, this city is subtle. Where Cloudsdale stands tall and proud, the Whalians -As Whisper insists in calling them- shy away from the admittedly mighty winds of this altitude. At times I could even swear the air density is lower here, even when the residents insisted no such thing happens.*
 
+ -Creek
 
 
 ### Albaricoque
 
->"Albaricoque. They have this thing on their city, a pile o' wood." She laughs. "Not joking! It's this pillar made of wood with green stuff in it? And food grows off it. But good luck getting anywhere near it."
+> "Albaricoque. They have this thing on their city, a pile o' wood." She laughs. "Not joking! It's this pillar made of wood with green stuff in it? And food grows off it. But good luck getting anywhere near it."
 
+ -Blue Angel
 
 ### Coracao
 
@@ -82,6 +85,7 @@
 > 
 > 'cause we love 'em so much."
 
+ -Sweeper
 
 ### Nikkal Storm
 
@@ -93,3 +97,4 @@
 > 
 >"Our construction is not as limited as that of ponies," Adds Necia. "The tallest castle is almost on the surface.
 
+-Lilly & Necia
