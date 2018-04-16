@@ -5,9 +5,7 @@
 > "The shallow shoals?"
 > 
 > "Of course, but it's on warmer waters." Necia talks over Bedside, "I've never gone there because the sea isn't too deep and sirens don't have as many cities as here.. but you can even see the bottom there on a clear day. Some ponies like that."
-
-------
-
+> [...]
 >"The city's famous for never being invaded... the shallows are too risky and ships sink without a lighthouse on, and swimming below them isn't possible at night."
 
 ### Fire Mountains
@@ -25,12 +23,13 @@
 > "What kind?" You ask her back, unsure of what else could you say.
 > 
 > "Genially crazy ponies, that's who." She says, pleased.
+ -Leaf & the gipsy
 
 -------------------------------------
 
-> The sheer size of it made it hard for me to accept it as a living being first, at least until it *blinked*, making my heart stop for a moment. If only I still had enough film for the camera...
+> *The sheer size of it made it hard for me to accept it as a living being first, at least until it *blinked*, making my heart stop for a moment. If only I still had enough film for the camera...*
 > 
-> The city, against my hopes, is nothing like Cloudsdale. Where Cloudsdale is flamboyant, this city is subtle. Where Cloudsdale stands tall and proud, the Whalians -As Whisper insists in calling them- shy away from the admittedly mighty winds of this altitude. At times I could even swear the air density is lower here, even when the residents insisted no such thing happens. 
+> *The city, against my hopes, is nothing like Cloudsdale. Where Cloudsdale is flamboyant, this city is subtle. Where Cloudsdale stands tall and proud, the Whalians -As Whisper insists in calling them- shy away from the admittedly mighty winds of this altitude. At times I could even swear the air density is lower here, even when the residents insisted no such thing happens.*
 
 
 
