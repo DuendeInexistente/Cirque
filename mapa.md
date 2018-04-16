@@ -2,6 +2,10 @@
 
 ### Shallow Shoals
 
+> "The shallow shoals?"
+> 
+> "Of course, but it's on warmer waters." Necia talks over Bedside, "I've never gone there because the sea isn't too deep and sirens don't have as many cities as here.. but you can even see the bottom there on a clear day. Some ponies like that."
+
 ### Fire Mountains
 
 ### Lanka
