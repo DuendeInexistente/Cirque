@@ -28,7 +28,7 @@
 
 -------------------------------------
 
->The sheer size of it made it hard for me to accept it as a living being first, at least until it *blinked*, making my heart stop for a moment. If only I still had enough film for the camera...
+> The sheer size of it made it hard for me to accept it as a living being first, at least until it *blinked*, making my heart stop for a moment. If only I still had enough film for the camera...
 > 
 > The city, against my hopes, is nothing like Cloudsdale. Where Cloudsdale is flamboyant, this city is subtle. Where Cloudsdale stands tall and proud, the Whalians -As Whisper insists in calling them- shy away from the admittedly mighty winds of this altitude. At times I could even swear the air density is lower here, even when the residents insisted no such thing happens. 
 
