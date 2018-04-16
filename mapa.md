@@ -56,7 +56,7 @@ Once
 <br>small Coracao
 <br>and danced
 <br>all night long
-<br><br>
+<br><br><br>
 <br>In the morn
 <br>I asked
 <br>why had we
