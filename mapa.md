@@ -45,7 +45,7 @@
 ### Coracao
 
 
-<p style="column-count: 2;column-gap: 20px;-moz-column-count: 3;-moz-column-gap: 20px;-webkit-column-count: 3;-webkit-column-gap: 20px;columns: 100px 3;">
+<p style="column-count: 2;column-gap: 20px;-moz-column-count: 3;-moz-column-gap: 20px;-webkit-column-count: 3;-webkit-column-gap: 20px;columns:3;">
 <blockquote>
 Once
 <br>when I
