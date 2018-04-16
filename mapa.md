@@ -43,7 +43,7 @@
 
 ### Coracao
 
-<p>
+<p style="    column-count: 2;column-gap: 20px;">
 > once
 > 
 > when I
