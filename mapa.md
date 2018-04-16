@@ -79,11 +79,6 @@
 
 ### Nikkal Storm
 
-### Arabesco
-
-### Landly
-
-### Coppertop
 
 ### Samabaj
 
