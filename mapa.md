@@ -47,9 +47,9 @@
 
 <p style="column-count: 2;column-gap: 20px;-moz-column-count: 3;-moz-column-gap: 20px;-webkit-column-count: 3;-webkit-column-gap: 20px;">
 <blockquote>
-Once <br>
-when I
-<br> was young
+Once
+<br>when I
+<br>was young
 <br>and didn't
 <br>ask much,
 <br>I went to
