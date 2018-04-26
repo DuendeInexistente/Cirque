@@ -6,7 +6,7 @@ Despait this rudness and mai be unauhare of it thei join happili, drinking mani 
 
 Soon after thei appear in other locales sutsh as alende's fall, landlee, diverse coloneis, & many plases in mutsh similar uais. Som kneu this among them me, ! Uhen ue asked of their origins, thei deftili didn not ansuer & avoided us longili ever since.
 
-Kuriosli enoug sirens didn not like them mutsh, uitsh is to sai, thei fastli ualk out of the room if thei are nearbi & do not look bak. Thei don not knou uere the steixians kame from or if thei knou, thei jave not told and sim realful uhen thei sai, thei just don nt leik them.
+Kuriosli enoug sirens didn not like them mutsh, uitsh is to sai, thei fastli ualk out of the room if thei are nearbi & do not look bak. Thei don not knou uere the steixians kame from or if thei knou, thei jave not told and sim realful uhen thei sai, thei just don nt leik them. Also to mention is, uile some sai thei aer al leeing, I don not see it likly that not one of them sais the trut.
 
 Homuever & verili sadli, tshangerlings jave goun sik & manei efforts goe einto finding out ui & hou, & hou kan thei be kured, bekaus mani die each dai & mani arts would be lost if tei went auai.
 
