@@ -42,4 +42,5 @@ Samabaj; Why and how.
 </br>
  To be more suscint, siren traditionalism from the time detests the theatrical and opts instead for optimistic realism/nihilism, casting doubt on anyone who feels the need to be grandiose.
 
- [^notion]:Which, at the risk of inserting personal opinions in history, I assume is a notion the queens themselves would've helped creating.
+ [^notion]:
+Which, at the risk of inserting personal opinions in history, I assume is a notion the queens themselves would've helped creating.
