@@ -4,21 +4,21 @@ Samabaj; Why and how.
 
  Samabaj [...] is founded in the wake of siren and changeling states signing treaties of peace shortly ago, which is a period most strongly defined by strong cultural revisionism regarding the six siren sovereigns losing their crowns to the queen of tides, an event which seems to be dividing, even traumatic, to their culture.
 
- An important aspect of this is [...] the number of them [sirens from diverse backgrounds] that begin, in the last decades, questioning the siren queens and welcoming [the queen of tides] back into mainstream culture as a valid, moral actor. In this view of history, the queens' actions are no longer seen as inherently moral -which is by itself, a part of sirens questioning their isolasionist culture as a result of the brief changeling immigration- and are instead deeply questioned, even going as far as to doubt the divine nature of the six queens, past and present.
+ An important aspect of this is [...] the number of them [sirens from diverse backgrounds] that begin, in the last decades, questioning the siren queens and welcoming [the queen of tides] back into mainstream culture as a valid, moral actor. In this view of history, the queens' actions are no longer seen as inherently moral -which is by itself, a part of sirens questioning their isolationist culture as a result of the brief changeling immigration- and are instead deeply questioned, even going as far as to doubt the divine nature of the six queens, past and present.
 
  The mythos of crowns and queens plays heavily in this; 
 
-> The six queens of the corners sat around, and parlayed. And their words were song of mirth and union and hope with which six gems were crafted by changeling and siren artisans.
+> The six queens of the corners met around, and for the first time parleyed. And their words became song of mirth and union and hope so alive that with it six gems were crafted by changeling and siren artisans.
 >
 > The first gem did not truly shine for mere light did not suffice, so it was attached to the queen of the second corner so that it'd never be alone. The second was sang to by the first corner, and the third was told a secret, and the fourth was gifted from the queen of five to a lowly servant, for it'd be so much more beautiful on her, and this queen did not need to wear her crown for a long time.
 >
 >The fifth gem was first forgotten, for the queen of three was greatly distracted because taint beasts were set upon their town, and she joined in to defend it. But when it was remembered and found several days later, it shone maybe brightest of all.[^elements]
 >
->The sixth gem only shone after all the others did, for the queen of six truly thought that they had no hope before seeing all their lights. Yet upon seeing the other gems all shine so bright, her hearth shone so bright with song of hope(?) that her gem too shone
+>The sixth gem only shone only after all the others did, for the queen of six truly thought that they had no hope before seeing all their lights. Yet upon seeing the other gems all shine so bright, her hearth shone so bright with song of hope(?) that her gem too shone
 
- This assumedly happens while taint beasts are beggining to attack their civilization, and on the time that follows the queens use their six crowns time and time again to defend themselves. Their kingdoms turn into a unified empire over time however, as the crowns give them unflinching power against taint.
+ This supposedly happens while taint beasts are beginning to attack their civilization, and on the time that follows the queens use their six crowns time and time again to defend their kind. Their kingdoms turn into a unified empire over time however, as the crowns give them unflinching power against taint.
 
- As modern revisionism has began perceiving, the siren queens betray themselves[^betray] with this unbeatable power, and their rule upsets traditional values with their magnanimous attitudes. Yet the crucial point is when -there isn't any exact date or reference to a particular, dated event to point when exactly did this happen- the jewels on their crowns begin fading. As 'Several generations' of their dominion pass, the gems blacken and crack, which sirens at this time perceive it as the queens casting this extrnal power aside now that they no longer need it[^notion] to stand by themselves.
+ As modern revisionism has began perceiving, the siren queens betray themselves[^betray] with this unbeatable power, and their rule upsets traditional values with their magnanimous attitudes. Yet the crucial point is when -there isn't any exact date or reference to a particular, dated event to point when exactly did this happen- the jewels on their crowns begin fading. As 'Several generations' of their dominion pass, the gems blacken and crack, which sirens at this time perceive it as the queens casting this external power aside now that they no longer need it[^notion] to stand by themselves.
 
  As scholars are perceiving it now, this is a mark of the queens having set their traditional values aside to the point that the jewels no longer consider them worthy or even reedemeable, nor willing to be. They keep their crowns however, maybe having learned to forcibly extract power from them after wielding them for so long.
 
