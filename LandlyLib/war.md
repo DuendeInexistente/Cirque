@@ -24,7 +24,7 @@
 -------------------------------------------------------------
 
 [^mouna]:
-A chapel dedicated to the worship of the big brother as ponies perceive him. Sometimes it's wrongly seen as opposite of solairs, where the big sister is worshiped in a similar fashion, but historically both worships have been non-exclusive and in some cases even complementary, bar particular incidents such as this and more recent developments followingPatzivota appearing and the Big Brother betraying the duality.
+A chapel dedicated to the worship of the big brother as ponies perceive him. Sometimes it's wrongly seen as opposite of solairs, where the big sister is worshiped in a similar fashion, but historically both worships have been non-exclusive and in some cases even complementary, bar particular incidents such as this and more recent developments following Patzivota appearing and the Big Brother betraying the duality.
 
 [^solair]:
 See above.
