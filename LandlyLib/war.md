@@ -1,4 +1,4 @@
-> Researched with assistance and revisions by several members of the church of the Rose. My farewell to them before I depart.
+>These books were researched with assistance and revisions by several members of the church of the Rose. My farewell to them before I depart, for I owe my life to them.
 >
 > -Ser Lemon Pie.
 >
@@ -20,11 +20,14 @@
  This separation however only seems to be benefitial. Moonlets continue to divide into smaller groups that nonetheless manage varying degrees of coordination and practice guerrilla warfare against loyalists, keeping their troops in disarray. This comes to ruination of Tayirs on ocasion, but as time goes on they come closer together to the point that even if they are still largely independant, tayirs and moonlets can communicate effectively enough to be effective together in battle as, if not an united front, a collection of fronts with inclusive goals. [^divide]
 
  The war came to a conclusion quickly after this; loyalist forces were chaos as they attempted to fight to many cooperating groups with their methodologies. Several (Verbal, of course, and thus not very reliable) colections go as far as to recount loyalist generals being unable to remember who had they fought in the morning by the time night fell. [...]
+
 -------------------------------------------------------------
 
-
-[^mouna][^solair]:
+[^mouna]:
 A chapel dedicated to the worship of the big brother as ponies perceive him. Sometimes it's wrongly seen as opposite of solairs, where the big sister is worshiped in a similar fashion, but historically both worships have been non-exclusive and in some cases even complementary, bar particular incidents such as this and more recent developments followingPatzivota appearing and the Big Brother betraying the duality.
+
+[^solair]:
+See above.
 
 [^kalb]:
 Sources of the time indicate that there were parties pushing for them to call themselves Tayir or Kalb, marking the divide between them and those who remained obeying their creators, but neither seems to have struck as much more than a curiosity in their culture. They will from now on be referred to as Tayirs however, for ease of reading.
