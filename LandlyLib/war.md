@@ -1,13 +1,11 @@
 >These books were researched with assistance and revisions by several members of the church of the Rose. My farewell to them before I depart, for I owe my life to them.
 >
-> -Ser Lemon Pie.
->
 > *"Dodo, neither sadness nor grief kill!"*
 
 
- While the event that set it off remains a mystery, the trinary war affects Dudas and moonlets to this day. It's valid to wonder how exactly were they made to fight against each other when before, and since near the end of it, they have been close in culture and person; so much, in fact, that they share what scholars call bronze bispeech, the same language but "said diferent" by moonlets, due to their particular vocal chords. All sources I've been able to find point to that understanding Dudas will be an act of intuition once I learn enough from Dudas, which makes the proespect all the more fascinating [...]
+ While the event that set it off remains a mystery, the trinary war affects Dudas and moonlets to this day. It's valid to wonder how exactly were they made to fight against each other when before, and since near the end of it, they have been close in culture and person; so much, in fact, that they share what scholars call bronze bispeech, the same language but "said different" by moonlets due to their particular vocal chords. All sources I've been able to find point to that understanding Dudas will be an act of intuition once I learn enough from Dudas, which makes the prospect all the more fascinating [...]
 
- Going back to the subject of the war, while the triggering event is unknown -covered in the same haze of ignorance as everything concerning their creator- it's known that the first period of the war lasted aproximately fifty years, until moonlets somehow broke out of the servitor doctrine they were, quite literally, ingrained into. They were a more recent creation -theorized to be meant to replace dudas eventually- yet had made great strides, pun not intended, in turning the war against Dudas in their creators' favor, partly due to the ingrained flaws moonlets were designed with; a lesser ability to focus on individual tasks when not instructed, inability to communicate directly with most other peoples, and lethally high metabolism all would've greatly helped keep them in servitude effectively.
+ Going back to the subject of the war, while the triggering event is unknown -covered in the same haze of ignorance as everything concerning their creator- it's known that the first period of the war lasted approximately fifty years, until moonlets somehow broke out of the servitor doctrine they were, quite literally, ingrained into. They were a more recent creation -theorized to be meant to replace Dudas eventually- yet had made great strides, pun not intended, in turning the war against Dudas in their creators' favour, partly due to the ingrained flaws moonlets were designed with; a lesser ability to focus on individual tasks when not instructed, inability to communicate directly with most other peoples, and lethally high metabolism all would've greatly helped keep them in servitude effectively.
 
  It's unknown when does their ritualistic doctrine start appearing- it's first reported, of all historical records I can find, in a city state called Pehuamar where a battle between Dudas and moonlets takes place. Amidst it several moonlets are spotted breaking into a mouna [^mouna] of the big brother and stealing several relics And objects of reverence yet ignoring greatly more valuable items. At the time it was taken an attack, a warning that the war would be not only against Dudas, but against ponies as well.
 
@@ -20,6 +18,8 @@
  This separation however only seems to be benefitial. Moonlets continue to divide into smaller groups that nonetheless manage varying degrees of coordination and practice guerrilla warfare against loyalists, keeping their troops in disarray. This comes to ruination of Tayirs on ocasion, but as time goes on they come closer together to the point that even if they are still largely independant, tayirs and moonlets can communicate effectively enough to be effective together in battle as, if not an united front, a collection of fronts with inclusive goals. [^divide]
 
  The war came to a conclusion quickly after this; loyalist forces were chaos as they attempted to fight to many cooperating groups with their methodologies. Several (Verbal, of course, and thus not very reliable) colections go as far as to recount loyalist generals being unable to remember who had they fought in the morning by the time night fell. [...]
+
+> -Ser Lemon Pie.
 
 -------------------------------------------------------------
 
