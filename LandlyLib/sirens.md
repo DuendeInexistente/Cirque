@@ -39,7 +39,7 @@ Samabaj; Why and how.
 
 [^betray]:
  The most important part of the mythos, and a consistent element in early siren lore, is the element of *elegant simplicity*, that is, wit used not in complicated riddles or characters, but in simple designs, and tests of character not being grandiose and even explicitly mocking the notion that it should be. Each of the sirens that does something to prove herself to a jewel does so with a small gesture or with only a feeling, and the only siren that does something grand, the queen of three, does so completely disregarding the test of character that was supposed to take place.
-
+</br>
  To be more suscint, siren traditionalism from the time detests the theatrical and opts instead for optimistic realism/nihilism, casting doubt on anyone who feels the need to be grandiose.
 
  [^notion]:Which, at the risk of inserting personal opinions in history, I assume is a notion the queens themselves would've helped creating.
