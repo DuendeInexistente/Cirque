@@ -20,6 +20,7 @@
  This separation however only seems to be benefitial. Moonlets continue to divide into smaller groups that nonetheless manage varying degrees of coordination and practice guerrilla warfare against loyalists, keeping their troops in disarray. This comes to ruination of Tayirs on ocasion, but as time goes on they come closer together to the point that even if they are still largely independant, tayirs and moonlets can communicate effectively enough to be effective together in battle as, if not an united front, a collection of fronts with inclusive goals. [^divide]
 
  The war came to a conclusion quickly after this; loyalist forces were chaos as they attempted to fight to many cooperating groups with their methodologies. Several (Verbal, of course, and thus not very reliable) colections go as far as to recount loyalist generals being unable to remember who had they fought in the morning by the time night fell. [...]
+-------------------------------------------------------------
 
 
 [^mouna][^solair]:
