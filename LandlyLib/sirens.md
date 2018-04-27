@@ -1,5 +1,5 @@
 Samabaj; Why and how.
-=====================
+-----------------------
 
 
  Samabaj [...] is founded in the wake of siren and changeling states signing treaties of peace shortly ago, which is a period most strongly defined by strong cultural revisionism regarding the six siren sovereigns losing their crowns to the queen of tides, an event which seems to be dividing, even traumatic, to their culture.
