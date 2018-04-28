@@ -4,7 +4,7 @@ Samabaj; Why and how.
 
 Samabaj [...] is founded in the wake of siren and changeling states signing treaties of peace shortly ago, which is a period most strongly defined by strong cultural revisionism regarding the six siren sovereigns losing their crowns to the queen of tides, an event which seems to be dividing, even traumatic, to their culture.
 
-An important aspect of this is [...] the number of them [sirens from diverse backgrounds] that begin, in the last decades, questioning the siren queens and welcoming [the queen of tides] back into mainstream culture as a valid, moral actor. In this view of history, the queens' actions are no longer seen as inherently moral -which is by itself, a part of sirens questioning their isolationist culture as a result of the brief changeling immigration- and are instead deeply questioned, even going as far as to doubt the divine nature of the six queens, past and present.
+An important aspect of this is [...] the number of them [sirens from diverse backgrounds] that begin, in the last decades, questioning the siren queens and welcoming [the queen of tides] back into mainstream culture as a valid, moral actor. In this view of history, the queens' actions are no longer seen as inherently moral -which is by itself, a part of sirens questioning their isolationist culture as a result of the brief changeling immigration[^changs]- and are instead deeply questioned, even going as far as to doubt the divine nature of the six queens, past and present.
 
 The mythos of crowns and queens plays heavily in this; 
 
@@ -41,7 +41,10 @@ Kindness/Loyalty, Laugher, Honesty, Generosity and Kindness/Loyalty? Is the last
 [^betray]:
 The most important part of the mythos, and a consistent element in early siren lore, is the element of *elegant simplicity*, that is, wit used not in complicated riddles or characters, but in simple designs, and tests of character not being grandiose and even explicitly mocking the notion that it should be. Each of the sirens that does something to prove herself to a jewel does so with a small gesture or with only a feeling, and the only siren that does something grand, the queen of three, does so completely disregarding the test of character that was supposed to take place.
 </br>
-To be more suscint, siren traditionalism from the time detests the theatrical and opts instead for optimistic realism/nihilism, casting doubt on anyone who feels the need to be grandiose.
+To be more ~~suscint~~succinct, siren traditionalism from the time detests the theatrical and opts instead for optimistic realism/nihilism, casting doubt on anyone who feels the need to be grandiose.
 
 [^notion]:
 Which, at the risk of inserting personal opinions in history, I assume is a notion the queens themselves would've helped creating.
+
+[^changs]:
+As a note I am adding several decades because Pai would've wanted as much, the more recent plague among changelings seems to have only furthered their feelings. Sirens still dislike changelings as much as ever, but even that seems to succumb to seeing them die by the dozen.
