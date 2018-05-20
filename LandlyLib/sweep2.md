@@ -1,6 +1,6 @@
 It's so smooth, it's so fluid, to move in these nights when the moon shines just enough that you can see the littlest bit ahead and you don't know, you don't know what may be beyond the fog that covers Landly like it's the stage of an ancient opera, where they use those small masks that somehow fool everyone but it's so pretty that they do.
 
-And there it is- the portico with a stone door, a known safety, not many of those when I am wearing the suit, and I still dread it the littlest bit. We don't know them- those locks all over Landly. Those strange puzzles that can unlock one's way into riches, who knows their operation? Any attempts to dismantle them go awry, scholars can't make heads or tails of how they work, and we still use them. Mostly for illegal things.
+And there it is- the portico with a stone door, a known safety, not many of those when I am wearing the suit, and I still dread it the littlest bit. We don't know them- those locks all over Landly. Those strange puzzles that can unlock one's way into riches, who knows their operation? Any attempts to dismantle them go awry, scholars can't make heads or tails of how they work, and we still use them. Mostly for illegal things- some of which even I shudder at.
 
 Ha. Who am I to criticise?
 

@@ -29,3 +29,10 @@ Changelog:
  - Added a [character list](/meta/characters.md)
 
 25/2/18: [Added a catalogue of food Leaf has found so far.](/meta/food.md)
+
+19/05/18: Added several books from Landy's library:
+
+ * [Samabaj; Why & how (Regarding sirens)](/LandlyLib/sirens.md) 
+ * [The trinary war](/LandlyLib/war.md)
+ * [Scrap of a tale found between the pages of another book](/LandlyLib/2ndpart.md)
+ * [Tritons](/LandlyLib/tritons.md)

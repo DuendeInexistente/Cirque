@@ -1,4 +1,4 @@
-Samabaj; Why and how.
+Samabaj; Why & how.
 ======================
 
 
