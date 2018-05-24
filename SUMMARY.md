@@ -15,10 +15,10 @@
  * [Samabaj; Why & how (Regarding sirens)](/LandlyLib/sirens.md) 
  * [The trinary war](/LandlyLib/war.md)
 * Written by others:
-	- Golden Thread's library:
+ - Golden Thread's library:
  * [Book about creatures](Creatures.md)
  * [Wooden Diaries](woden-diaries.md)
-	- Landly's library:
+ - Landly's library:
  * [Scrap of a tale found between the pages of another book](/LandlyLib/2ndpart.md)
  * [Tritons](/LandlyLib/tritons.md)
 * Some short stories:
