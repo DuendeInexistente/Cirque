@@ -12,7 +12,7 @@
      - [├2](ScrambledPages/2.md)
      - [┕3](ScrambledPages/3.md)
 * Written by Ser Lemon Pie
- * [Samabaj; Why & how <br>(Regarding sirens)](LandlyLib/sirens.md) 
+ * [Samabaj; Why & how (Regarding sirens)](LandlyLib/sirens.md) 
  * [The trinary war](LandlyLib/war.md)
 * From Golden Thread's library:
  * [Book about creatures](Creatures.md)
