@@ -11,7 +11,7 @@ I kick away from it and wander, wander across the water. School of fish are scar
 
 It's this city.
 
-So many memories, too many, like being drunk on something that went bad too long ago, like -I imagine- a bad trip with bad people around you, and one can almost taste the mediocre rencor in the air.
+So many memories, too many, like being drunk on something that went bad too long ago, like -I imagine- a bad trip with bad people around you, and one can almost taste the mediocre rancor in the air.
 
 *Water flows.*
 
