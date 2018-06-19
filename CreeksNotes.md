@@ -22,3 +22,6 @@ Which is no mere poetry. For them to not sublimate this disparity, but to mold a
 
 It's all this that supports the theory of [...] the pony goddesses -The dual duality of the sun and moon, rock and water- being, did they have physical forms, alicorns. Their longevity would give them the time to forge themselves into molten iron, and their roles mean that the required forces to forge them are an inherent part of their persons.
 <div align="right">-Cir Quesque, <i>Treila reila</i> </div>
+
+
+

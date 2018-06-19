@@ -47,4 +47,3 @@ To be more ~~suscint~~succinct, siren traditionalism from the time detests the t
 Which, at the risk of inserting personal opinions in history, I assume is a notion the queens themselves would've helped creating.
 
 [^changs]:
-As a note I am adding several decades because Pai would've wanted as much, the more recent plague among changelings seems to have only furthered their feelings. Sirens still dislike changelings as much as ever, but even that seems to succumb to seeing them die by the dozen.
