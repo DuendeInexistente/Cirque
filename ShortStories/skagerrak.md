@@ -11,13 +11,11 @@ I kick away from it and wander, wander across the water. School of fish are scar
 
 It's this city.
 
-So many memories, too many, like being drunk on something that went bad too long ago, like -I imagine- a bad trip with bad people around you, and one can almost taste the mediocre rancor in the air.
+So many memories, too many, like being drunk on something that went bad too long ago, like -I imagine- a bad trip with bad people around you, and one can almost taste the mediocre rancor in the air like the aftertaste of suckling on a dirty, greasy teat.
 
 *Water flows.*
 
-But that's the issue, isn't it?
-
-It flows and it flows.
+But that's the issue, isn't it? It flows and it flows.
 
 I keep swimming, taking as few breaks for air as I can, spending so much time underwater that my lungs ache and my head hurts and I feel dizzy, but I stay underwater, I stay in this stage, in my stage, rather than walk on the stone of Landly that is so hard and old and meaningless.
 
@@ -27,13 +25,15 @@ So I swim up and walk on the downside of the stone until I reach the edge, where
 
 I turn away from them and wander aimlessly; if the stone of Landly is bad, the people is even worse. I wander, and up here, nothing flows. Nothing at all.
 
+*Nothing flows.*
+
 I feel more than I see the night fall. At first it's like I am walking in the shadow of something, but then the cold descends on my wet fur, a familiar and soothing cold that reminds me of...
 
 Of hunting.
 
-Of being mindless because I wanted.
+Of being mindless because I wanted to be.
 
-Of deciding what mattered and what didn't on my own.
+Of deciding what mattered and what didn't.
 
 (*Yet I never asked the dragon's name.*
 
@@ -49,7 +49,7 @@ But Far away likes that play. It probably reminds him of home, or something simi
 
 *Nothing flows*.
 
-These are memories I hold on to. I hold on to them, remember all the things they taught me, because I'd rather remember them than other things.
+These are memories I hold on to. I hold on to them, remember all the things they taught me, because the alternative is thinking about Landly.
 
 I hear a familiar creak of wood, and follow my ears, trembling, until I walk on the familiar walkway that surrounds my home.
 
@@ -59,7 +59,7 @@ I hear a familiar creak of wood, and follow my ears, trembling, until I walk on 
 
 But that is the issue, isn't it.
 
-It's not that water flows or stone doesn't. It's that I don't. It's that city that makes me sick, this city where I don't flow. This city where I am stuck, in useless remembrance of so many irrelevant things, in rancid pseudo melancholy. In this city where I am most afraid of acting, where I have to grab onto this character -my own character, the skin of my choosing- so hard I stop flowing, lest I slip back.
+It's not that water flows or stone doesn't. It's that I don't. It's that city that makes me sick, this city where I don't flow. This city where I am stuck, in useless remembrance of so many irrelevant things, in rancid pseudo melancholy. In this city where I am afraid of acting, where I have to grab onto this character -my own character, the skin of my choosing- so hard I stop flowing, lest I slip back.
 
 Back to *her.*
 
@@ -67,7 +67,7 @@ Back to an useless girl who thought neediness was love and dependence was trust.
 
 So I grab, I grab so hard, because old habits last long and part of you wants to slip back into their comfort forever, no mater what, and you have to hold on to what's yours in the hope that they go away some day, lying to yourself as much as it takes. Because that is what sickens me, that this city makes it a bit of a lie or at least seem like one.
 
-*And water flows.*
+*Water flows.*
 
 But I don't. And in ways I don't know how to tell, it hurts.
 
