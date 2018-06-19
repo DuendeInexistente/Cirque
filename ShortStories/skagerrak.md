@@ -65,7 +65,7 @@ Back to *her.*
 
 Back to an useless girl who thought neediness was love and dependence was trust... to a bad character.
 
-So I grab, I grab so hard, because old habits last long and part of you wants to slip back into their comfort forever, no mater what, and you have to hold on to what's yours in the hope that they go away some day, lying to yourself as much as it takes. Because that is what sickens me, that this city makes it a bit of a lie.
+So I grab, I grab so hard, because old habits last long and part of you wants to slip back into their comfort forever, no mater what, and you have to hold on to what's yours in the hope that they go away some day, lying to yourself as much as it takes. Because that is what sickens me, that this city makes it a bit of a lie or at least seem like one.
 
 *And water flows.*
 
