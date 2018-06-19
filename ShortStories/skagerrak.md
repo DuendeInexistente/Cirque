@@ -69,8 +69,6 @@ So I grab, I grab so hard, because old habits last long and part of you wants to
 
 *And water flows.*
 
-But I don't.
-
-And in ways I don't know how to tell, it hurts.
+But I don't. And in ways I don't know how to tell, it hurts.
 
 After a while, I curl down on the center of the cabin, and sleep just like that night when my booze floated away and I was horny.
