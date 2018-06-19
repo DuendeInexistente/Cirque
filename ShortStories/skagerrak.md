@@ -11,13 +11,13 @@ I kick away from it and wander, wander across the water. School of fish are scar
 
 It's this city.
 
-So many memories, too many, like being drunk on something that went bad too long ago, like -I imagine- a bad trip with bad people around you, and one can almost taste the mediocre rancor in the air like the aftertaste of suckling on a dirty, greasy teat.
+So many memories, too many, like being drunk on something that went bad too long ago, like -I imagine- a bad trip with bad people around you, and one can almost taste the mediocre rancor in the air, like the aftertaste of suckling on a dirty, greasy teat. Like being in a small room filled with smoke.
 
 *Water flows.*
 
 But that's the issue, isn't it? It flows and it flows.
 
-I keep swimming, taking as few breaks for air as I can, spending so much time underwater that my lungs ache and my head hurts and I feel dizzy, but I stay underwater, I stay in this stage, in my stage, rather than walk on the stone of Landly that is so hard and old and meaningless.
+I keep swimming, taking as few breaks for air as I can, spending so much time underwater that my lungs ache and my head hurts and I feel dizzy, but I stay underwater, I stay in this stage, in my stage, rather than walk on the stone of Landly that is so hard and old and meaningless and peels out Francesca.
 
 But time passes, and I am equine, and as much as I want to lose myself in the hunt, I am starting to feel weak and have taken too much from the waters lately.
 
@@ -53,7 +53,7 @@ These are memories I hold on to. I hold on to them, remember all the things they
 
 I hear a familiar creak of wood, and follow my ears, trembling, until I walk on the familiar walkway that surrounds my home.
 
-*Nothing flows.*
+*Nothing--*
 
 *Water flows*.
 
