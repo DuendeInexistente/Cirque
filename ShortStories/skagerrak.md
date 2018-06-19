@@ -5,7 +5,7 @@ I sit, still.
 
 *Water flows.*
 
-The stone I am sitting on shifts with it, and I can hear it creak and groan in the process.
+The stone I am sitting on shifts with it, and I can hear it creak and groan as it moves.
 
 I kick away from it and wander, wander across the water. School of fish are scared by the violence of my movements.
 
@@ -17,7 +17,7 @@ So many memories, too many, like being drunk on something that went bad too long
 
 But that's the issue, isn't it? It flows and it flows.
 
-I keep swimming, taking as few breaks for air as I can, spending so much time underwater that my lungs ache and my head hurts and I feel dizzy, but I stay underwater, I stay in this stage, in my stage, rather than walk on the stone of Landly that is so hard and old and meaningless and peels out Francesca.
+I keep swimming, taking as few breaks for air as I can, spending so much time underwater that my lungs ache and my head hurts and I feel dizzy, but I stay underwater, I stay in this stage, in my stage, rather than walk on the stone of Landly that is so hard and old and meaningless.
 
 But time passes, and I am equine, and as much as I want to lose myself in the hunt, I am starting to feel weak and have taken too much from the waters lately.
 
@@ -41,11 +41,11 @@ Of deciding what mattered and what didn't.
 
 *Yet he helped me. Sometimes. Only when I truly couldn't help myself whether I asked or not, and on time, I understood that was a form of respect, and maybe even trust.*)
 
-Reminds me of the first late night I spent drunk, floating, maybe horny, with my belly up wondering if the starry sky above was as pretty as everyone said and, if I floated too far from the cabin and the dragon didn't notice, what would I do. Reminds me of how frustrated I was when I realized what had floated away was my booze, and that was the only time in years anger made me yell. And when I calmed down, still drunk, I wondered what would I play if I ever stepped on a stage again.
+Reminds me of the first late night I spent drunk, floating, maybe horny, with my belly up wondering if the starry sky was as pretty as everyone said and what would I do if I floated too far from the cabin and the dragon didn't notice. Reminds me of how frustrated I was when I realized what had floated away was my booze, and that was the only time in years anger made me yell. And when I calmed down, still drunk, I wondered what would I play if I ever stepped on a stage again.
 
 And to think in the end the bird convinced me to play something so silly...
 
-But Far away likes that play. It probably reminds him of home, or something similarly cheesy.
+But Far away likes that play. It probably reminds him of home, or something corny like that.
 
 *Nothing flows*.
 
