@@ -2,7 +2,6 @@ let SessionLoad = 1
 if &cp | set nocp | endif
 let s:cpo_save=&cpo
 set cpo&vim
-map! <S-Insert> <MiddleMouse>
 cnoremap <expr> <Plug>EasyClipCommandModePaste '' . EasyClip#GetDefaultReg()
 imap <expr> <Plug>EasyClipInsertModePaste '<Plug>PasteToggle' . EasyClip#GetDefaultReg() . '<Plug>PasteToggle'
 inoremap <Up> gk
@@ -89,6 +88,7 @@ nnoremap <silent> Y :EasyClipBeforeYanky$:EasyClipOnYanksChanged
 snoremap Z "_cZ
 vmap [% [%m'gv``
 snoremap [ "_c[
+map \r <Plug>(quickrun)
 snoremap \\ "_c\\
 nmap <silent> \P <Plug>EasyClipPasteUnformattedBefore
 nmap <silent> \p <Plug>EasyClipPasteUnformattedAfter
@@ -125,8 +125,14 @@ vmap gx <Plug>NetrwBrowseXVis
 nmap gx <Plug>NetrwBrowseX
 snoremap h "_ch
 snoremap i "_ci
-map j gj
-map k gk
+snoremap j "_cj
+nmap j gj
+xmap j gj
+omap j gj
+snoremap k "_ck
+nmap k gk
+xmap k gk
+omap k gk
 snoremap l "_cl
 snoremap m "_cm
 xmap <silent> m <Plug>MoveMotionXPlug
@@ -159,11 +165,13 @@ snoremap { "_c{
 snoremap | "_c
 snoremap } "_c}
 snoremap ~ "_c~
-nnoremap <silent> <Plug>(RepeatDot) :exe repeat#run(v:count)
-nnoremap <silent> <Plug>(RepeatUndo) :call repeat#wrap('u',v:count)
-nnoremap <silent> <Plug>(RepeatUndoLine) :call repeat#wrap('U',v:count)
 nnoremap <silent> <Plug>(RepeatRedo) :call repeat#wrap("\<C-R>",v:count)
-map <S-Insert> <MiddleMouse>
+nnoremap <silent> <Plug>(RepeatUndoLine) :call repeat#wrap('U',v:count)
+nnoremap <silent> <Plug>(RepeatUndo) :call repeat#wrap('u',v:count)
+nnoremap <silent> <Plug>(RepeatDot) :exe repeat#run(v:count)
+vnoremap <silent> <Plug>(quickrun) :QuickRun -mode v
+nnoremap <silent> <Plug>(quickrun) :QuickRun -mode n
+nnoremap <silent> <Plug>(quickrun-op) :set operatorfunc=quickrun#operatorg@
 vnoremap <Plug>SurroundWithSingle :call textobj#quote#surround#surround(0, visualmode())
 nnoremap <Plug>SurroundWithSingle :call textobj#quote#surround#surround(0, '')
 vnoremap <Plug>SurroundWithDouble :call textobj#quote#surround#surround(1, visualmode())
@@ -242,43 +250,37 @@ unlet s:cpo_save
 set background=dark
 set backspace=indent,eol,start
 set display=lastline
-set fileencodings=ucs-bom,utf-8,default,latin1
 set guifont=Consolas\ 11
 set guioptions=aegiLt
-set helplang=en
 set ignorecase
 set laststatus=2
-set nomodeline
 set mouse=a
 set pastetoggle=<Plug>PasteToggle
-set printoptions=paper:letter
-set ruler
-set runtimepath=~/.vim,~/.vim/pack/spelling/start/vim-textobj-user,~/.vim/pack/spelling/start/vim-textobj-quote,~/.vim/pack/spelling/start/vim-diction,~/.vim/pack/spelling/start/matchem,~/.vim/pack/searching/start/vim-grepper,~/.vim/pack/clipboard/start/vim-repeat,~/.vim/pack/clipboard/start/vim-easyclip,~/.vim/pack/clipboard/start/copy-cut-paste.vim,~/.vim/pack/airline/start/vim-airline-themes,~/.vim/pack/airline/start/vim-airline,~/.vim/pack/NERDtree/start/nerdtree,/var/lib/vim/addons,/usr/share/vim/vimfiles,/usr/share/vim/vim80,/usr/share/vim/vim80/pack/dist/opt/matchit,/usr/share/vim/vimfiles/after,/var/lib/vim/addons/after,~/.vim/after
+set runtimepath=~/.vim,~/.vim/pack/syntax_check/start/vimproc.vim,~/.vim/pack/syntax_check/start/vim-watchdogs,~/.vim/pack/syntax_check/start/vim-quickrun,~/.vim/pack/syntax_check/start/vim-lint,~/.vim/pack/syntax_check/start/vim-hier,~/.vim/pack/syntax_check/start/syntastic,~/.vim/pack/syntax_check/start/shabadou.vim,~/.vim/pack/spelling/start/vim-textobj-user,~/.vim/pack/spelling/start/vim-textobj-quote,~/.vim/pack/spelling/start/vim-diction,~/.vim/pack/searching/start/vim-grepper,~/.vim/pack/clipboard/start/vim-repeat,~/.vim/pack/clipboard/start/vim-easyclip,~/.vim/pack/clipboard/start/copy-cut-paste.vim,~/.vim/pack/airline/start/vim-airline-themes,~/.vim/pack/airline/start/vim-airline,~/.vim/pack/NERDtree/start/nerdtree,/usr/local/share/vim/vimfiles,/usr/local/share/vim/vim80,/usr/local/share/vim/vim80/pack/dist/opt/matchit,/usr/local/share/vim/vimfiles/after,~/.vim/after
 set sessionoptions=blank,buffers,curdir,help,tabpages,winsize,resize,winpos,winsize,blank,buffers,curdir,folds,help,options,tabpages
 set shortmess=filnxtToOI
 set smartcase
 set spelllang=en_us,es
 set statusline=%1*%<%F%M%y%=\ %{WordCount()}\ words,\ %l/%L\ lines,\ %P
-set suffixes=.bak,~,.swp,.o,.info,.aux,.log,.dvi,.bbl,.blg,.brf,.cb,.ind,.idx,.ilg,.inx,.out,.toc
 set termencoding=utf-8
-set undofile
 set updatetime=100
-set window=31
+set window=30
 let s:so_save = &so | let s:siso_save = &siso | set so=0 siso=0
 let v:this_session=expand("<sfile>:p")
 silent only
-cd ~/GitBook/Library/duendeinexistente/cirque/ShortStories
+cd /mnt/sda2/Gits/cirque/ShortStories
 if expand('%') == '' && !&modified && line('$') <= 1 && getline(1) == ''
   let s:wipebuf = bufnr('%')
 endif
 set shortmess=aoO
-badd +1 TwilightInThePast.md
-badd +1 TwilightInThePastNotes.md
+badd +9 thief.md
+badd +0 notes.md
 argglobal
 silent! argdel *
-set lines=32 columns=102
-winpos 260 244
-edit TwilightInThePast.md
+$argadd thief.md
+set lines=31 columns=77
+winpos 0 0
+edit thief.md
 set splitbelow splitright
 wincmd _ | wincmd |
 vsplit
@@ -287,9 +289,9 @@ wincmd w
 set nosplitbelow
 set nosplitright
 wincmd t
-set winheight=1 winwidth=1
-exe 'vert 1resize ' . ((&columns * 73 + 51) / 102)
-exe 'vert 2resize ' . ((&columns * 28 + 51) / 102)
+set winminheight=1 winheight=1 winminwidth=1 winwidth=1
+exe 'vert 1resize ' . ((&columns * 49 + 38) / 77)
+exe 'vert 2resize ' . ((&columns * 27 + 38) / 77)
 argglobal
 setlocal keymap=
 setlocal noarabic
@@ -307,8 +309,8 @@ setlocal cinkeys=0{,0},0),:,0#,!^F,o,O,e
 setlocal cinoptions=
 setlocal cinwords=if,else,while,do,for,switch
 setlocal colorcolumn=
-setlocal comments=s1:/*,mb:*,ex:*/,://,b:#,:%,:XCOMM,n:>,fb:-
-setlocal commentstring=/*%s*/
+setlocal comments=fb:*,fb:-,fb:+,n:>
+setlocal commentstring=<!--%s-->
 setlocal complete=.,w,b,u,t,i
 setlocal concealcursor=
 setlocal conceallevel=0
@@ -339,11 +341,11 @@ setlocal foldminlines=1
 setlocal foldnestmax=20
 setlocal foldtext=foldtext()
 setlocal formatexpr=
-setlocal formatoptions=tcq
-setlocal formatlistpat=^\\s*\\d\\+[\\]:.)}\\t\ ]\\s*
+setlocal formatoptions=tcqln
+setlocal formatlistpat=^\\s*\\d\\+\\.\\s\\+\\|^[-*+]\\s\\+\\|^\\[^\\ze[^\\]]\\+\\]:
 setlocal formatprg=
 setlocal grepprg=
-setlocal iminsert=2
+setlocal iminsert=0
 setlocal imsearch=2
 setlocal include=
 setlocal includeexpr=
@@ -357,14 +359,15 @@ setlocal linebreak
 setlocal nolisp
 setlocal lispwords=
 setlocal nolist
+setlocal makeencoding=
 setlocal makeprg=
-setlocal matchpairs=(:),{:},[:]
-setlocal nomodeline
+setlocal matchpairs=(:),{:},[:],<:>
+setlocal modeline
 setlocal modifiable
 setlocal nrformats=bin,octal,hex
 setlocal nonumber
 setlocal numberwidth=4
-setlocal omnifunc=
+setlocal omnifunc=htmlcomplete#CompleteTags
 setlocal path=
 setlocal nopreserveindent
 setlocal nopreviewwindow
@@ -396,23 +399,22 @@ setlocal tagcase=
 setlocal tags=
 setlocal textwidth=0
 setlocal thesaurus=
-setlocal undofile
+setlocal noundofile
 setlocal undolevels=-123456
 setlocal nowinfixheight
 setlocal nowinfixwidth
 setlocal wrap
 setlocal wrapmargin=0
 silent! normal! zE
-let s:l = 244 - ((11 * winheight(0) + 15) / 30)
+let s:l = 7 - ((2 * winheight(0) + 14) / 29)
 if s:l < 1 | let s:l = 1 | endif
 exe s:l
 normal! zt
-244
-normal! 069|
-lcd ~/GitBook/Library/duendeinexistente/cirque/ShortStories
+7
+normal! 034|
 wincmd w
 argglobal
-edit ~/GitBook/Library/duendeinexistente/cirque/ShortStories/TwilightInThePastNotes.md
+edit notes.md
 setlocal keymap=
 setlocal noarabic
 setlocal noautoindent
@@ -479,9 +481,10 @@ setlocal linebreak
 setlocal nolisp
 setlocal lispwords=
 setlocal nolist
+setlocal makeencoding=
 setlocal makeprg=
 setlocal matchpairs=(:),{:},[:]
-setlocal nomodeline
+setlocal modeline
 setlocal modifiable
 setlocal nrformats=bin,octal,hex
 setlocal nonumber
@@ -518,29 +521,29 @@ setlocal tagcase=
 setlocal tags=
 setlocal textwidth=0
 setlocal thesaurus=
-setlocal undofile
+setlocal noundofile
 setlocal undolevels=-123456
 setlocal nowinfixheight
 setlocal nowinfixwidth
 setlocal wrap
 setlocal wrapmargin=0
 silent! normal! zE
-let s:l = 41 - ((15 * winheight(0) + 15) / 30)
+let s:l = 7 - ((6 * winheight(0) + 14) / 29)
 if s:l < 1 | let s:l = 1 | endif
 exe s:l
 normal! zt
-41
-normal! 0
+7
+normal! 08|
 wincmd w
-2wincmd w
-exe 'vert 1resize ' . ((&columns * 73 + 51) / 102)
-exe 'vert 2resize ' . ((&columns * 28 + 51) / 102)
+exe 'vert 1resize ' . ((&columns * 49 + 38) / 77)
+exe 'vert 2resize ' . ((&columns * 27 + 38) / 77)
 tabnext 1
 if exists('s:wipebuf')
   silent exe 'bwipe ' . s:wipebuf
 endif
 unlet! s:wipebuf
 set winheight=1 winwidth=20 shortmess=filnxtToOI
+set winminheight=1 winminwidth=1
 let s:sx = expand("<sfile>:p:r")."x.vim"
 if file_readable(s:sx)
   exe "source " . fnameescape(s:sx)
