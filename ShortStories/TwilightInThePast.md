@@ -14,7 +14,6 @@ He nodded quickly. "But that's what I don't get, alicorns don't exist. And I tho
 
  "They're the same as minotaur *ree-eid-les* or griffon *Gold Bones*. That's what makes them holistic-" If she addressed him by name the colt might have died of embarrassment so, enjoying the conversation more than she had expected, Twilight decided to be more formal, so she addressed him by clan "-, Dalagare, alicorns don't truly exist, yet they are a persistent part of pony mind of culture. They are holistic not just because they are a combination of the three races or because they are bound to an element of the world, but also because they Aah, need external forces to congeal three magics into a fourth, and Bee, are something we know to exist despite them not existing."
 
-
 Star Tracker followed her while thinking about this for a while, giving her a chance to look at the scenery. Many members of the university often lamented the utter lack of decorations or even lights surrounding the boardwalk, but she understood why this was and approved of it. Nearby on the shallows, under the posts that supported the boardwalk, the curving sand beach was a pleasant, relaxing sight, slowly lowering until the water was just pure blue, and in the distance one could see the green of the archipelagos-and as she looked, a plane taking off under the bright moon. It was a vista that invited thoughtfulness.
 
 
