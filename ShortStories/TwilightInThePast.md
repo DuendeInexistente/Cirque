@@ -116,7 +116,7 @@ And any similarities to a castle were either purely coincidental or convergent d
 
 Spike wasn't there when she opened the door, nor was there any sign that he'd eaten in the kitchen- the pantry was untouched, as was his 'secret' gem stash, and he wasn't sick because the bathroom was perfectly clean.
 
-Or was he just sleeping in? Twilight navigated the library because it was the shorter path to Spike's boat house, a single roomer with a small engine that he'd nevertheless been avid in calling his own, and noticed the engine had some **BLACKSTUFF** on it. Had he gone to the archipelago? Strange, because it was cool and the little dragon was unusually strict when it came to keeping it clean and well tuned. He'd even accepted when she offered teaching him mechanics on the weekends.
+Or was he just sleeping in? Twilight navigated the library because it was the shorter path to Spike's boat house, a single roomer with a small engine that he'd nevertheless been avid in calling his own, and noticed the engine had some soot on it. Had he gone to the archipelago? Strange, because it was cool and the little dragon was unusually strict when it came to keeping it clean and well tuned. He'd even accepted when she offered teaching him mechanics on the weekends.
 
  "Spike? Is anything wrong?" She called him, not opening the door yet but ready to.
 
