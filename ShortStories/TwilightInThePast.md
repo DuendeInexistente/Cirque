@@ -98,21 +98,20 @@ And here was Diane. A mare that could've been a ballerina if she'd wanted to, a 
 
 It was enough to make anyone jealous, it was, no mater the race.
 
-
 --------------
 
-Being a polymath implied a certain status to uphold. Even when she'd been a student of the university -A status that she actually planned to return to relatively soon, if only partly, to get her next diploma- teachers and family had reminded her that, by starting out with topics as disparaging as folklore and materials science, she had to send a strong, visible message that she was indeed acknowledgeable about both topics and not spreading herself thin. For this reason, she had to be a prim and (Something that came more naturally to her) neat lady in public, else people wouldn't trust what she claimed to know, diplomas or no diplomas.
+Being a polymath implied a certain status to uphold. Even when she'd been a student of the university (A status that she actually planned to return to relatively soon, if only partly, to get her next diploma) teachers and family had reminded her that, by starting out with topics as disparaging as folklore and materials science, she had to send a strong, visible message that she was indeed acknowledgeable about both topics and not spreading herself thin. For this reason, she had to be a prim and (Something that came more naturally to her) neat lady in public, else people wouldn't trust what she claimed to know, diplomas or no diplomas. Not until she amassed more success than she already had.
 
 That stopped at home. The real home, not the rooms which she allowed formal guests into.
 
-It wasn't just the books, most of which she was confident in being the legitimate owner of, piling on every available surface; those were expected and respected in a member of the academia. It wasn't the scorch marks from Spike's recent flu, or the pools of melted-and-solidified glass from when they attempted to reduce the fire risk during said flu with bubble helmets, or what Diane called Creative Disorder. It wasn't the books marked with food or hair or other, smaller books which might also be marked the same way. It was the book fort.
+It wasn't just the books, most of which she was confident in being the legitimate owner of, piling on every available surface; those were expected and respected in a member of the academia. It wasn't the scorch marks from Spike's recent flu, or the pools of molten-and-solidified glass from when they attempted to reduce the fire risk during said flu with bubble helmets, or what Diane called Creative Disorder. It wasn't the books marked with food or hair or other, smaller books which might also be marked the same way. It was the book fort.
 
 It hadn't been intentional. In his earlier years Spike had grown territorial and aggressively demanded his own boat by making a book fort and claiming all books its walls were made from his own. Twilight had given him his boat house -a small one for now- but the book fort had remained because when you have that volume of books, stairs and ladders become impractical. They use up space that could  be used by more books.
 
-So it wasn't a fort. It was an aid to transit that shifted organically as her research and interests shifted, only kept away from her chemistry rooms and from positions where it might block doors. And she wasn't damaging the books either- the really delicate or unique ones had their own glass-covered shelf. *Or* in risk of collapse, because she knew a thing or two about construction.
+So it wasn't a fort. It was an aid to transit that shifted organically as her research and interests did, only kept away from her chemistry rooms and from positions where it might block doors. And she wasn't damaging the books either- the really delicate or unique ones had their own glass-covered shelves. *Or* in risk of collapse, because she knew a thing or two about construction.
 
-So her library -an area that had slowly expanded to occupy a living room and dormitory until she surrounded an entire boat house to the books- was, despite initial appearences, a rather sturdy and neat construction, or as close to such a thing as one can get without nailing and tying the elements together. Books were piled from larger to smaller and only those that were fit for such a thing were used in the construction. The rest were piled on each other like bricks in such a way that ne could remove them without risking collapse, and the bridges connecting the second level, well, she was proud of the bridges. It'd been a childhood dream come true when she figured out how to make those 
+So her library -an area that had slowly expanded to occupy a living room and dormitory until she surrounded an entire boat house to the books- was, despite initial appearances, a rather sturdy and neat construction, or as close to such a thing as one can get without nailing and tying the elements together. Books were piled from larger to smaller and only those that were fit for such a thing were used in the construction. The rest were piled on each other like bricks in such a way that ne could remove them without risking collapse, and the bridges connecting the second level, well, she was proud of the bridges. It'd been a childhood dream come true when she figured out how to make those 
 
-And any similitudes to a castle were purely coincidental.
+And any similarities to a castle were either purely coincidental or convergent design.
 
-Spike wasn't there when 
+Spike wasn't there when she arrived, 
