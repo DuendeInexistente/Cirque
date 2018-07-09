@@ -140,7 +140,7 @@ Which was just ok. Twilight was good at pretend.
 
 He shrugged and lifted his hands, cheeks puffed; 'Can't talk, mouth full.'
 
- "Well, this otter barged into the comparative mythologies class..." She took a seat at the table with him. "One of my students had some chowder in his pack, you see, and it wouldn't have been so bad if her kids hadn't followed her in." Spike gave her a questioning look. "With half a dozen plus their mom? With the way people treats otters here? The class was a petting zoo after that, nothing I could do. I changed the topic to otter-related myths to teach them *something* they'd learn after that happened."
+ "Well, this otter barged into the comparative mythologies class..." She took a seat at the table with him. "One of my students had some chowder in his pack, you see, and it wouldn't have been so bad if her kids hadn't followed her in." Spike gave her a questioning look. "With half a dozen plus their mom and the way people treats otters here? The class was a petting zoo after that, nothing I could do. I changed the topic to otter-related myths to teach them *something* they'd pay attention to after that happened."
 
 
 
