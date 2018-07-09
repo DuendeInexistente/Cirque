@@ -110,17 +110,10 @@ It hadn't been intentional. In his earlier years Spike had grown territorial and
 
 So it wasn't a fort. It was an aid to transit that shifted organically as her research and interests did, only kept away from her chemistry rooms and from positions where it might block doors. And she wasn't damaging the books either- the really delicate or unique ones had their own glass-covered shelves. *Or* in risk of collapse, because she knew a thing or two about construction.
 
-<<<<<<< HEAD
-So her library -an area that had slowly expanded to occupy a living room and dormitory until she surrounded an entire boat house to the books- was, despite initial appearances, a rather sturdy and neat construction, or as close to such a thing as one can get without nailing and tying the elements together. Books were piled from larger to smaller and only those that were fit for such a thing were used in the construction. The rest were piled on each other like bricks in such a way that ne could remove them without risking collapse, and the bridges connecting the second level, well, she was proud of the bridges. It'd been a childhood dream come true when she figured out how to make those 
-=======
 So her library (an area that had slowly expanded to occupy a living room and dormitory until she surrounded an entire boat house to the books, and bought another at great expense) was, despite initial appearances, a rather sturdy and neat construction, as close to such a thing as one can get without nailing and tying the elements together. Books were piled from larger to smaller and only those that were fit for such a thing were used in the construction, the rest, piled on each other like bricks in such a way that one could remove them without risking collapse, and the bridges connecting the second level, well, she was proud of the bridges. It'd been a childhood dream come true when she figured out how to make those 
->>>>>>> ccadea5be30906735366bb5653218eb08ad4e420
 
 And any similarities to a castle were either purely coincidental or convergent design.
 
-<<<<<<< HEAD
-Spike wasn't there when she arrived, 
-=======
 Spike wasn't there when she opened the door, nor was there any sign that he'd eaten in the kitchen- the pantry was untouched, as was his 'secret' gem stash, and he wasn't sick because the bathroom was perfectly clean.
 
 Or was he just sleeping in? Twilight navigated the library because it was the shorter path to Spike's boat house, a single roomer with a small engine that he'd nevertheless been avid in calling his own, and noticed the engine had some **BLACKSTUFF** on it. Had he gone to the archipelago? Strange, because it was cool and the little dragon was unusually strict when it came to keeping it clean and well tuned. He'd even accepted when she offered teaching him mechanics on the weekends.
@@ -154,4 +147,3 @@ He shrugged and lifted his hands, cheeks puffed; 'Can't talk, mouth full.'
 
 I can tell you everything yet can't talk and know nothing at all.
 (A book)
->>>>>>> ccadea5be30906735366bb5653218eb08ad4e420
