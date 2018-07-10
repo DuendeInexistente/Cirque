@@ -1,3 +1,8 @@
+I can tell you anything yet can't talk and know nothing at all.
+(A book)
+
+
+
 When you're rife with hesitation
 there's a single explanation
 you're a cruel god's creation
