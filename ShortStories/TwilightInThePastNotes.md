@@ -1,9 +1,9 @@
-When you're rife with  
+When you're rife with hesitation
 there's a single explanation
 you're a cruel god's creation
 trapp'd inside a brittle world...
-And whichever way it sways now
-we must be resilient
+But whichever way it sways
+now we must be resilient
 we won't let it break our spirits
 as we sing our silly song,
 'cause our voices are harmonizing
