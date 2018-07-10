@@ -225,11 +225,6 @@ It took a few minutes for things to get back to normal, but once Diane had her b
 
  "Diane, I just headbutted you by mistake." Twilight giggled despite herself, unable to reciprocate the hug because it had trapped her arms.
 
- "That just means I made the surprise too good!" She let go. "I am not mad, Twi, if I was mad I'd be like *grrr*" She growled loudly. "See? But I can't be like that because it totally was my fault even if you have a really thick skull."
+ "That just means I made the surprise too good!" She let go. "I am not mad, Twi, if I was mad I'd be like *grrr*" She growled loudly, splaying her legs. "See? But I can't be like that because it totally was my fault even if you have a really thick skull. And it's your birthday too! So I am *twice* as not mad."
 
-
-
-
-
-
-
+ "I'll "
