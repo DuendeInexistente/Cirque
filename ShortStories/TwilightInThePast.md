@@ -232,5 +232,4 @@ It took a few minutes for things to get back to normal, but once Diane had her b
 
 
 
-I can tell you everything yet can't talk and know nothing at all.
-(A book)
+
