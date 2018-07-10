@@ -227,10 +227,12 @@ It took a few minutes for things to get back to normal, but once Diane had her b
 
  "That just means I made the surprise too good!" She let go. "I am not mad, Twi, if I was mad I'd be like *grrr*" She growled loudly, splaying her legs. "See? But I can't be like that because it totally was my fault even if you have a really thick skull. And it's your birthday too! So I am *twice* as not mad."
 
- "I'll make up to you." Twilight turned back to Diane and noticed, for the first time, that she had dressed lightly for the occasion, with a tasseled, deep red kerchief over her tail and flanks like a skirt, the barely visible black designs on it vaguely similar to rose branches. She also wore a light yellow bandanna she especially liked, with a flowerlike sun on it, which her mane seemed to poof over as if about to break it like a flood. "Well I feel underdressed now."
+ "I'll make up to you." Twilight turned back to Diane and noticed, for the first time, that she had dressed lightly for the occasion with a tasseled, deep red kerchief over her tail and flanks like a skirt, the barely visible black designs on it vaguely similar to rose branches. She also wore a light yellow bandanna she especially liked despite it not fitting with her own colors, with a flowerlike sun on it, which her mane poofed over as if about to break it like a deluge. "Well I feel underdressed now."
 
  "Don't talk nonsense. You look great on that."
 
-Twilight looked at herself. It was the same jacket, edging the dangerous line between homely and ugly, that she had worn every other day for the last year.
+Twilight looked at herself. It was the same jacket, edging the dangerous -and acceptable only to teachers- line between homely and ugly, that she had worn every other day for the last year.
 
- "Dear sun I am a thirty years old teacher." She realized with a measure of horror. ""
+ "Dear sun I am a thirty years old teacher." She realized with a measure of horror. "And I dress like a forty years old."
+
+Her mother laughed on the other side of the room, shamelessly and loudly as she ever did, "She thinks that's old..."
