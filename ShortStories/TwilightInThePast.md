@@ -227,6 +227,10 @@ It took a few minutes for things to get back to normal, but once Diane had her b
 
  "That just means I made the surprise too good!" She let go. "I am not mad, Twi, if I was mad I'd be like *grrr*" She growled loudly, splaying her legs. "See? But I can't be like that because it totally was my fault even if you have a really thick skull. And it's your birthday too! So I am *twice* as not mad."
 
- "I'll make up to you." Twilight turned back to Diane and noticed, for the first time, that she had dressed lightly for the occasion, with a deep red kerchief on top of her flanks and falling like a skirt, the barely visible black designs on it vaguely similar to rose branches A second kerchief was on her head, a yellow bandana with a flower-like sun on it. "You still have that?"
+ "I'll make up to you." Twilight turned back to Diane and noticed, for the first time, that she had dressed lightly for the occasion, with a deep red kerchief on top of her flanks and falling like a skirt, the barely visible black designs on it vaguely similar to rose branches A second kerchief was on her head, a yellow bandana with a flower-like sun on it. "Oh. I... Feel underdressed now."
 
+ "Don't talk nonsense. You look great on that."
 
+Twilight looked at herself. It was the same jacket, edging the dangerous line between homely and ugly, that she had worn every other day for the last year.
+
+ "Dear sun I am a thirty years old teacher." She realized with a measure of horror. ""
