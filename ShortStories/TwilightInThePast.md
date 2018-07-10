@@ -223,8 +223,8 @@ It took a few minutes for things to get back to normal, but once Diane had her b
 
  "**I DO AND I WAS**!" Diane burst out of somewhere to her left, ensnaring Twilight in a surprise hug and giving Twilight another scare. "See? Now I made my cool entry. So the party can really start now!"
 
- "Diane, I just headbutted you by mistake." Twilight giggled despite herself, unable to reciprocate the hug because it had trapped her arms.
+ "Diane, I just headbutted you by mistake." Twilight giggled despite herself, unable to reciprocate the hug because it had trapped her arms. Was her mom adding alcohol to the punch?
 
  "That just means I made the surprise too good!" She let go. "I am not mad, Twi, if I was mad I'd be like *grrr*" She growled loudly, splaying her legs. "See? But I can't be like that because it totally was my fault even if you have a really thick skull. And it's your birthday too! So I am *twice* as not mad."
 
- "I'll "
+ "I'll make up to you." Twilight turned back to Diane and noticed, for the first time, that she had dressed lightly for the occasion, with a light turcoise 
