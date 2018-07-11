@@ -413,20 +413,21 @@ Senses that couldn't be given analogues by mortaldom made themselves known to he
 
  "I expected to perceive dark magics. But I can feel the knowledge." Twilight allowed a part of her real selves, both the person and the God, emerge from the Wheels of the World, just to bathe in the feeling. She had almost forgotten its warmth.
 
-The town of Albaricoque neared closer and closer, an island of glass and steel and -much to her pleasure- machined aluminum floating calmly in the water. It had bubbles for docks, where sirens would allow or deny entrance to any newcomer and, if they allowed it, take ships into the bubbles and take them to the town's underwater entrances. Because of this slums had grown on the edge for all who were waiting passage or had been denied, although they were only slums compared to what Twilight felt in side- the external city looked lively, and not unlike Landly.
-
-Aluminum was a good material. It couldn't be given the same godly properties as bronze, but who cared? It was just *more practical*, which she found all too many people forgetting.
+The town of Albaricoque neared closer and closer, an island of glass and steel and -much to her pleasure- machined aluminum floating calmly in the water [^Alum]. It had bubbles for docks, where sirens would allow or deny entrance to any newcomer and, if they allowed it, take ships into the bubbles and take them to the town's underwater entrances. Because of this slums had grown on the edge for all who were waiting passage or had been denied, although they were only slums compared to what Twilight felt in side- the external city looked lively, and not unlike Landly.
 
  "It'll be a good start."
 
  "I would've expected Landly to begin with."
 
- "Landly needs more resources than I have." Twilight let more of the god slide out, perceiving more delicate aspects of the town's innards.
-
- "Oh, yes." Twilight felt her feathers stand on end, both in the wheels of the world and in her avatar, and shudder.
+ "Landly needs more resources than I have." Twilight let more of the god slide out, perceiving more delicate aspects of the town's innards until she felt her feathers stand on end, both in the Wheels of the World and in her avatar, and shuddered. "Oh, yes..." 
 
 Gods have needs.
 
 This city would satisfy hers. Because as much as it had much knowledge, it also had much to adjust.
 
 Gods had abandoned this world and its people, and in their absence, much had cracked and broken which she'd need a well oiled machine to fix. Such a pity some of the city's cogs would need to be broken and made anew.
+
+[^Alum]:
+Aluminum was a good material. It couldn't be given the same godly properties as bronze, but who cared? It was just *more practical*, which she found all too many people forgetting.
+
+
