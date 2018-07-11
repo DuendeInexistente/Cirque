@@ -393,7 +393,7 @@ She was transfixed by pain for an instant upon awakening, feeling her self retur
 
  "You were dreaming." Said the Sphinx, sitting near her. "Tells us what we are with our own voice. What is?"
 
- "I... Can't remember what it was." Twilight shuddered. Having lived as long as she had sometimes meant dreams had extra layers of puzzlement. "I think it was... Something from very long ago. Before I have any memory of." She shuddered again. "But I was small, and weak."
+ "I... Can't remember the dream." Twilight shuddered. Having lived as long as she had sometimes meant dreams had extra layers of puzzlement, collections from begone eras "I think it was... Something from very long ago. Before I have any memory of." She shuddered again, the feeling of the dream echoing in her mind. "But I was small, and weak."
 
 Senses that couldn't be given analogues by mortaldom made themselves known to her, stifled by wearing an avatar rather than being there in person, warmed up quickly and fed her information. Information about where she was in the world, and maybe, the slightest hint of precognition, like the aftertaste of something she'd not yet eaten.
 
