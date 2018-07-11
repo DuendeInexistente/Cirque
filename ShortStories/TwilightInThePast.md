@@ -367,17 +367,11 @@ Spike punched her weakly.
 
  "Like a ravine?" Asked Diane. "How deep?"
 
- "No, not a ravine. It was a crack in the world, all traditional versions say this, past everything to its inside. Nothing that fell on came back, and light didn't even make it dark, and it was like there wasn't anything."
-
- "So what was it?" Asked Spike.
-
- "That doesn't sound like a crack." Diane shook her head, using the chance to dig her way closer to Twilight.
-
- "But it was a crack. Because nothing grew there, and if you walked into it you fell off through the ground. And taint beasts came from it. One day, a snake came from it." Spike paid more attention now, ready for something exciting. "So Prince Cath made his claws burn, wore his gilded armor, and rode to slay the beast. It slid like a snake on the land and, although it was killed many times, all who were touched by its blood were killed or turned into a new snake after the last died. Archers were rushed at, and warriors exhausted one after the next.""
+ "No, not a ravine. It was a crack in the world, all traditional versions say this, past everything to its inside. Nothing that fell on came back, and light didn't even make it dark, and it was like there wasn't anything. But it was a crack. Because nothing grew there, and if you walked into it you fell off through the ground. And taint beasts came from it. One day, a snake came from it." Spike paid more attention now, ready for something exciting. "So Prince Cath made his claws burn, wore his gilded armor, and rode to slay the beast. It slid like a snake on the land and, although it was killed many times, all who were touched by its blood were killed or turned into a new snake after the last died. Archers were rushed at, and warriors exhausted one after the next."
 
  "What did it want?" Asked Spike. He sounded sleepy."
 
- "Griffons said it was offered gold, and hippogriffs a home, and both say it also refused sweet meats and many offerings. But it was a taint beast, and wished only mayhem- all who offered any sort of peace were slain. Prince Cath saw it and, hearing what had been of the others, saw to protect himself."
+ "Griffons said it was offered gold, and hippogriffs a home, and both say it also refused sweet meats and many offerings. But it was a taint beast, and wished only mayhem- all who offered any sort of peace were slain. Prince Cath saw it and, hearing what had been of the others, chose to protect himself."
 
  "Did he make all of himself burn?" Asked Pinkie, joking -was Spike asleep?- "Jump into a pyre?"
 
@@ -391,7 +385,7 @@ Spike punched her weakly.
 
 Which was just ok. Twilight was falling asleep too.
 
-Besides, she didn't like the ending. Cath slayed the viper, but returned home and, unbenknownst to him, spilled tainted blood on her.
+Besides, she didn't like the ending. 
 
 ---------------------------
 
@@ -419,7 +413,7 @@ The town of Albaricoque neared closer and closer, an island of glass and steel a
 
  "I would've expected Landly."
 
- "Landly needs more resources than I have." Twilight let more of the god slide out, perceiving more delicate aspects of the town's innards until she felt her feathers stand on end, both in the Wheels of the World and in her avatar, and shuddered. "Oh, yes..." 
+ "Landly needs more resources than I have." Twilight let more of the god slide out, perceiving more delicate aspects of the town's innards until she felt her feathers stand on end both in the Wheels of the World and in her avatar, and shuddered. "Oh, yes..." 
 
 Gods have needs.
 

@@ -38,4 +38,6 @@ Part of her expected someone to gift her a cat. That cat would have kittens, and
 
 --------------------
 
+Cath slayed the viper, but returned home to his bride and, unbenknownst to him, spilled tainted blood on her.
 
+----------------------
