@@ -243,7 +243,7 @@ Her mother laughed on the other side of the room, shamelessly and loudly as she 
 
  "Then we're even for the headbutt. Hi missus Velvet!"
 
-Twilight turned to her mother feeling a small pit in her stomach as she realized something else: Her birthday party -which she'd forgotten herself- was mostly occupied with family, with only two people who weren't, one of which she didn't actually know. And her one other friend was nowhere to be seen- she had to assume she simply hadn't had the time.
+Twilight turned to her mother feeling a small pit in her stomach as she realized something else: Her birthday party was mostly occupied with family, with only two people who weren't, one of which she didn't actually know. And her one other friend was nowhere to be seen- she had to assume she simply hadn't had the time.
 
 Part of her expected someone to gift her a cat. That cat would have kittens, and then she'd be a cat lady.
 
