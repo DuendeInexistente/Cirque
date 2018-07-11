@@ -231,9 +231,9 @@ It took a few minutes for things to get back to normal, but once Diane had her b
 
  "Don't talk nonsense. You look great on that."
 
-Twilight looked at herself. It was the same comfortable jacket, edging the dangerous -and acceptable only to teachers- line between homely and ugly, that she had worn every other day for the last year despite having the money to buy new ones.
+Twilight looked at herself. It was the same comfortable jacket, edging the dangerous -and acceptable only to teachers- line between homely and ugly, that she had worn every other day for the last year despite having the money to buy new ones. On top of all that, the only accessory she wore was the starbust medal on her chest, signaling her as part of the Coruscante clan.
 
- "Dear sun I am a thirty years old single teacher." She realized with a measure of horror. "And I dress like a forty years old."
+ "Dear sun I am a thirty years old single teacher." She realized with a measure of fascination. "And I dress like a forty years old."
 
 Her mother laughed on the other side of the room, shamelessly and loudly as she ever did, "She thinks that's old..."
 
@@ -241,6 +241,194 @@ Her mother laughed on the other side of the room, shamelessly and loudly as she 
 
  "I'll take that as an insult."
 
- "Then we're even for the headbutt. Hi missus Velvet! And I forgot!"
+ "Then we're even for the headbutt. Hi missus Velvet!"
 
-Twilight turned to her mother, 
+Twilight turned to her mother with a smile and grabbed her tight, squeezing until she complained, "Thanks for coming this far just for me." 
+
+The old unicorn wheezed when Twilight eased her grasp... And then hugged Twilight even harder until she yelped, "Thanks for having me, honey. Sorry for bringing a guest. And scaring you."
+
+ "Oh you're not the one I blame." Twilight, trying to appear unaffected by her mother's strength, stretched her neck to see behind Velvet's permanently messy mane, where Spike was trying to pass unnoticed.
+
+ "It was cooler in my head." He admitted after a few seconds of mean staring.
+
+ "Oh!" Exclaimed Diane. "I nearly forgot."
+
+ "Huh?" Spike leaned forward. Velvet, maybe intuiting Twilight's plan or maybe just missing her, didn't disengage the crushing hug.
+
+ "It's a surprise." Diane gave her a small clay bottle. "I heard you guys talk about something last week, so I thought I'd use my 'hood rep." She said that last part raspily and jokingly, but didn't stop offering the bottle until Twilight pocketed it.
+
+Spike was very close to her, trying to look at the bottle. The fool.
+
+Twilight grabbed him and *squeezed* as hard as she could in a hug against her mother's back, punishing him for setting her up for a scare.
+
+----------------------------
+
+The party was discrete after that- family gossip was flooded back and forth between, her parents glad to hear that Spike was reconnecting with his roots, and Diane made her way into the conversation with her usual ease despite barely knowing her parents at all. After a while, maybe realizing the conversation was exhausting her, the others walked away to the library so Spike could show off the structure's latest developments.
+
+At first Twilight simply leaned on the isle counter and drank water, eyeing the birthday cake Diane had summoned *ex-nihilo* and which now rested on the counter, already missing several pieces.
+
+So Spike wasn't sneaking a partner today, huh. It was part of setting this up. She laughed, realizing both of them had been so awkward for such disparate reasons- did Spike even know what she thought he'd been doing?
+
+When she felt ready to rejoin the others, someone entered from the front door, surprising Twilight before she remembered who it was- The unexpected guest, maybe gone to smoke sometime. Thought her face was carefully neutral as to seem slightly offended, she seemed surprised that Twilight was the only one there.
+
+ "The others are on the back." She explained tiredly. The mare was mostly naked, but wore some sort of headpiece made of wires intertwined with her mane in a manner vaguely similar to braids. How much time did she spend on that each morning?
+
+ "You are Twilight, correct?" Asked the mare. The voice was melodic, but somewhat butch. "I was not aware this was a family meeting. My apologies."
+
+ "I don't think it was supposed to be." Twilight tried to laugh it off. "I have another friend I would've expected, but she probably didn't have time to come."
+
+Damn it.
+
+Time to bite the bullet. Not like she wasn't curious.
+
+ "You came with mom and dad?"
+
+ "We are heading the same direction." Explained the mare, walking to her. "Just traveling acquaintances. They are... Curious."
+
+ "They are nuts."
+
+ "It's a way of putting it. Does your mother... Decide to characterize people often?"
+
+ "Oh." It wasn't the first time her mother decided to add a person to one of her books. "She's picking your brain?"
+
+ "Indeed. And her curiosity is mighty."
+
+There was something about the tone with which she said it, like a narrator in a radio play talking about a great warrior, that made Twilight laugh weakly.
+
+ "In poor hands it cuts what they can see," Started the mare, sitting near Twilight, "In skilled ones, it cuts what no one can. What is?"
+
+ "Curiosity?" Replied Twilight. Was that a riddle? "Or a pen. A lot of things."
+
+ "Including a sword. Which your mother's curiosity is, and if the dragon is to be trusted, yours as well." Explained the mare, dropping her mask of apathy to smile widely and frankly- and Twilight had some experience seeing past fake smiles.
+
+ "If either was a sword you'd be in pieces. Uhm, she's not bothering you, is she?"
+
+ "Oh, I have no doubt if curiosity alone was lethal I'd have long since surrounded. But no, her probing is refreshing and I wonder what is it like to be a character in a book."
+
+ "Then you're on to freezing to death."
+
+ "Ha." Her single chortle was like a roar. "I have something for you, if you will excuse me."
+
+ "Something? I... You don't have to make up a gift." She rushed to explain.
+
+ "It is no improvisation. What kind of guest would I be?" The mare stood and walked outside without waiting for an answer.
+
+Well...
+
+Far better than she expected. No threesome hijinks today.
+
+The mare was back quickly, and put a wrapped box on the counter near Twilight. It was boxed in such a way she couldn't tell the contents at a glance. "The pink one insisted it be wrapped."
+
+ "She would." Twilight tried to take it, but the tall mare spoke up again.
+
+ "If it has to be hidden..." She took the package from her hoof and put it back on the counter, "I can tell you anything, yet can't talk or know anything at all. What am I?"
+
+ "Another riddle?"
+
+ "One I wonder *how* will you ask as much as *what*."
+
+ "In that case..." Twilight replayed the riddle in her mind a few times, "You can tell me *anything*, not *everything*. And of course *what*, not *who*."
+
+ "Think about it well, miss." The mare gave the cake a look, but decided against grabbing a piece.
+
+ "There's a lot that applies to, but is it a book? Or a record, but the box isn't large enough."
+
+The mare just smiled, and let Twilight open the package this time. It was in fact a book, but an old and worn one, written by hoof.
+
+ "Is this yours?"
+
+ "A hobby. Open it."
+
+The pages were written carefully, like an old mare's writing, and in several languages. And page after page was filled with riddles.
+
+ "You really like them." Twilight nodded to herself. "Griffon and pony languages, is that breezie? And siren?"
+
+ "Indeed. My family travels much and collects them- this is just one of many journals, quite old."
+
+ "I don't know what to say." If the mare had been any different she would've taken it as being dumped trash on, but the book clearly had value, emotional and monetary. Some of the writing in this, among what she could read, was something others researching folklore would've torn each other apart for, proving or disproving personal theories about the evolution of language. "And no translations anywhere?"
+
+ "What for? Wordplay is idoneous to its own language. So is the nuance in many riddles."
+
+------------------
+
+The book was put in one of the glass vitrines of the library, which pleased the mare greatly, and after a few hours she and her parents took their leave, leaving Twilight, Diane, and Spike on the kitchen. They had talked until both of them were leaning on Twilight, the three of them feeling tired and not minding some afterhour cuddling.
+
+ "Tell us a tale." Said Diane after a lull in the conversation.
+
+ "A tale?" Twilight thought about it for a moment. "Do you know the story of Prince Cath?"
+
+The others shook their heads lazily.
+
+ "Well, griffons say he was a griffon *Gold-bones*, but sirens -the inland ones- say he was one of them too. His claws burned red like iron, and he traveled with a bird made of fire called the Phoenix. According to hippogriffs, he also only ever wore gold. Which is usually more characteristic to griffon--"
+
+Spike punched her weakly.
+
+ ""kay, okay," She laughed. "But near his kingdom there was a crack on the world, you see- Griffons say the entire kingdom had been built to contain it, while hippogriffs said it was the kingdom who made the crack somehow."
+
+ "Like a ravine?" Asked Diane. "How deep?"
+
+ "No, not a ravine. It was a crack in the world, all traditional versions say this, past everything to its inside. Nothing that fell on came back, and light didn't even make it dark, and it was like there wasn't anything."
+
+ "So what was it?" Asked Spike.
+
+ "That doesn't sound like a crack." Diane shook her head, using the chance to dig her way closer to Twilight.
+
+ "But it was a crack. Because nothing grew there, and if you walked into it you fell off through the ground. And taint beasts came from it. One day, a snake came from it." Spike paid more attention now, ready for something exciting. "So Prince Cath made his claws burn, wore his gilded armor, and rode to slay the beast. It slid like a snake on the land and, although it was killed many times, all who were touched by its blood were killed or turned into a new snake after the last died. Archers were rushed at, and warriors exhausted one after the next.""
+
+ "What did it want?" Asked Spike. He sounded sleepy."
+
+ "Griffons said it was offered gold, and hippogriffs a home, and both say it also refused sweet meats and many offerings. But it was a taint beast, and wished only mayhem- all who offered any sort of peace were slain. Prince Cath saw it and, hearing what had been of the others, saw to protect himself."
+
+ "Did he make all of himself burn?" Asked Pinkie, joking -was Spike asleep?- "Jump into a pyre?"
+
+ "No. He *made* himself one! He covered his armor, his whole body, in oiled silk and set it ablaze. Hippogriffs say it was with red coals but -I like this version better- griffons say he set himself in fire by force of will, making his claws burn brighter than ever, melting the gold his bones were made of until the oil caught fire. And like that he called the Phoenix, who was the only who could stand his heat, and with a trail of smoke marched to the taint viper. Its skin had no scales, only pulsating and rotten flesh that had many others retch, but Prince Cath was not affected."
+
+ "Easy, h'was smelling smoke." Muttered Spike.
+
+ "Maybe. Phoenix was the first to attack, swooping down on the viper. But limbs grew from the viper every time the Phoenix was about to cut it with its claws. Next was Ser Cath, who took a nearby tree and tore it off its roots, swinging it like a club. But the... The viper took the tree with its mouth and... and swallowed it whole."
+
+ "And..." Tried to start Spike, before falling finally asleep.
+
+Which was just ok. Twilight was falling asleep too.
+
+Besides, she didn't like the ending. Cath slayed the viper, but returned home and, unbenknownst to him, spilled tainted blood on her.
+
+---------------------------
+
+She was transfixed by pain for an instant upon awakening, feeling her self return to the avatar of her choice, a giant phoenix. But the pain subsided quickly, and soon all she had was close-eyed wakefulness lulled by the sound of waves.
+
+ "You were dreaming." Said the Sphinx, sitting near her. "Tells us what we are with our own voice. What is?"
+
+ "I... can't remember what it was." Twilight shuddered. Having lived as long as she had sometimes meant dreams had extra layers of puzzlement. "I think it was... something from very long ago. Before I have any memory of." She shuddered again. "But I was small, and weak."
+
+Senses that couldn't be given analogues by mortaldom made themselves known to her, stifled by wearing an avatar rather than being there in person, warmed up quickly and fed her information. Information about where she was in the world, and maybe, the slightest hint of precognition, like the aftertaste of something she'd not yet eaten.
+
+ "We are close." She made her avatar stand and look forward, to their ship's destination.
+
+ "And could have come here on our own." Added the Sphinx gruffly. Despite how much larger than Twilight she was, she didn't look down on her physically. A god's self is always slightly above its own head, after all, no mater the incarnate.
+
+ "We have time." Said Twilighy slowly, "Have they truly made self-propelling carts?"
+
+ "And much more. Albaricoque's technology is unrivaled."
+
+ "I expected to perceive dark magics. But I can feel the knowledge." Twilight allowed a part of her real self, both the person and the God, emerge from the Wheels of the World, just to bathe in the feeling.
+
+The town was an island of glass and steel and -much to her pleasure- machined aluminum.
+
+Aluminum was a good material. It couldn't be given the same godly properties as bronze, but who cared? It was just *more practical*, which she found all too many people forgetting.
+
+ "It'll be a good start."
+
+ "I would've expected Landly to begin with."
+
+ "Landly needs more resources than I have." Twilight let more of the god slide out, perceiving more delicate aspects of the town's innards.
+
+ "Oh, yes." Twilight felt her feathers stand on end, both in the wheels of the world and in her avatar, and shudder.
+
+Gods have needs.
+
+This city would satisfy hers. Because as much as it had much knowledge, it also had much to adjust.
+
+Gods had abandoned this world and its people, and in their absence, much had cracked and broken which she'd need a well oiled machine to fix.
+
+Such a pity some of the city's cogs would need to be broken and made anew.
