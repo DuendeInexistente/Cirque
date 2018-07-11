@@ -221,13 +221,13 @@ Her father ran to Diane and helped her breathe.
 
 It took a few minutes for things to get back to normal, but once Diane had her breath things started moving into motion- Twilight's parents had come with an unexpected guest, a well built, red-wine coated mare, whose reason to be there Twilight was avoiding like the plague: Her parents had always had crazy ideas about relationships, and why would they travel with a large and attractive mare, well, she wasn't eager to know what were they trying now.
 
- "**I DO AND I WAS**!" Diane burst out of somewhere to her left, ensnaring Twilight in a surprise hug and giving Twilight another scare. "See? Now I made my cool entry. So the party can really start now!"
+ "**I DO AND I WAS**!" Diane burst out of somewhere to Twilight's left when she was walking between the stove and the counter that divided the kitchen, ensnaring Twilight in a surprise hug and giving her another scare. "See? Now I made my cool entry. So the party can really start now!"
 
  "Diane, I just headbutted you." Twilight giggled despite herself, unable to reciprocate the hug because it had trapped her arms. Was her mom adding alcohol to the punch?
 
  "That just means I made the surprise too good!" She let go. "I am not mad, Twi, if I was mad I'd be like *grrr*" She growled loudly, splaying her legs. "See? But I can't be like that because it totally was my fault even if you have a really thick skull. And it's your birthday too! So I am *twice* as not mad."
 
- "I'll make up to you." Twilight turned back to Diane and noticed, for the first time, that she had dressed lightly for the occasion with a tasseled, deep red kerchief over her tail and flanks like a skirt, with barely visible black rose branch designs. She also wore a light yellow bandanna she especially liked -despite it not fitting with her own colors- with a flowerlike sun on it, which her mane poofed over as if about to break it like a deluge. "Well I feel underdressed now."
+ "I'll make up to you." Twilight turned back to Diane to hug her back and thank her then noticed, for the first time, that she had dressed lightly for the occasion:There was a tasseled, deep red kerchief over her tail and flanks like a skirt, with barely visible black rose branch designs. She also wore a light yellow bandanna she especially liked -despite it not fitting with her own colors- with a flowerlike sun on it, which her mane poofed over as if about to break past it like a deluge. "Well I feel underdressed now."
 
  "Don't talk nonsense. You look great on that."
 
@@ -241,18 +241,6 @@ Her mother laughed on the other side of the room, shamelessly and loudly as she 
 
  "I'll take that as an insult."
 
- "Then we're even for the headbutt. Hi missus Velvet!"
+ "Then we're even for the headbutt. Hi missus Velvet! And I forgot!"
 
-Twilight turned to her mother feeling a small pit in her stomach as she realized something else: Her birthday party was mostly occupied with family, with only two people who weren't, one of which she didn't actually know. And her one other friend was nowhere to be seen- she had to assume she simply hadn't had the time.
-
-Part of her expected someone to gift her a cat. That cat would have kittens, and then she'd be a cat lady.
-
- "Hey, psst," Diane grabbed her suddenly with a hoof across her withers, making Velvet close her mouth confusedly, "I almost forgot."
-
- "About what?"
-
- Diane slid a small saucer to her sneakily.
-
- "What?"
-
- "Asked 'round the hood, used my rep."
+Twilight turned to her mother, 

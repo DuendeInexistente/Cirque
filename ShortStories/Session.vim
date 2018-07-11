@@ -159,14 +159,10 @@ snoremap { "_c{
 snoremap | "_c
 snoremap } "_c}
 snoremap ~ "_c~
-vnoremap <Up> gk
-vnoremap <Down> gj
-nnoremap <Up> gk
-nnoremap <Down> gj
-nnoremap <silent> <Plug>(RepeatRedo) :call repeat#wrap("\<C-R>",v:count)
-nnoremap <silent> <Plug>(RepeatUndoLine) :call repeat#wrap('U',v:count)
-nnoremap <silent> <Plug>(RepeatUndo) :call repeat#wrap('u',v:count)
 nnoremap <silent> <Plug>(RepeatDot) :exe repeat#run(v:count)
+nnoremap <silent> <Plug>(RepeatUndo) :call repeat#wrap('u',v:count)
+nnoremap <silent> <Plug>(RepeatUndoLine) :call repeat#wrap('U',v:count)
+nnoremap <silent> <Plug>(RepeatRedo) :call repeat#wrap("\<C-R>",v:count)
 map <S-Insert> <MiddleMouse>
 vnoremap <Plug>SurroundWithSingle :call textobj#quote#surround#surround(0, visualmode())
 nnoremap <Plug>SurroundWithSingle :call textobj#quote#surround#surround(0, '')
@@ -235,8 +231,12 @@ nnoremap <Plug>DittoBad :call ditto#addBadWord(expand("<cword>"))
 nnoremap <Plug>DittoGood :call ditto#addGoodWord(expand("<cword>"))
 noremap <F4> :bnext
 noremap <F3> :bprev
-omap <Up> gk
+vnoremap <Up> gk
+vnoremap <Down> gj
+nnoremap <Up> gk
+nnoremap <Down> gj
 omap <Down> gj
+omap <Up> gk
 let &cpo=s:cpo_save
 unlet s:cpo_save
 set background=dark
@@ -267,18 +267,18 @@ set window=31
 let s:so_save = &so | let s:siso_save = &siso | set so=0 siso=0
 let v:this_session=expand("<sfile>:p")
 silent only
-cd ~/
+cd ~/GitBook/Library/duendeinexistente/cirque/ShortStories
 if expand('%') == '' && !&modified && line('$') <= 1 && getline(1) == ''
   let s:wipebuf = bufnr('%')
 endif
 set shortmess=aoO
-badd +254 GitBook/Library/duendeinexistente/cirque/ShortStories/TwilightInThePast.md
-badd +1 GitBook/Library/duendeinexistente/cirque/ShortStories/TwilightInThePastNotes.md
+badd +1 TwilightInThePast.md
+badd +1 TwilightInThePastNotes.md
 argglobal
 silent! argdel *
 set lines=32 columns=102
-winpos 332 194
-edit GitBook/Library/duendeinexistente/cirque/ShortStories/TwilightInThePast.md
+winpos 260 244
+edit TwilightInThePast.md
 set splitbelow splitright
 wincmd _ | wincmd |
 vsplit
@@ -403,12 +403,12 @@ setlocal nowinfixwidth
 setlocal wrap
 setlocal wrapmargin=0
 silent! normal! zE
-let s:l = 254 - ((19 * winheight(0) + 15) / 30)
+let s:l = 244 - ((11 * winheight(0) + 15) / 30)
 if s:l < 1 | let s:l = 1 | endif
 exe s:l
 normal! zt
-254
-normal! 0
+244
+normal! 069|
 lcd ~/GitBook/Library/duendeinexistente/cirque/ShortStories
 wincmd w
 argglobal
@@ -525,14 +525,14 @@ setlocal nowinfixwidth
 setlocal wrap
 setlocal wrapmargin=0
 silent! normal! zE
-let s:l = 13 - ((0 * winheight(0) + 15) / 30)
+let s:l = 41 - ((15 * winheight(0) + 15) / 30)
 if s:l < 1 | let s:l = 1 | endif
 exe s:l
 normal! zt
-13
+41
 normal! 0
-lcd ~/GitBook/Library/duendeinexistente/cirque/ShortStories
 wincmd w
+2wincmd w
 exe 'vert 1resize ' . ((&columns * 73 + 51) / 102)
 exe 'vert 2resize ' . ((&columns * 28 + 51) / 102)
 tabnext 1
