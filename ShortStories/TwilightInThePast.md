@@ -59,13 +59,13 @@ No, not on *them*. Being looked at changed something, because then the mare, mov
 
  "Yes, she didn't try to follow me." Twilight had said it to quench the mare's doubt, but found herself glancing back at the entrance just in case. "If she'd wanted any business with me she would've spoken, wouldn't she?"
 
- "Maybe it's an admirer." The discrete bar, never calm at this time of the day, burst with movement for a split second when the pink mare bounced more than walked to an incoming client. Twilight pecked at her brunch in the moment of peace, but soon enough the mare returned, smiling like she'd never gone away.
+ "Maybe it's an admirer." The bar, never calm at this time of the day, burst with movement for a split second when the pink mare bounced more than walked to an incoming client. Twilight pecked at her brunch in the moment of peace, but soon enough the mare returned, smiling like she'd never gone away.
 
  "It wasn't a flattering look, no." Twilight shook her head.
 
  "What was it like?"
 
- "It was like, hm..." Twilight did her best to imitate the stone faced expression, finding it unexpectedly easy. "Like this."
+ "It was like, hm..." Twilight did her best to imitate the apathetic, stone faced expression, finding it unexpectedly easy. "Like this."
 
  "Hmm..."
 
@@ -81,7 +81,7 @@ No, not on *them*. Being looked at changed something, because then the mare, mov
 
 Diane did her best to mirror Twilight's expression, making her laugh- between the involuntary telephone game and Diane's bubbling personality, it wasn't particularly close to the mare's face.
 
- "Do I look like I have a crush on and or am planning a special party for you?" She asked, making a clear effort to keep the mean face on. It made her features tremble.
+ "Do I look like I have a crush on and or am planning a special party for you?" She asked, making a clear effort to keep the mean face on. It made her features tremble, especially her ears- the single earring she wore was trembling in place.
 
  "Aaah no, still no, but I wouldn't rule out the possibility either."
 
