@@ -363,7 +363,7 @@ The others shook their heads lazily.
 
 Spike punched her weakly.
 
- ""kay, okay," She laughed. "But near his kingdom there was a crack on the world, you see- Griffons say the entire kingdom had been built to contain it, while hippogriffs said it was the kingdom who made the crack somehow."
+ ""kay, okay," She laughed. "But in his kingdom there was a crack on the world, you see- Griffons say the entire kingdom had been built to contain it, while hippogriffs said it was the kingdom who made the crack somehow."
 
  "Like a ravine?" Asked Diane. "How deep?"
 
