@@ -1,4 +1,4 @@
-!(../Images/FancyTwilight.png)
+![../Images/FancyTwilight.png]()
 
 Twilight Sparkle was stepping out of the university when a younger unicorn saw her and, visibly glad, trotted across the boardwalk to try reaching her, his saddlebags swinging wildly, "Professor Coruscante! Wait!"
 
