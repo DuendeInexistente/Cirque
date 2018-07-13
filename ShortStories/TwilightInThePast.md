@@ -1,5 +1,6 @@
 ![](../Images/FancyTwilight.png)
 
+
 Twilight Sparkle was stepping out of the university when a younger unicorn saw her and, visibly glad, trotted across the boardwalk to try reaching her, his saddlebags swinging wildly, "Professor Coruscante! Wait!"
 
 And she winced, just a little bit and with her face which wasn't his way, but *walked slower*, because she still couldn't bring herself to stopping. Not with a good brunch waiting for her.
@@ -15,7 +16,6 @@ He nodded quickly. "But that's what I don't get, alicorns don't exist. And I tho
  "They're the same as minotaur *ree-eid-les* or griffon *Gold Bones*. That's what makes them holistic-" If she addressed him by name the colt might have died of embarrassment so, enjoying the conversation more than she had expected, Twilight decided to be more formal and addressed him by clan "-, Dalagare, alicorns don't truly exist, yet they are a persistent part of pony mind of culture. They are holistic not just because they are a combination of the three races or because they are bound to an element of the world, but also because they Aah, need external forces to congeal three magics into a fourth, and Bee, are something we know to exist despite them not existing."
 
 Star Tracker followed her while thinking about this for a while, giving her a chance to look at the scenery. Many members of the university often lamented the utter lack of decorations or even lights surrounding the boardwalk, but she understood why this was and approved of it. Nearby on the shallows, under the posts that supported the boardwalk, the curving sand beach was a pleasant, relaxing sight, slowly lowering until the water was just pure blue, and in the distance one could see the green of the archipelagos-and as she looked, a plane taking off under the bright moon. It was a vista that invited thoughtfulness.
-
 
  "Alicorns are part of ponykind's whole?" Tried Star Tracker. "It's not an act of faith as some claim it to be. We know alicorns exist in the same way I can tell when there's magic or you could find seeds, because the fact is integral to us."
 
@@ -65,7 +65,7 @@ No, not on *them*. Being looked at changed something, because then the mare, mov
 
  "What was it like?"
 
- "It was like, hm..." Twilight did her best to imitate the apathetic, stone faced expression, finding it unexpectedly easy. "Like this."
+ "It was like, hm..." Twilight did her best to imitate the apathetic, no, stone faced expression, finding it unexpectedly easy. "Like this."
 
  "Hmm..."
 
@@ -91,7 +91,7 @@ Diane's features *exploded* into a smile as soon as she let them, and she talked
 
 Which, going by Diane's expression, was amusingly little. She opened her mouth for a retort, but a new client demanded her attention and she bounced off.
 
-Twilight did, in fact, have a vague, distracted pride in her physique. Being an earth pony meant she felt obliged to standards, which included not a pretty rump -Not that it was necessary, *ThankYouVeryMuch*, she was aware it received a pleasant amount of looks from teachers and students alike- but to maintain level of fitness even if her scholarly life didn't demand it. To not do so would've been an affront to her heritage.
+Twilight did, in fact, have a vague, distracted pride in her physique. Being an earth pony meant she felt obliged to standards, which included not a pretty rump -Not that it was necessary, *ThankYouVeryMuch*, she noticed a pleasant amount of looks from teachers and students alike- but to maintain level of fitness even if her scholarly life didn't demand it. To not do so would've been an affront to her heritage.
 
 And here was Diane. A mare that could've been a ballerina if she'd wanted to, a famous one at that, but worked at a bar because she liked the conversation. Her fast movement belied the sheer, effortless grace of it.
 
@@ -99,7 +99,7 @@ It was enough to make anyone jealous, it was, no mater the race.
 
 --------------
 
-Being a polymath implied a certain status to uphold. Even when she'd been a student of the university (A status that she actually planned to return to relatively soon, if only partly, to get her next diploma) teachers and family had reminded her that, by starting out with topics as disparaging as folklore and materials science, she had to send a strong, visible message that she was indeed acknowledgeable about both topics and not spreading herself thin. For this reason, she had to be a prim and (Something that came more naturally to her) neat lady in public, else people wouldn't trust what she claimed to know, diplomas or no diplomas. Not until she amassed more success than she already had.
+Being a polymath implied a certain status to uphold. Even when she'd been a student of the university (A status that she actually planned to return to relatively soon, if only partly, to get her next diploma) teachers and family had reminded her that, by starting out with topics as disparaging as folklore and materials science, she had to send a strong, visible message that she was indeed knowledgeable about both topics and not spreading herself thin. For this reason, she had to be a prim and (Something that came more naturally to her) neat lady in public, else people wouldn't trust what she claimed to know, diplomas or no diplomas. Not until she amassed more success than she already had.
 
 That stopped at home. The real home, not the rooms which she allowed formal guests into.
 
@@ -111,11 +111,11 @@ So it wasn't a fort. It was an aid to transit that shifted organically as her re
 
 So her library (an area that had slowly expanded to occupy a living room and dormitory until she surrounded an entire boat house to the books, and bought another at great expense) was, despite initial appearances, a rather sturdy and neat construction, as close to such a thing as one can get without nailing and tying the elements together. Books were piled from larger to smaller and only those that were fit for such a thing were used in the construction, the rest, piled on each other like bricks in such a way that one could remove them without risking collapse, and the bridges connecting the second level, well, she was proud of the bridges. It'd been a childhood dream come true when she figured out how to make those 
 
-And any similarities to a castle were either purely coincidental or convergent design.
+And any similarities to a castle were either purely coincidental, or convergent design.
 
 Spike wasn't there when she opened the door, nor was there any sign that he'd eaten in the kitchen- the pantry was untouched, as was his 'secret' gem stash, and he wasn't sick because the bathroom was perfectly clean.
 
-Or was he just sleeping in? Twilight navigated the library because it was the shorter path to Spike's boat house, a single roomer with a small engine that he'd nevertheless been avid in calling his own, and noticed the engine had some soot on it. Had he gone to the archipelago? Strange, because it was cool and the little dragon was unusually strict when it came to keeping it clean and well tuned. He'd even accepted when she offered teaching him mechanics on the weekends.
+Or was he just sleeping in? Twilight navigated the library to Spike's boat house, a single roomer with a small engine that he'd nevertheless been avid in calling his own, and noticed the engine had some soot on it. Had he gone to the archipelago? Strange, because it was cool and the little dragon was unusually strict when it came to keeping it clean and well tuned. He'd even accepted when she offered teaching him mechanics on the weekends.
 
  "Spike? Is anything wrong?" She called him, not opening the door yet but ready to.
 
@@ -129,7 +129,7 @@ Spike acting like he'd been caught red handed, yet it was obvious he'd done noth
 
 -----------
 
-It just so happened that she did have to talk with parents, an elderly couple who knocked her door worried about why was their colt avoiding them, and Twilight had to be very professional despite the recent awkwardness and tell them that while he looked just fine and his grades hadn't changed significantly, his friends would have better answers. Maybe a demanding marefriend, she ventured? Spike entered the kitchen while she was talking, hoping to a chair to get the good quartz and acting like nothing had happened.
+It just so happened that she did have to talk with parents, an elderly couple who knocked her door worried about why was their colt avoiding them, and Twilight had to be very professional despite the recent awkwardness and tell them that, while he looked just fine and his grades hadn't changed significantly, his friends would have better answers. Maybe a demanding marefriend, she ventured? Spike entered the kitchen while she was talking, hoping to a chair to get the good quartz and acting like nothing had happened.
 
 Which was just ok. Twilight was good at pretend.
 
@@ -137,9 +137,9 @@ Which was just ok. Twilight was good at pretend.
 
  "Yours?" She asked automatically.
 
-He shrugged and lifted his hands, cheeks puffed; 'Can't talk, mouth full.'
+He shrugged and lifted his hands, cheeks puffed, as if saying 'Can't talk, mouth full.'
 
- "Well, this otter barged into the comparative mythologies class..." She took a seat at the table with him. "One of my students had some chowder in his pack, you see, and it wouldn't have been so bad if pups hadn't followed her in." Spike gave her a questioning look. "With half a dozen plus their mom and the way people treats otters here? The class was a petting zoo after that, nothing I could do. I changed the topic to otter-related myths to teach them *something* they'd pay attention to after that happened."
+ "Well, this otter barged into the comparative mythologies class..." She took a seat at the table with him. "One of my students had some chowder in his pack, you see, and it wouldn't have been so bad if pups hadn't followed her in." Spike gave her a questioning look. "With otter pups? In this town? The class was a petting zoo after that, nothing I could do. I changed the topic to otter-related myths to teach them *something* they'd pay attention to after that happened."
 
 He swallowed with visible effort,  "Nothing else?"
  
@@ -163,7 +163,7 @@ Twilight said nothing. Speaking would've exposed her own disappointment.
 
 ------------------
 
-Sauce or not Spike was unusually bright on their way back, telling her excitedly about the last episodes of his radio dramas; The far away pilgrim had found a necklace with the first half of a gem inside its locket. When he had both halves, he would... Do something cool with it. Twilight disagreed, because if it was two halves, it obviously meant that he and another person had to wear a half each to represent their unity as a team and as friends. Spike argued than that fell under the mantle of "Something cool", which Twilight had to respectfully disagree with again: it would be either "Something sweet" or "Something cheesy", or a mixture of the two. He protested about Twilight making his shows girly, but that didn't seem to dampen his mood any.
+Sauce or not Spike was unusually bright on their way back, telling her excitedly about the latest episodes of his radio dramas; The far away pilgrim had found a necklace with the first half of a gem inside its locket. When he had both halves, he would... Do something cool with it. Twilight disagreed, because if it was two halves, it obviously meant that he and another person had to wear a half each to represent their unity as a team and as friends. Spike argued than that fell under the mantle of "Something cool", which Twilight had to respectfully disagree with again: it would be either "Something sweet" or "Something cheesy", or a mixture of the two. He protested about Twilight making his shows girly, but that didn't seem to dampen his mood any.
 
  "And then..." Spike, riding on her back, paused and turned around.
 
@@ -263,7 +263,7 @@ Twilight grabbed him and *squeezed* as hard as she could in a hug against her mo
 
 ----------------------------
 
-The party was discrete after that- family gossip was flooded back and forth between, her parents glad to hear that Spike was reconnecting with his roots, and Diane made her way into the conversation with her usual ease despite barely knowing her parents at all. After a while, maybe realizing the conversation was exhausting her, the others walked away to the library so Spike could show off the structure's latest developments.
+The party was discrete after that- family gossip was flooded back and forth between, her parents glad to hear that Spike had met mainland dragons and was reconnecting with his roots, and Diane made her way into the conversation with her usual ease despite barely knowing her parents at all. After a while, maybe realizing the conversation was exhausting her, the others walked away to the library so Spike could show off the structure's latest developments.
 
 At first Twilight simply leaned on the isle counter and drank water, eyeing the birthday cake Diane had summoned *ex-nihilo* and which now rested on the counter, already missing several pieces.
 
@@ -297,13 +297,13 @@ There was something about the tone with which she said it, like a narrator in a 
 
  "In poor hands it cuts what they can see," Started the mare, sitting near Twilight, "In skilled ones, it cuts what no one can. What is?"
 
- "Curiosity?" Replied Twilight. Was that a riddle? "Or a pen. A lot of things."
+ "Curiosity." Replied Twilight. Was that a riddle? "Or a pen? A lot of things."
 
- "Including a sword. Which your mother's curiosity is, and if the dragon is to be trusted, yours as well." Explained the mare, dropping her mask of apathy to smile widely and frankly- and Twilight had some experience seeing past fake smiles.
+ "Including a sword. Which your mother's curiosity is, and if the dragon is to be trusted, yours as well." Explained the mare, dropping her mask of apathy to smile widely and frankly- and Twilight had some experience recognizing fake smiles.
 
  "If either was a sword you'd be in pieces. Uhm, she's not bothering you, is she?"
 
- "Oh, I have no doubt if curiosity alone was lethal I'd have long since surrounded. But no, her probing is refreshing and I wonder what is it like to be a character in a book."
+ "Oh, I have no doubt if curiosity alone was lethal I'd have long since surrounded. But no, her probing is refreshing, and I wonder what is it like to be a character in a book."
 
  "Then you're on to freezing to death."
 
@@ -363,11 +363,11 @@ The others shook their heads lazily.
 
 Spike punched her weakly.
 
- ""kay, okay," She laughed. "But in his kingdom there was a crack on the world, you see- Griffons say the entire kingdom had been built to contain it, while hippogriffs said it was the kingdom who made the crack somehow."
+ "Okay, okay," She laughed. "But in his kingdom there was a crack on the world, you see- Griffons say the entire kingdom had been built to contain it, while hippogriffs said it was the kingdom who made the crack somehow."
 
  "Like a ravine?" Asked Diane. "How deep?"
 
- "No, not a ravine. It was a crack in the world, all traditional versions say this, past everything to its inside. Nothing that fell on came back, and light didn't even make it dark, and it was like there wasn't anything. But it was a crack. Because nothing grew there, and if you walked into it you fell off through the ground. And taint beasts came from it. One day, a snake came from it." Spike paid more attention now, ready for something exciting. "So Prince Cath made his claws burn, wore his gilded armor, and rode to slay the beast. It slid like a snake on the land and, although it was killed many times, all who were touched by its blood were killed or turned into a new snake after the last died. Archers were rushed at, and warriors exhausted one after the next."
+ "No, not a ravine. It was a crack in the world, all traditional versions say this, past everything to its inside. Nothing that fell on came back, and light didn't even make it dark, and it was like there wasn't anything. But it was a crack. Because nothing grew there, and if you walked into it you fell off through the ground. And taint beasts came from it. One day, a snake slid out." Spike paid more attention now, ready for something exciting. "So Prince Cath made his claws burn, wore his gilded armor, and rode to slay the beast. It crawled on the land and, although it was killed many times, all who were touched by its blood were killed or turned into a new snake after the last died. Archers were rushed at, and warriors exhausted one after the next."
 
  "What did it want?" Asked Spike. He sounded sleepy."
 
@@ -405,9 +405,9 @@ Senses that couldn't be given analogues by mortaldom made themselves known to he
 
  "And much more. Albaricoque's technology is unrivaled."
 
- "I expected to perceive dark magics. But I can feel the knowledge." Twilight allowed a part of her real selves, both the person and the God, emerge from the Wheels of the World, just to bathe in the feeling. She had almost forgotten its warmth.
+ "I expected to perceive dark magics. But I can feel the knowledge." Twilight allowed a part of her real selves, both the person and the God, emerge from the Wheels of the World, just to bask in the feeling. She had almost forgotten its warmth.
 
-The town of Albaricoque neared closer and closer, an island of glass and steel and -much to her pleasure- machined aluminum[^Alum] floating calmly in the water . It had bubbles for docks, where sirens would allow or deny entrance to any newcomer and, if they allowed it, take ships into the bubbles and take them to the town's underwater entrances. Because of this slums had grown on the edge for all who were waiting passage or had been denied, although they were only slums compared to what Twilight felt in side- the external city looked lively, and not unlike Landly.
+The town of Albaricoque neared closer and closer, an island of glass and steel and -much to her pleasure- machined aluminum[^Alum] floating calmly in the water . It had bubbles for docks, where sirens would allow or deny entrance to any newcomer and, if they allowed it, take ships into the bubbles and then into the town's underwater entrances. Because of this slums had grown on the edge for all who were waiting passage or had been denied, although they were only slums compared to what Twilight felt in side- the external city looked lively, and not unlike Arabesco.
 
  "It'll be a good start."
 
@@ -423,5 +423,3 @@ Gods had abandoned this world and its people, and in their absence, much had cra
 
 [^Alum]:
 Aluminum was a good material. It couldn't be given the same godly properties as bronze, but who cared? It was just *more practical*, which she found all too many people forgetting.
-
-
