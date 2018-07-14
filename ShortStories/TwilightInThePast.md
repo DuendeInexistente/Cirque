@@ -1,9 +1,8 @@
 ![](../Images/FancyTwilight.png)
 
-
 Twilight Sparkle was stepping out of the university when a younger unicorn saw her and, visibly glad, trotted across the boardwalk to her, his saddlebags swinging wildly, "Professor Coruscante! Wait!"
 
-And she winced, just a little bit and with her face which wasn't faccing the stallion, and *walked slower*, because she still couldn't bring herself to  a stop. Not with a good brunch waiting for her.
+And she winced, just a little bit and with her face which wasn't faccing the stallion, and *walked slower*, because she still couldn't bring herself to  a stop. Not after a day's work and with a good brunch waiting for her.
 
  "Yes, Star Tracker?"
 
@@ -15,7 +14,7 @@ He nodded quickly. "But that's what I don't get, alicorns don't exist. And I tho
 
  "They're the same as minotaur *ree-eid-les* or griffon *Gold Bones*. That's what makes them holistic-" If she addressed him by name the colt might have died of embarrassment so, enjoying the conversation more than she had expected, Twilight decided to be more formal and addressed him by clan "-, Dalagare, alicorns don't truly exist, yet they are a persistent part of pony mind of culture. They are holistic not just because they are a combination of the three races or because they are bound to an element of the world, but also because they,  Ayh, need external forces to congeal three magics into a fourth, and Bee, are something we know to exist despite them not existing."
 
-Star Tracker followed her while thinking about this for a while, giving her a chance to look at the scenery. Many members of the university often lamented the utter lack of decorations or even lights surrounding the boardwalk, but she understood why this was and approved of it. Nearby on the shallows, under the posts that supported the boardwalk, the curving sand beach was a pleasant, relaxing sight, descending until the water was just pure blue, and in the distance one could see the green of the archipelagos-and as she looked, a plane taking off under the bright moon. It was a vista that invited thoughtfulness.
+Star Tracker followed her while thinking about this for a while, giving her a chance to look at the scenery. Many members of the University often lamented the utter lack of decorations or even lights surrounding the boardwalk, but she understood why this was and approved of it. Nearby on the shallows, under the posts that supported the boardwalk, the curving sand beach was a pleasant, relaxing sight, descending until the water was just pure blue, and in the distance one could see the green of the archipelagos-and as she looked, a plane taking off under the bright daymoon. It was a vista that invited thoughtfulness.
 
  "Alicorns are part of ponykind's whole?" Tried Star Tracker. "It's not an act of faith as some claim it to be. We know alicorns exist in the same way I could find magic or you seeds. It's integral and atavic."
 
@@ -28,9 +27,9 @@ Star Tracker followed her while thinking about this for a while, giving her a ch
  "A number representing nothing, can you believe it?"
 
  "Not yet, Dalagare. But I am waiting for them to reply my letter. I will publish their answer on the gazette if you're interested?"
-Star Tracker and Twilight were reaching the borders of the University's grounds, entering the citadel that had spawned around the university. Originally it'd been made so far from the coast to provide the students silence and the right amount of isolation, but as people travels and money flows, business is given to follow.
+Star Tracker and Twilight were reaching the borders of the University's grounds, entering the citadel that had spawned around it. Originally it'd been made so far from the coast to provide the students silence and the right amount of isolation, but as people travels and money flows, business is given to follow.
 
-It was still a quiet little town, however, which pleased her. The head of the university (A position she'd reach one day, just you wait) had imposed very strict sanctions when it came to noise, and curfews during the week.
+It was still a quiet little town, however, which pleased her. The head of the University (Which was a position she very much intended to reach) had imposed very strict sanctions when it came to noise, and curfews during the week.
 
 Star Tracker was growing increasingly self conscious by the time they reached the first storefront, seeing himself obligated to keep the conversation going and wanting to say something stuck in his throat.
 
@@ -124,15 +123,14 @@ Or was he just sleeping in? Twilight navigated the library to Spike's boat house
 
 Spike acting like he'd been caught red handed, yet it was obvious he'd done nothing wrong, closed up in his room, where he'd gone with enough urgency as to even leave his engines dirty. Was what had fallen him, or someone else?
 
- "Nevermind me." She backed off quickly. "I've got to ah talk with parents, nevermind me."
-
+ "Nevermind me." She backed off quickly. "I've got to ah talk with Parents, nevermind me."
 -----------
 
-It just so happened that she did have to talk with parents, an elderly couple who knocked her door impatiently, why was their colt avoiding them?Twilight had to be very professional despite the recent awkwardness and tell them that, while he looked just fine and his grades hadn't changed significantly, his friends would have better answers. Maybe a demanding marefriend, she ventured? Spike entered the kitchen while she was talking, hoping to a chair to get the good quartz and acting like nothing had happened.
+It just so happened that she did have to talk with parents, an elderly couple who knocked her door impatiently, why was their colt avoiding them? Twilight had to be very professional despite her recent awkwardness and tell them that, while he looked just fine and his grades hadn't changed significantly, his friends would have better answers. Maybe a demanding marefriend, she ventured? Spike entered the kitchen while she was talking, hoping to a chair to get the good quartz and acting like nothing had happened.
 
 Which was just ok. Twilight was good at pretend.
 
- "How was your day?" Asked Spike after the couple went away, then shoved a clawful of quartz into his mouth with exaggerated nonchalance. He was wearing the paperboy hat he liked wearing when he went to town, but nothing else, which seemed odd to Twilight given the -assumed- situation.
+ "How was your day?" Asked Spike after the couple went away, then shoved a clawful of quartz into his mouth with exaggerated nonchalance. He had the paperboy hat he liked wearing when he went to town, but nothing else, which seemed odd to Twilight given the -assumed, she reminded herself- situation.
 
  "Yours?" She asked automatically.
 
@@ -141,7 +139,7 @@ He shrugged and lifted his hands, cheeks puffed, as if saying 'Can't talk, mouth
  "Well, this otter barged into the comparative mythologies class..." She took a seat at the table with him. "One of my students had some chowder in his pack, you see, and it wouldn't have been so bad if pups hadn't followed her in." Spike gave her a questioning look. "With otter pups? And the way people treats them here? The class was a petting zoo after that, nothing I could do. I changed the topic to otter-related myths to teach them *something* they'd pay attention to after that happened."
 
 He swallowed with visible effort,  "Nothing else?"
- 
+
  "No?" The tall mare came to mind, but she decided to stop thinking more about that. "Nothing out of the ordinary. Head of research gave me dirty looks."
 
 Spike gave her a look, and then kept looking, and when Twilight was starting to feel self conscious he dropped it, making a disinterested gesture with his hand- he'd been enthused with hand gestures ever since making friends with a few mainland dragons. "Forget me, I was thinking aloud."
@@ -224,7 +222,7 @@ It took a few minutes for things to get back to normal, but once Diane had her b
 
  "No, I hit you instead--"
  
-  "*I do and I was!*" Diane burst forward and ensnared her in a hug. "See? That's how I was gonna greet you."o the party can really start now!"
+  "*I do and I was!*" Diane burst forward and ensnared her in a hug. "See? That's how I was gonna greet you."So the party can really start now!"
 
  "Diane, I just headbutted you." Twilight giggled despite herself, unable to reciprocate the hug because it had trapped her arms. Was her mom adding alcohol to the punch?
 
@@ -426,4 +424,3 @@ Gods had abandoned this world and its people, and in their absence, much had cra
 
 [^Alum]:
 Aluminum was a good material. It couldn't be given the same godly properties as bronze, but who cared? It was just *more practical*, which she found all too many people forgetting.
-
