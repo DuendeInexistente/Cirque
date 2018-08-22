@@ -1,0 +1,399 @@
+*Don't be too clever for sillyness*
+
+The thief was small and elegant; They took great pride in this, as they did for their similarity to cats. Why, if cats could do just about anything unnoticed why would one not take cues from them? It was good being good at fighting. It was even better not even *needing* to fight. Then you got to be smug when it did happen, because for some reason no one expected the thief to be good at fighting.
+
+They were almost positively sure that didn't have to do with their compact stature. Which was totally a perk when avoiding arrows, really, why would the thief even be bothered by being efficiently designed? There was no reasonable reason to.
+
+*Clang.* An arrow bounced against their shoulder, and albeit the tip had only barely hit the light metal armor before the fluffy silk over it stopped it dry, it was still an arrow with enough weight behind it to throw them back a few steps, and that was as much of a warning as about anyone needed.
+
+*Don't be too silly to be centered.*
+
+They ensured that their sack was intact, their yellow lenses tied firm, and there was nothing caught on their outer layer of black and purple silks before taking a run for it, choosing little used alleys. Some of them were half covered by the flooding water. This was good, because the thief could shake their boots until spell four activated and *bounce* on the water like a trampoline, reaching enough height to climb a ceiling after several increasingly tall bunnylike hops.
+
+A pegasus guard looked at them there, shocked, holding a crossbow.
+
+Bad. *bad*. The thief swung their sack savagely, hitting the crossbow out of the guard's hoof, and then hit their head hard enough to -the thief preferred to think- knock them out. No spell needed for this one, the boots were heavy enough for it
+
+ "Hi."
+
+The voice startled them, just a little, but they didn't bother to look, darting away. The next roof was far away and there was no water to bounce on, so instead, they changed the boots' spells: When they hit a wood mast near the edge with the first hoof, the wood exploded outwards with a yellow glow, and the second hit  left a yellow mark on the broken stump.
+
+Not much time left now. The thief climbed onto the mast, changing spells again to gain an adherent grip on the wood, and ran along it as its fell forward and down.
+
+*Don't be too centered to be fantastic.*
+
+Almost, but not quite, angling enough to reach the next rooftop. Now it was a mater of praying, really.
+
+ "That's clever."
+
+Guards were amassing on the street below, were they tracking the thief somehow? Was that the voice? Several bolts flew but it didn't mater, they were falling too fast and the guards were too distracted to add enough lead to their shots.
+
+The bottom of the mast hit the street first, and when that happened the yellow mark on it exploded, shooting the mast just enough that the thief barely *couldn't* reach the next rooftop.
+
+*Don't be too fantastic to be clever.*
+
+The jump had left them midair and about to fall, so they readied to do just that. The same spell that had stuck them to the wood of the pole wasn't nearly strong enough to actually hold them on a vertical surface, but it'd at least slow them down.
+
+*Don't be too clever to be silly*.
+
+And now they were sliding down the wall upside down; They made a mocking gesture to the guards below and then, when they'd nearly reached too far and with the guards too centered on them, shot a hoof left suddenly. It caught grip of a balcony and sent them sliding sideways, just enough to reach a nearby alley, going too fast and crashing painfuly against the furthermost wall-- back to square one.
+
+ "I thought you were a goner. Did you know the world is not flat?"
+
+*Who was talking!?* No time to check, not yet, not with bolts tracking their step too closely for comfort. They ran like Styx was surging up, just wanting to get away from it all before their stamina ran out.
+
+ "Hey, I am trying to talk to you!"
+
+The guards were in such amounts that they were stuck at the entrance of the alley for a few seconds arguing who went first, and that was just enough for the thief to hide behind a corner and stop. If not for breath, for a revitalizer.
+
+ "And now that we stopped..." Asked the tall blue stallion at the thief's left, "Oh, is that a drug? They are fascinating."
+
+The thief jumped back like a spooked cat but ate the yellow pill anyway. Their stomach felt bubbly and they closed their mouth, feeling vaguely upset as adrenaline surged in their body anew and their gut *bursted* with high amounts of highly oxygenated air.
+
+ "I don't think that's healthy." Pointed the tall stallion, extending a hoof for a shake. "Hi! I am--"
+
+The thief ran away.
+
+ "I am trying to be polite!" 
+
+ "Lucero, please stop." A griffon fell in front of the thief, forcing them to stop. "I told you translocating spooks people."
+
+ "No, it spooks *you*."
+
+ "I am people."
+
+ "No you're not. You're my boyfriend."
+
+ "Should I be off--?"
+
+Enough of this! The thief punched the griffon with such strength that he was thrown aside, his silver rings and black robs bending and burning from the punch, and crashed into a wall with a meaty thud and shattering stone.
+
+ "You can't do that!"
+
+The thief didn't care about this... was he hallucinating? No, they couldn't be, they ran on attempting to avoid the guards. More flooded streets! They twirled their hoof, doing a magician's trick to spawn a can out of their hammerspace, and sprayed a thick white gel on their boots. Now whey slid on the water as if it was ice, and the thief skated away hoping to regain as much distance as possible.
+
+*Water.* Looking up would've been suspicious, but they looked at the water instead. The moon reflected on it... and a dark pegasus gliding silently, blotting out stars in his advance.
+
+They'd need to bring on the heat.
+
+The thief didn't like guns. They were designed for larger-- *Less compact* frames than their own, and took much to long to aim, and if shot while moving could throw off your balance something fierce.
+
+ "You made my boyfriend's nose bleed!"
+
+ "Shut the fuck up already!" Screamed the thief, too bothered to care about wasting breath.
+
+ "You can't tell that to a-- Heck!" Several bolts flew through the air as pegasi rangers flew overhead, one of them lodging itself on the thief's silk armor. This was getting out of hoof, why did they care so much about this anyway?
+
+A water tank! The metal construction had broken sometime recently, leaking water that mixed with the seawater on the street. The thief reached it and started climbing the spiral stairs in the structure, somewhat protected from the bolts by its beams.
+
+Don't look up, don't look up, *don't be too fantastic to be clever.* Two more bolts reached their armor while climbing, one barely piercing the metal armor and scraping at their fur with a pain that was more of a distraction than hindrance.
+
+But when they reached the top of the tank, they sealed the broken tube with the same white gel they'd applied on their boots, and ran alongside its border while punching it, spinning and twirling to avoid as many arrows and bolts and they could-- which peltered the tank and pierced it, creating a structurally weak ring that water was escaping from.
+
+*Time to bring on the heat.*
+
+They climbed to the top and opened the tank's trapdoor for just long enough to throw several bombs inside. Normally they laughed at the use of explosives -a novice's tool- but now the situation was quickly spiraling in and out of control to a point of ridiculousness.
+
+The bombs didn't explode, oh no, not underwater, but their ignition charge instead burned, boiling the water quickly. Steam started escaping every orifice on the tank as the metal creaked, making the shooters move further away.
+
+One of the bolts reached the thief's leg now, shot from far too close by an overeager rookie that was promptly kicked away. They didn't think it had reached the bone, but it was still bleeding profusely and would be a crippling for a while.
+
+Some of the thank was red-hot now, particularly the weakened ring from which the most steam was escaping from, and then the tank *exploded* with a blast of heat... throwing the topside up to the sky.
+
+This was the moment of truth. The thief turned around quickly and caught sight of a surprised scout that was too shocked and sure of himself to fly away, and ran the closest they could to them on the tank's disintegrating, flying, burning top.
+
+Too far. She was just too far to reach.
+
+*Don't be too clever for sillyness.* The thief produced the heaviest object on their hammerspace, they didn't even know what it was, and threw it at the scout's head-- Was that a crossbow pistol?
+
+Had they had a motherfucking crossbow pistol and thrown it--
+
+The impact made a very, very, *very* satisfying *thud* against the scout's head and knocked them out, sending them on a gliding fall.
+
+*Don't be too silly to be centered.* The thief produced a yellow explosion directly off their boots, hurting their shoulders but using it to reach further away horizontally, and grabbed to the pegasus' limply hanging forehooves. Their wings had locked the moment they fell unconscious, which was good because the fall was *merely* bone shattering, rather than lethal.
+
+Their hindleg was still bleeding, but they didn't have the time to care as they swung in an attempt to direct the pegasus in order to narrowly dodge a church spire.
+
+A church! They swung back hard and suddenly, making the pegasus fall at a sharper angle and now falling along its diagonal ceiling, running on it and attempting to slow down the fall.
+
+ "That was *so cool*."
+
+ "Mmh..." The scout started coming back to her senses. "What is... What are you-- Oh shiiiii--"
+
+She attempted to pull back up, but was stopped short of it by the thief's firm grip and sheer weight. No, if the thief'd wanted to turn up they would've just jumped, not ran with a wounded leg.
+
+They reached the ending of the first ceiling. Two left.
+
+ "You'll loose control if you do that!" They shouted despite their lungs aching.
+
+ "Then what in the love of fuck do I do!"
+
+ "You are the bird, you fucking tell me, but you'll lose your air surface!"
+
+ "Language!"
+
+Second ceiling, gone. The street was dangerously close now.
+
+ "Turn around!" Said the thief suddenly, hoping this worked. "U turn! U turn!"
+
+ "Cee or U!"
+
+ "Widest one!"
+
+The pegasus, still attempting to slow down somehow, started turning- a wide one that would put them dangerously close to the edge, but the thief managed to keep their hooves on the ceiling.
+
+Which they'd faceplant on in about a second. Lethally.
+
+They ran as fast as they could, attempting to push faster than they fell and use their body to break their descent into an ascent with their own body, putting a painful strain on their back.
+
+ "This is so aweeesoooo--" Screamed the pegasus, half hysteric -Now holding the thief rather than being held by- but was interrupted when they ran out of ceiling to climb.
+
+They crashed against a fancy window, almost able to reach the second ceiling again where they would've slowed down to a safe speed. Glass shattered and metal bent and, the thief was sure, bone cracked-- they weren't sure if theirs or the pegasus'. Even still they rolled on the floor, alive.
+
+But the pegasus...
+
+They crawled to her and poked her. She was limp. Her muscles were lax. She had pulse, weak, but a pulse.
+
+ "Now if we can stop already," Started the blue unicorn-- pegasus-- Alic--
+
+Oh, shit.
+
+ "I am Lucero, and my boyfriend asked me to forgive you for that punch earlier." He extended a hoof to shake it. "So I guess I still want to be your friend."
+
+ "Excuse me?"
+
+ "I think *not* shaking my hoof is a sin." The alicorn seemed more puzzled about its nature than offended by the thief's lack of shaking. "Hey, is not shaking my hoof a sin!" He shouted loudly, but there wasn't a reply.
+
+ "It's night." Said the thief, feeling numb. This was bad, they were tethering on the edge of collapse now. "There's no priests."
+
+ "You know, there was a time 'Day' meant 'When my moon shines brighter' not so long ago when the sun was dead, well, there were several of those times, but there was a recent one. Hey, Lagai! Is not shaking my hoof a sin?"
+
+Silence.
+
+Great. The moon lord *was* insane. It felt like adding insult to injury after this night.
+
+A bird -a phoenix- flew into the room through the broken window, followed shortly by a white alicorn with pink mane who called for someone else.
+
+ "Hi! I think my friend needs help. But it's not my sphere of influence so..." The blue alicorn fiddled. "Pretty please with cherries on top?"
+
+ "You can't ask me everything with that, you sill-- Oh my gosh, you do need help." The white alicorn trotted to the pegasus. "Philomena, go for Mi Amore. And tell Twi to start producing anticoagulant."
+
+The phoenix took flight promptly, exiting as something else entered.
+
+Something serpentine, and too long, and with missmatching limbs and bright yellow-on-red-eyes.
+
+ "Hi Discord."
+
+ "See, you say you have no friends, I told you you'd like this one. Aren't I a good lad." Discord pointed at the thief, who jumped back thinking he'd be turned into something ironic.
+
+ "Discord you dummy, you can't do everything he asks you pretty please with a cherry on top." Protested Celestia. "And help that one, it's bleeding out."
+
+ "I don-- What so-- I *didn't* do it because moonlighter asked me pretty please, *thankyouverymuch*."
+
+ "Actually..." Started saying Lucero, grinning abashedly. "You found him *after* I asked like that so..."
+
+ "Details, details. I must go." Discord looked at the thief like they were a hurt bug and, at last, snapped their fingers and made a roll of bandage appear. "You and your lineage owe me a favor now."
+
+ "But I don't have a lineage."
+
+Discord just laughed and started swirling into nothingness, "That depends on your definition of lineage, clutchy paws. Anyone that you teach to is part of it in mine."
+
+Any that they taught? But the thief worked alone. They thought this -and that the gods seemed offly distracted to be seemingly interested in them- as they took off their pants to bandage the pierced leg. Milk, eggs, and sugar, they needed milk eggs and sugar soon if they wanted to stay conscious, ideally mixed into a thick, disgusting fluid.
+
+Lucero looked at the bandaging with interest but didn't interrupt it, and when a third pony walked into the room, it was to the thief's relief that it was just a very muscular pony, no wings or horn there.
+
+ "Thank me, Twilight, can you help me with this?" Asked Celestia, "I think she had a blood cloth before this and it's in her head now."
+
+ "Can you help her?" Asked the thief. They were aware in this line of work *things happened* but that didn't mean they *had* to happen. It wasn't some delirious fever dream about noble thieving, not as much as obstinately maintaining a base level of equinity. And maybe contrarianism.
+
+ "Hold her." Asked Twilight, and once Celestia had lifted the mare's head, she held her hooves near her ears. "I don't know, Starlight Glimmer. But she doesn't deserve to die because of you. I'll try."
+
+ "I think he deserves a chance, Twi." Said Lucero.
+
+ "You don't get to call me Twi. And I thought you liked Quesque more than strangers."
+
+ "He asked me not to hold a grudge for that...  as you die the god is drawn closer, remember."
+
+ "Right." Twilight made a knife appear out of thin air-- not making the same magician trick the thief did to pull things from their hammerspace, but genuinely producing it *ex nihilo*
+
+The thief was, now, starting to feel dizzy and cold from blood loss, and all the aches of overexertion were catching up to them. Yet even in this state what Twilight did shocked them-- she handed the knife to Celestia and exposed her wrists.
+
+ "Cut them, Anne."
+
+ "Twi..." The alicorn winced. 
+
+ "I'll make it up to you. But I need the strength for this."
+
+ "Please don't make an habit out of it." Celestia took the knife in her teeth despite having a horn and made a clean cut on one of Twilight's wrists. "I'll cut the other if we need to."
+
+With a bleeding hoof now, Twilight put her hooves around the scout's ears again, shaking slightly and closing her eyes to concentrate... and then Lucero sat close to the thief and covered them with a wing, making them cry out in surprise.
+
+ "You were getting cold." He said simply. "I'd help you more if I could, but I'm new to the whole wordly thing."
+
+ "Why do you follow me."
+
+ "Because I want to be your friend. I can make the sky beautiful, but you make *the world* more mystical."
+
+Too many aches to bother counting. Possibly killed two people tonight. Almost bled out, and apparently made a god mad. The thief didn't feel particularly mystical at the time, and they said so.
+
+ "Details, details, I am sure Twi--"
+
+ "Stop calling her that." Snapped Celestia, for the first time sounding vaguely bothered, but that lasted little before she talked more warmly. "It's not fun if you're the only one laughing, Roo. Never forget that."
+
+ "I literally can't. I am sure Twilight can help her, will she Celestia?"
+
+ "You know I don't control that."
+
+ "You *could* now."
+
+ "I don't."
+
+The phoenix flew back in, alone but carrying a gift basket. It had fruit and pastry in it, and on top of that a jar of milk and a card, and the phoenix took it to the thief.
+
+ "Lets see." Lucero took the card.
+
+And stared at it.
+
+And kept staring.
+
+ "Do you know how to read?"
+
+ "Not yet. Did you know, from the sky, the world looks flat just like from here?" He asked. "I thought it was a disk that changed."
+
+The thief took the card and read it through blurry vision, flickering a switch on his yellow lenses for light:
+
+> Dear mister thief:
+> I am terribly busy at the moment, but this should help you.
+> Best regards, Mi Amore Cadenza.
+
+ "Everyone is insane." They groaned. "Every goddamn god really is insane."
+
+ "How funny, Quesque says that all the time. I am sure you'd get right along." Lucero took a fruit from the basket and started peeling it, "But you *are* mystical, mister anonymous genderless thief, can I call you by name? It's so pretty." He gave the fruit to the thief, who didn't question *that* and ate hungrily. "Thieves are a dime a dozen, but you're the sort I like. You are so rash and so crazy and so original, and people tells *tales* about you, like they do about me. It's mortals like you that I love, the ones that despite not being godly make myths for themselves. And then you inspire people and teach them of the mysticism of the night, of the allure of the unknown, remind them to play with shadows."
+
+The thief finished eating the fruit, thinking about this. Was the god messing with them? They couldn't deny thinking about things that way sometimes, being playful, provocative, *wanting* to live a tale every once in a while. To become a character under the disguise.
+
+ "That is why I want to be your friend," Lucero took another fruit, "And ask a favor of you."
+
+ "What?"
+
+ "Don't die out or just reach old age. Teach someone. You're under a disguise, someone new could replace you and no one'd know. Keep that tale alive."
+
+ "I can't. I am shit at people."
+
+ "Then find someone who is *good at you*, it worked for me." Lucero held the thief tight. "I can try helping you with that, I just don't want such a pretty tale and skilled pony to go unsung and forgotten by all but me. I'll even give you a gift."
+
+ "A gift?" Asked the thief before uncorking the milk and gulping it down. "What kind of gift?"
+
+ "Something purely sentimental. I..." Lucero stopped suddenly, embarased. "Oh, I forgot to bring it?"
+
+Celestia giggled, "Would you, Philomena?"
+
+ "No need, no need." Lucero blinked out of sight and returned almost immediately. "Here, they won't break. Can I see your boots?"
+
+The thief, even though the food was helping him, just wanted this to end. All these gods, all this pretty-mare-that-may-be-dying-because-of-me, and the cold stone floor under their rump made them want it all to just *go away*, but they still took the glasses Lucero was offering.
+
+They were much like the yellow ones they already wore, but made of better material. The real difference was in color, from yellow like a tomcat's to a bright cyan like a siamese cat.
+
+ "It's because of my eyes, you see?" Lucero pointed at them. "It'd be flattering."
+
+ "That's not your eye color." Said the thief bluntly.
+
+ "It is sometimes."
+
+Blue glasses. 
+
+Something felt oddly wrong about that, but the thief still let Lucero take off their boots, something they hadn't left anyone do in... How many years now?
+
+ "Four. I was there." Said Lucero distractedly, pressing a hoof against the flat of the boots.
+
+ "Don't do that!" Yelped Lucero, remembering the explosive spell was loaded, but Lucero kept pressing.
+
+The boots blossomed with a yellow burst which didn't seem to bother the alicorn, who took his hooves further apart, stretching the metal like rubber.
+
+ "*What are you doing*?"
+
+ "Just a parlor trick to see the magic." The metal snapped back into shape... and a magical screen spanning most of the room appeared, showing some kind of flowchart. "Ah, how funny, I thought you had *some* combat spell here, for emergencies. But it's all to work with the environment primarily."
+
+ "It's to move." The thief remembered to keep eating and took a cupcake. "It's... it'd be bad to have combat magic. It'd tempt me to fight and stop moving. I'd get surrounded."
+
+ "See? That's part of your myth." Said Lucero gleefully. "You're always on the move. If you ever attack it's part of your movement, and that's my favorite part. Seeing you run from chase is a treat." He gave back the boot and started peeling another fruit. "Do you really want to be forgotten?"
+
+ "I don't care." They lied. *Of course* they didn't, no one did, but it was a petty thing to say, from a petty thief.
+
+ "I won't forget you." Lucero smiled widely. "For what it's worth, but it's everyone else I worry about, it'd be a sad world without mysticism..."
+
+The pegasus yelped suddenly when she woke up, and fell asleep again almost immediately.
+
+ "So?" Asked the thief.
+
+ "Make sure she has proper rest for two days. I applied anticoagulant on the clot until it dissolved." Twilight walked to the thief's bag and started rummaging in it. The thief attempted to stop her, but the pony was just *too* strong and it didn't even budge. "I don't care for what you do, but this?" She took a book and opened its last page, showing a small starbust drawing on it. "I'll give you some personal advise. If you see it, you don't touch it. It's *mine*, no mater in whose possession it is."
+
+The thief nodded quickly. Best not upsetting what seemed like the most sane of all these gods.
+
+ "Twiii..."
+
+The mare sighed, "Although, yes, thanks for uncovering it. This would've been much harder to find on my own."
+
+ "She's had a long decade." Said Celestia apologetically.
+
+ "Did you make those boots yourself?"
+
+The thief didn't shake or nod their head, trying not to think the answer either. Some things are best left unsaid.
+
+ "Have it your way. Anne?"
+
+ "Let me be sure." Celestia smiled, then her ear twitched. "Ah."
+
+ "See? She'll be fine."
+
+ "I didn't mean to do it." Said Celestia as her ear kept twitching. "But yes. She's juuuust abooouuu..."
+
+The mare woke up again and stood suddenly clutching her head, "Aaaaaaawwwwww..."
+
+ "What's your name?" Asked Celestia cheerfully. "Twi helped you, but sometimes she gives headaches, you see?"
+
+ "Aaaaaah." Kept groaning the mare.
+
+ "Just don't always literally." Kept talking Celestia. "I am *supposed* to be named Celestia now, apparently."
+
+ "It's the tale." Said Lucero. "The sun is Celestia. The wheels don't like it any other way."
+
+ "So you say."
+
+ "Mmh.." The mare let herself wince a little more. "Name's Trixie... I am still painted? And..." She looked around the room until her eyes fell on the thief. "You're real!"
+
+ "I am what?"
+
+ "I thought that was just a dream." She said as all the gods left. "But it was *so cool*, can you teach me how to do all that?"
+
+Lucero giggled as he walked out behind Celestia.
+
+ "I am shit at people." Insisted the thief.
+
+ "You're talking with the worst." Said the mare firmly. "I assure you."
+
+ "Once I forgot my mother's name." Answered the thief, "Once I forgot *mine*."
+
+ "I lost my father." Replied the mare. "I am not joking. I lost him in the store. Two years ago."
+
+ "I put a cat in a box and played ball with it because I thought the cat would have fun." The thief felt like they were in some sort of bizarre competition now.
+
+ "I thought I could teach my goldfish to breathe air."
+
+ "And then you put it on the cat's food tray and your dad believed it was him?"
+
+ "Yours too?"
+
+ "He scolded *the cat*, he was that convinced."
+
+ "No."
+
+ "And he thought I had put him in the box as a revenge."
+
+ "Did you ever wear your mom's clothing and then forget you were wearing and walked outside like that?" 
+
+ "No, but I did with my dad's. He was so mad."
+
+ "I tracked mud *everywhere* with that dress."
+
+ "A stallion kept hitting on me and I didn't realize it was because of what I wore for years."
