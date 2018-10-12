@@ -1,6 +1,6 @@
 *The sea is the world in which [Cirquesque](anonpone.com/cirquesque) takes place. It has no special name for the same reason we call earth that way— nobody cares. In it, several species attempt to survive in a world with resources and economies so dwindling that war cannot be sustained, making use of every resource available and building happyness from wimsy.*
 
-*In the sea, as the name implies, there’s no land to speak of and there’s not been since ancient times. Gods remember a time when it was, and desire to bring it back, but they are not telling anymore than that.*
+*In the sea, as the name implies, there’s no land to speak of and there’s not been since ancient times. Gods remember a time when it existed in the world, and desire to bring it back, but they are not telling anymore than that.*
 
 
 #Waste disposal in the sea.
