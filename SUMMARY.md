@@ -1,9 +1,8 @@
 # Summary
 
 * [Introduction](README.md)
-* [Character list](meta/characters.md)
-* [Foods catalogue](meta/food.md)
-* [Map](mapa.md)
+* Meta:
+ * [Map](meta/mapa.md)
 * Written by Creaking:
  * [Her journals](CreakJou.md)
  * [Her transcripts](Transcripts.md)
@@ -20,6 +19,7 @@
 * Landly's library:
  * [Scrap of a tale found between the pages of another book](LandlyLib/2ndpart.md)
  * [Tritons](LandlyLib/tritons.md)
+ * [Spark times eleven](spark.md)
 * Some short stories:
  * [Flow](ShortStories/flow.md)
  * [Grief](ShortStories/Grief.md)
