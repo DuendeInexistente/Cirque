@@ -1,5 +1,5 @@
 **Lines** cannot move autonomously if there's another friendly piece in a surrounding hex, only in the hex surrounding the friendly piece(s). Realignment is not necessary then.
-If a **Line** is alone, it can move four tiles in any direction so long as the line in the piece is currently aligned in said direction. Realigning the line takes one turn.
+If a **Line** is alone, it can move four tiles in any direction.
 
 **Squares** can only be moved to any tile touching their own, or jump to any of the surrounding same-coloured tiles if it's to mount another piece.
 
@@ -7,7 +7,7 @@ If a **Line** is alone, it can move four tiles in any direction so long as the l
 
 --------------
 
-If a piece is mounted on top of a **line**, the mounting piece can be thrown between one and five tiles ahead instead. Realigning the line in the piece is still necessary.
+If a piece is mounted on top of a **line**, the mounting piece can be thrown between one and five tiles ahead instead.
 
 ----------------
 
@@ -18,4 +18,4 @@ If a piece is mounted on top of a **line**, the mounting piece can be thrown bet
 ----------------
 
 Any piece will be destroyed on falling off the board.
-Other pieces are destroyed by contact.
+Other pieces are destroyed by contact. 'Contact' means either the enemy piece's slot or an immediately contiguous one.
