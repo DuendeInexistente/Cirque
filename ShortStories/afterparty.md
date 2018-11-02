@@ -112,8 +112,6 @@ Sindias didn’t bugger off.
 
  “What happened?”
 
-==============COMBINE THEM==============
-
  “Bugger off.”
 
  “You know it leaves a bad taste on our mouths you do this for us, don’t you?”
@@ -131,15 +129,6 @@ Shemosh found himself growling.
  “*That* bad, huh. You got a spot on the rehearsal if you feel like it.” 
 
 Shemosh said nothing, and sat still as the others practiced their acrobatics behind him.
-=======
-Shemosh didn’t answer.
-
- “You know I am more patient than you, ‘Mush.”
-
-Shemosh groaned.
-
- “Whatever. I’ll bug you more after practice.”
-===============================================================
 
 -------------------
 
