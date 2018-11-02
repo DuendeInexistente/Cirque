@@ -97,18 +97,22 @@ Quilroy just shook his head, intent on falling asleep precisely -the abstract pa
 Her crownet kept moving jerkily left and right all the while, like an engine about to break.
 
 ------------------------
-————————————————————————
-Shemosh - Mirko
-————————————————————————
-------------------------
 
-Shemosh sat on the edge of his troupe’s barge grumpily -his long cape resting on the boards nearby- wanting to not be seen. The already abundant scars on his skin had new additions now, several small burns and purples and a caved in head that he knew would be noticeable for at least a month after it got better, and the corners of his mouth hurt slightly.
+[Shemosh](https://www.youtube.com/watch?v=5Ca5AH9o8wU)[^pambo] sat on the edge of his troupe’s barge grumpily -his long cape resting on the boards nearby- wanting to not be seen. The already abundant scars on his skin had new additions now, several small burns and purples and a caved in head that he knew would be noticeable for at least a month after it got better, and more offending than injuring, the corners of his mouth hurt slightly.
 
-But wishes seldom come true by sheer force of want -something every triton was familiar with- and sooner than later one of his people ‘sneaked’ in behind him and passed his legs suddenly across his shoulders hugging him tightly, and pressed their cheeks together, “Was it bad?”
+But wishes seldom come true by sheer force of want -something every triton was familiar with- and sooner than later one of his people ‘sneaked’ in behind him and watched, idle, before speaking. “Was it bad?”
 
  “Bugger off.”
 
- “Thought so.”
+ “Thought so. Who did that?” Shemosh didn’t to look to know he was pointing at his face.
+
+ “No one I couldn’t punch back. Bugger off.”
+
+Sindias didn’t bugger off.
+
+ “What happened?”
+
+==============COMBINE THEM==============
 
  “Bugger off.”
 
@@ -127,9 +131,20 @@ Shemosh found himself growling.
  “*That* bad, huh. You got a spot on the rehearsal if you feel like it.” 
 
 Shemosh said nothing, and sat still as the others practiced their acrobatics behind him.
+=======
+Shemosh didn’t answer.
 
+ “You know I am more patient than you, ‘Mush.”
+
+Shemosh groaned.
+
+ “Whatever. I’ll bug you more after practice.”
+===============================================================
 
 -------------------
 
 [^meinat]:
 Manaiset - Kuulin äänen
+
+[^pambo]:
+Cirque Du Soleil - Pambolero (Luzia)
