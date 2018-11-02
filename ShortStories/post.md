@@ -1,4 +1,4 @@
-Cobalt Cuirass had done much in his life— he’d been a knight of various causes for the last fifty years, and a mercenary for thrice as much before that, and at the end of the day there were few things that that life had not readied him for.
+Cobalt Cuirass had done much in his life— he’d been a knight of various causes for the last fifty years, and a mercenary for thrice that before, and at the end of the day there were few things that that life had not readied him for.
 
 Boredom, and small talk, were two of those things.
 
@@ -28,7 +28,7 @@ She nodded a small nod, looking like a lean but muscular minotauress. Cobalt won
 
 He didn’t acknowledge to being caught red handed, instead looking out a nearby window, sitting in a room with walls of old and unpainted wood, in a boat that waved softly with the water.
 
- “The tongue is sharper than the sword, anyhow; you could just ask me to show you.”
+ “Word is sharper than the sword, anyhow; you could just ask me to show you.”
 
 He shrugged. Not interested enough, if the goddess had a reason to put on a suit.
 
@@ -50,7 +50,7 @@ Diva whistled from the deck and, a minute later, climbed down the stairs, nodded
 
 ---------------
 
-[Quilroy](https://www.youtube.com/watch?v=OVr4eee_BRQ) [^meinat] dragged his claws through surroundings that were becoming increasingly hard to make out, feeling the remains of his body ache after the effort he’d gone through. The stone was starting to vanish in his perception as the simulacrums of eyes on his helmet vanished, stripping away to increasingly abstract representations that were hard to tell apart from each other.
+[Quilroy](https://www.youtube.com/watch?v=OVr4eee_BRQ) [^meinat] dragged his claws through surroundings that were becoming increasingly hard to make out, feeling the remains of his body ache after the effort he’d gone through. The stone was starting to vanish in his perception as the simulacrums of eyes in his helmet vanished, stripping away to increasingly abstract representations that were hard to tell apart from each other.
 
 There was a sound -because his ears were, thankfully, still his original ones- of claws on stone and someone helped him stand— the griffon’s features were hard to make out as the stone, but he saw the small ring hovering above her head like a crown, spasming left and right sometimes before returning to a smooth spin, and knew who it was.
 
@@ -90,7 +90,7 @@ Finally they reached his royal quarters at the ship, a discrete but well furnish
 
 Quilroy could’ve said that he suspected the unicorn’s cutie mark was a starburst— that his talent was *magic*, and if he didn’t feel on the verge of passing out would’ve done so to boast. But as it was it would only worry Querer unnecessarily, which was a dreadful idea for several reasons.
 
- “A purple mare wanted to see you.” Muttered Querer as if afraid that he’d fallen asleep.
+ “A griffoness wanted to see you.” Muttered Querer as if afraid that he’d fallen asleep. “Would you believe it, that she was bright pink?”
 
 Quilroy just shook his head, intent on falling asleep precisely -the abstract patterns of his royal bed were simpler, but still complex enough to give him a royal headache- and watched as Querer slid out of the room with what he supposed was a sway of her hips.
 
@@ -102,7 +102,7 @@ Shemosh - Mirko
 ————————————————————————
 ------------------------
 
-Shemosh sat on the edge of his ***crew’s***[FIXME] barge grumpily -his long cape resting on the boards nearby- wanting to not be seen. The already abundant scars on his skin had new additions now, several small burns and purples and a caved in head that he knew would be noticeable for at least a month after it got better, and the corners of his mouth hurt slightly.
+Shemosh sat on the edge of his troupe’s barge grumpily -his long cape resting on the boards nearby- wanting to not be seen. The already abundant scars on his skin had new additions now, several small burns and purples and a caved in head that he knew would be noticeable for at least a month after it got better, and the corners of his mouth hurt slightly.
 
 But wishes seldom come true by sheer force of want -something every triton was familiar with- and sooner than later one of his people ‘sneaked’ in behind him and passed his legs suddenly across his shoulders hugging him tightly, and pressed their cheeks together, “Was it bad?”
 
@@ -110,6 +110,23 @@ But wishes seldom come true by sheer force of want -something every triton was f
 
  “Thought so.”
 
+ “Bugger off.”
+
+ “You know it leaves a bad taste on our mouths you do this for us, don’t you?”
+
+ “Bugger off.”
+
+The triton kissed Shemosh’ cheek, “So it makes me feel bad to be *thankful* for it. Feels like enabling, you know?”
+
+ “Bugger off.”
+
+ “You only have yourself to blame, you know.”
+
+Shemosh found himself growling.
+
+ “*That* bad, huh. You got a spot on the rehearsal if you feel like it.” 
+
+Shemosh said nothing, and sat still as the others practiced their acrobatics behind him.
 
 
 -------------------
