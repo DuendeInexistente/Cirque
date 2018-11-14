@@ -1,0 +1,7 @@
+After decades doing a job that oftimes needed them to be either sexless or to play the part of either sex, the thief that some knew as diamond-eyes often wondered if they *could* genuinely act like their sex naturally rather than remind themselves to— this was one of those questions they often thought about but never asked anyone out loud. Was it sexlesness to have to play the role consciously, or was it more sexual than most people? When had they decided to make a joke out of it, because it made the deal *a game* if you could poke fun at other people with it?
+
+Because these were the things diamond-eyes would often wonder about when they looked at their dresser, alone with no one to distract them— and loneliness was becoming a more and more common occurrence nowadays…
+
+But to keep their mind busy they stretched a hoof and decided they’d be a mare this time, because it was the easier role to play, and grabbed a coctail dress that wouldn’t be too overproduced for a discretely classy bar but would attract some looks nonetheless. Her mane, long but not too long, was tied loosely into a braid already, and a small necklace would attract the eye to her neck and make the eyes then raise to her face, something which always satisfied her.
+
+The lights of the hallways under deck made them look dim and dirty and quiet, with only the vague groans of shifting wood and the glimmers of enamel decoration on the closed doors, and after drifting across them she reached  
