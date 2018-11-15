@@ -12,7 +12,7 @@ She entered the stage followed by her troupe, all of them adorned and dusted and
 
 And then, behind the crowd that was awaiting their show, a magenta light grew in the sky. Everyone grew worried when her smile faded at first, erased by disbelief and surprise that made her breath grow uneven, and her ribs, light as paper and brittle like glass, felt like they were constraining her chest, making it impossible to breathe.
 
- "It can't be." She had to labor her breath until it was stable again, but laughed and smiled dumbly.
+ "It can't be." She had to labor her breath until it was stable again, but still wheezed a laugh and smiled dumbly.
 
 The crowd was about to look back, to search what she and her troupe were looking at, but she didn't care, not now that she had received such news.
 
@@ -40,7 +40,7 @@ She laughed, because she couldn't not.
 
 -----
 
-Lucero felt rather than saw it, alone in one of the temples of the empty city with its stoney residents sitting around every corner. Something was breaching into his night sky... a familiar someone, who he left pass without any disturbance.
+Lucero felt rather than saw it, alone in one of the temples of the empty city with its stoney residents sitting around every corner. Something was breaching into his night sky... A familiar someone, who he left pass without any disturbance.
 
 She was back? He walked to a window, its panes made of light blue glass, and looked at the aurora for a while. At first he smiled, but the more he thought about things, the more dejected his expression grew.
 
@@ -50,9 +50,9 @@ At last he walked away from the window, and returned to sculpting the stone wall
 
 Water raged, and wind howled. This wasn't a natural occurrence.
 
-She felt her chitin crack when the taint beast crashed into it, but grew it back to protect the tender insides and *bit* into the beast, letting her lower jaw come off and transforming it into a snake that dug itself into her foe. Chrysalis then  warped hoof into something sharper, and impaled the beast while it howled in pain.
+She felt her chitin crack when the taint beast crashed into it, but grew it back to protect the tender insides and *bit* into the beast, letting her lower jaw come off and transforming it into a snake that dug itself into her foe. She then  warped hoof into something sharper, and impaled the beast while it howled in pain.
 
-After all was said and done she was left there, alone, in the calming sea, with the taint beast slain at her hooves. Its blood attempted to crawl into her, but whenever it did her holiness burned it away, and her jaw crept back onto her face.
+After all was said and done she was left there, alone, in the calming sea, with the taint beast slain at her hooves. Its blood attempted to crawl into her, but whenever it did her holiness burned it away, and -barely registered- her jaw crept back onto her face.
 
 Then a pink glimmer caught her by surprise in the early dusk, making her look at the sky. The elevator was turned from glimmering grays of steel into sparkling pinks by the aurora that outshone sun and moon both, hiding the stars.
 
@@ -68,11 +68,11 @@ An old mare, the corner of her mouth yellowed by years upon years of chain smoki
 
 She willed her flesh to mend while searching a small tub, and by the time she walked down the ladder from her porch to the water to fill it, there weren't any signs that she'd been hurt. After this she decided to just spend a moment outside, sitting with her rump on the tub until her loins had quietened down, and summoned the most basic of things in life. A cigarette.
 
-That's about when the aurora appeared on the night sky, bright pink, right over Landly. She looked at it for a while, and in the dark lit only by her stick, her shape seemed to warp and twist.
+That's about when the aurora appeared on the night sky, bright pink, right over Landly. She looked at it for a while, and in the dark lit only by her stick, her shape seemed to warp and twist. Old, creaking gears in her head spun madly before she was able to remember the significance of such lights.
 
- "What is this now?" She asked to no one in particular, "What are you playing at?"
+ "What is this now, gods?" She asked to no one in particular, "What are you playing at?"
 
-Maybe someone answered. She smoked the night away.
+Someone may have answered. She smoked the night away.
 
 ------------------
 
@@ -218,12 +218,16 @@ She hadn’t fallen asleep.
 
 Yank wasn’t in her arms anymore.
 
-She tried not to cry, took deep breaths that were each shakier than the last, and almost called Yank but didn’t dare open her mouth.
+She tried not to squeak, took deep breaths that were each shakier than the last, and almost called Yank but didn’t dare open her mouth.
 
 So instead she stood up and looked at the table. Dinner was cold.
 
-Maybe some of the neighbours would know what was happening. She didn’t have a chance to open the front door; It vanished without any fanfare, just stopped being there.
+Maybe some of the neighbors would know what was happening. She didn’t have a chance to open the front door; It vanished without any fanfare, just stopped being there.
 
 Her jaw was shaking when she walked outside, and her teeth gritted, and when a plank of wood disappeared under her hooves a squeak escaped her throat, and she realized it was harder and harder for her to breathe.
 
-There weren’t any neighbours. Just open sea all around her.
+There weren’t any neighbors. Just open sea all around her.
+
+------------------
+
+Lord Yellow was watching the sky near Lady Fireclay when she noticed he was quieter than usual, the soft murmurs of his presence seemingly having quieted down during the last several minutes.

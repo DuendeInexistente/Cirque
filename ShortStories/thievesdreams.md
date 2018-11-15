@@ -4,7 +4,7 @@ Because these were the things starry-eyed would often wonder about when they loo
 
 But to keep their mind busy they stretched a hoof and decided they’d be a mare this time, because it was the easier role to play, and grabbed a coctail dress that wouldn’t be too overproduced for a discretely classy bar but would attract some looks nonetheless. Her mane, long but not too long, was tied loosely into a braid already, and a small necklace would attract the eye to her neck and make the eyes then raise to her face, something which always satisfied her.
 
-The lights of the hallways under deck made them look dim and dirty and quiet, with only the vague groans of shifting wood and the glimmers of enamel decoration on the closed doors, and after drifting across them she reached a bar that only seemed to encapsulate the melancholy of the place more than the rest of the ship, with the lights having a golden tone and the few patrons there were murmuring quietly among themselves, only maybe two or three sitting along the bar. So much for finding conversation, thought diamond-eyes, regretting having boarded this ship.
+The lights of the hallways under deck made things look dim and dirty and quiet, with only the vague groans of shifting wood and the glimmers of enamel decoration on the closed doors, and after drifting across them she reached a bar that only seemed to encapsulate the melancholy of the place more than the rest of the ship, with the lights having a golden tone and the few patrons there were murmuring quietly among themselves, only maybe two or three sitting along the bar. So much for finding conversation, thought Starry Eyes, regretting having boarded this ship.
 
 It was too attuned with how she felt for this to end well.
 
@@ -91,26 +91,29 @@ No, not the mask.
 
 Their character. The mask only helped that happen.
 
-How could anyone fall in love with such a face, with swirly black and two frigid blue eyes?
+How could anyone fall in love with such a face, with swirly black and two frigid blue eyes? Look where it had gotten them…
 
-A marriage ended bitterly, an apprentice who had died
+A marriage ended bitterly, an apprentice killed, and a budding lover driven to coldness. 
 
+No, this… this wasn’t them. They closed the box it was in and slid into the bed, trying not to think. Mania. Was it mania to fall for someone, not once but *twice*? Was it pathetic that they had ruined it both times?
 
+They took the mask out of its box and held it. It was heavy for cloth, enough that wearing it would’ve given muscle cramps to most people, but that was the price to pay for the level of protection it gave.
 
+Under the mask were four disks, enchanted metal to be attached to their boots. Two were tied now, the other two were loose and glimmering as if they weren’t centuries old.
 
+No. This wasn’t them. They closed the box and slid into bed, trying not to think about things.
 
+They took the mask out of its box to wear the boots, feeling vaguely comforted by their weight and tightness.
 
+Something hit the upper decks of the ship. They opened the box, and unfolded their cape to see it better: Large, ridiculously so, the dark purple cloth had small metalic sheets here and there, placed to protect the shoulders and column. They slipped into bed. They opened the box, and undusted the large hat with its feather.
 
+-------------------------
+ 
+ “Miss, we have to go.”
 
+*Go away. Go away. Go away.*
 
-
-
-
-
-
-
-
-
+-------------
 
 
 
