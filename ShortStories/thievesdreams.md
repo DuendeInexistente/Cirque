@@ -1,4 +1,4 @@
-After decades doing a job that oftimes needed them to be either sexless or to play the part of either sex, the thief that some knew as Starry Eyes often wondered if they *could* genuinely act like their sex naturally rather than remind themselves to— this was one of those questions they often thought about but never asked anyone out loud. Was it sexlesness to have to play the role consciously, or was it more sexual than most people? When had they decided to make a joke out of it, because it was a game if you could poke fun at other people with it?
+After decades doing a job that oftimes needed them to be either sexless or to play the part of either sex, the thief that some knew as Starry Eyes often wondered if they *could* genuinely act like their sex naturally rather than remind themselves to— this was one of those questions they often thought about but never asked anyone out loud. Was it sexlesness to have to play the role consciously, or was it more sexual than most people? When had they decided to make a joke out of it, because it made things funny if you could tease other people about it.
 
 Because these were the things starry-eyed would often wonder about when they looked at their dresser, alone with no one to distract them— and loneliness was becoming a more and more common occurrence nowadays…
 
@@ -97,6 +97,8 @@ A marriage ended bitterly, an apprentice killed, and a budding lover driven to c
 
 No, this… this wasn’t them. They closed the box it was in and slid into the bed, trying not to think. Mania. Was it mania to fall for someone, not once but *twice*? Was it pathetic that they had ruined it both times?
 
+Might as well be a yellow eyes, they thought, for all the good I do.
+
 They took the mask out of its box and held it. It was heavy for cloth, enough that wearing it would’ve given muscle cramps to most people, but that was the price to pay for the level of protection it gave.
 
 Under the mask were four disks, enchanted metal to be attached to their boots. Two were tied now, the other two were loose and glimmering as if they weren’t centuries old.
@@ -111,32 +113,16 @@ Something hit the upper decks of the ship. They opened the box, and unfolded the
  
  “Miss, we have to go.”
 
-*Go away. Go away. Go away.*
+*Go away.* 
 
--------------
+-------------------------
 
+She was wandering the hallways of the ship now, trying not to think, worried what her thoughts might wander to. There was a ball somewhere nearby, or at least the music of one whispered softly.
 
+She remembered him dressing up nicely, a colt in the spring of his life who could keep his cool with a gun aimed at his face but was fretting because he didn’t have anyone to take to the ball.
 
+He’d been a good student.
 
-
-
-
-==============
-
-A colt, no, a stallion who didn’t mind being seen as younger than he was, with a laugh so honest you just yearned to hear it, with cries so pained you yearned to fix whatever caused them.
-
-But they knew the answer, didn’t they? Play with the dark. Dare its mysteries and unravel the frigid cold of it, have fun *wondering*, playing with the unknown… That was the way they’d made people fall in love with the thief. Playing their games, together, just two children of the night who found each other…
-
-A colt, young and naive, who had chased them when they poked fun at him. A colt who Starry had seen had talent for their trade, and who gleefully accepted the position of apprentice. A colt who, after being introduced to the blue eyes, had grown a world-class athlete under their tutelage.
-
-They hadn’t taught him well enough that he didn’t get killed.
-
-I might as well be a yellow-eyes, they thought, for all the good I do.
+If only she was a good teacher too…
 
 
-====================
-
-
-“Miss, we have to go.”
-
-He knocked his head on the wall, harder. No. No! He wasn’t some wet hen, he was Starry Eyed! He was the only one, the only one, of the blue eyes to have shown himself in public in nearly a century, and gotten away with it! He knocked his head again, hard enough to cave it in this time, and still feeling disgusted and monstruous forced himself out of the shower
