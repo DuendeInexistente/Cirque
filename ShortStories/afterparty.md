@@ -122,13 +122,22 @@ The triton kissed Shemosh’ cheek, “So it makes me feel bad to be *thankful* 
 
  “Bugger off.”
 
- “You only have yourself to blame, you know.”
+ “You only have yourself to blame.”
 
 Shemosh found himself growling.
 
  “*That* bad, huh. You got a spot on the rehearsal if you feel like it.” 
 
-Shemosh said nothing, and sat still as the others practiced their acrobatics behind him.
+Shemosh said nothing, and sat still as the others practiced their acrobatics behind him. To think he’d thought it might not be so bad…
+
+Someone fell behind him. He didn’t need to see it, just to hear the panicked squeak of someone who hasn’t yet realized the importance of their mistake.
+
+Shuga was falling, and soft bodies can only do so much— he knew with a glance that she was about to spill her brains out on the soft paneling.
+
+The wood bent under him.
+
+He knew that the air boomed around him, and 
+
 
 -------------------
 
