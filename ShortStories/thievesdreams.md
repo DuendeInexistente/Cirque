@@ -146,9 +146,20 @@ Hey, escalation!
 
 No, bad. Don’t be happy about that.
 
- “I got tights that would snap your dick in half.” She was the one pushing her face onto his this time, her tone so crude even the stallion was taken aback by it. He looked back at his friends, who weren’t sure either but egged him forward.
+ “My lovely flank would snap your dick in half.” She was the one pushing her face onto his this time, her tone so crude even the stallion was taken aback by it. He looked back at his friends, who weren’t sure either but egged him forward.
 
-Was Starry supposed to defend the mare, or to take them to separate timeout corners— Wearing chastity belts for good measure? She had raised kids already, and it was too late for this… She turned around, but the stallion noticed her and barked her way.
+Was Starry supposed to defend the mare, or to take them to separate timeout corners— Wearing chastity belts for good measure? Suddenly exhausted she turned around, unsure of what she’d do next and with a rancid taste lingering in her mouth. 
 
-Sweet merciful heaven, what now?
+ “Hey!” Barked the stallion. “You peering on us, huh?”
 
+ “Scram.” Starry wasn’t sure if they’d said that out loud and didn’t particurarly care, feeling the rancid taste turn stronger and a fever rising suddenly… maybe the oil before was bad, but their thought was interrupted when a hoof landed on their withers.
+
+She took the hoof and pulled on it without thinking, pressing whoever had done it against her forehead painfully for both, their snouts so close to each other they might as well have kissed.
+
+Their arms were hot, boiling, rising with a fever that seemed to spread to the rest of their body like a pestilent infection, with every muscle twitching, begging, for release.
+
+ “I cou—”
+
+The stallion was shaking, staring at the limb that held his hoof painfully tight.
+
+And when she realized what was happening the panic spread to Starry, who pushed him away violently and hid his hoof, its turgid strength still boiling inside like a fever that begged for release.
