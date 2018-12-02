@@ -136,7 +136,8 @@ Shuga was falling, and soft bodies can only do so much— he knew with a glance 
 
 The wood bent under him.
 
-He knew that the air boomed around him, and 
+He knew that the air boomed around him, and that the there was here without the here ever changing, and then Shuga was in his arms. He didn’t have time to braze for impact, only to turn Shuga around forcefully so she’d fall on her legs.
+
 
 
 -------------------
