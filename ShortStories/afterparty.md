@@ -4,7 +4,7 @@ Boredom, and small talk, were two of those things.
 
 Oh, boredom was fine. Boredom was when you had money and could afford to do nothing, but having to do small talk -Because the sight of an armored minotaur with a young dragon did, indeed, attract people rather than scare them away- somehow made it worse. It had to be an engaging sort of boredom, then.
 
-Still, after all the monstrosities he’d seen in his long, long life as a fighter, he could both remind himself that there were worse things, and was unable to bring himself to add to the grief.
+Still and after all the monstrosities he’d seen in his long, long life as a fighter, he could both remind himself that there were worse things, and was unable to bring himself to add to the grief.
 
 Ponies and tritons had it especially bad these days— Tritons, bunch of bastards they were, had a stick all for themselves. He sometimes wondered if that’s why they were bastards.
 
@@ -24,11 +24,11 @@ The god said a lot with almost nothing when she wanted to. This is what the smal
 
  “You mean I didn’t make you look worse, but could’ve made you look better.”
 
-She nodded a small nod, looking like a lean but muscular minotauress. Cobalt wondered idly how hard would he need to hit her to break the shell and see what she really looked like, and as if reading his thoughts she smiled a bitter smile and said, “Not as hard as you might imagine. But what’s under… that’s a very hard pony indeed.”
+She nodded a small nod, looking like a lean but muscular minotauress. Cobalt wondered idly how hard would he need to hit her to break the shell and see what she really looked like, and as if reading his thoughts she smiled a bitter smile and said, “Not as hard as you might imagine. But what’s under… that’s a very hard pony indeed. Enough to fight Tanatos.”
 
 He didn’t acknowledge to being caught red handed, instead looking out a nearby window, sitting in a room with walls of old and unpainted wood, in a boat that waved softly with the water.
 
- “Word is sharper than the sword, anyhow; you could just ask me to show you.”
+ “Word is sharper than the sword and blunter than the fist, anyhow; you could just ask me to show you.”
 
 He shrugged. Not interested enough, if the goddess had a reason to put on a suit.
 
@@ -64,7 +64,7 @@ He could’ve lied, but decided against it, “I felt my throat might tear.”
 
  “*Noblesse oblige*, Querer. I made a statement at the ceremony.”
 
- “What kind of statement for a king is to enter battle without his people?”
+ “What kind of statement for a king is to enter battle without his people? To be weak and frail?”
 
  “That of a king that needs no army.” He said weakly, fully aware that his trembling legs contradicted it.
 

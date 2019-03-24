@@ -4,11 +4,11 @@ The thief was small and elegant; They took great pride in this, as they did for 
 
 They were almost positively sure that didn't have to do with their compact stature. Which was totally a perk when avoiding arrows, really, why would the thief even be bothered by being efficiently designed? There was no reasonable reason to.
 
-*Clang.* An arrow bounced against their shoulder, and albeit the tip had only barely hit the light metal armor before the fluffy silk over it stopped it dry, it was still an arrow with enough weight behind it to throw them back a few steps, and that was as much of a warning as about anyone needed.
+*Clang.* An arrow bounced against their shoulder, and although the tip had only barely hit the light metal armor before the fluffy silk over it stopped it dry, it was still an arrow with enough weight behind it to throw them back a few steps, and that was as much of a warning as about anyone needed.
 
 *Don't be too silly to be centered.*
 
-They ensured that their sack was intact, their yellow googles  tied firm, and there was nothing caught on their outer layer of black and purple silks before taking a run for it, choosing little used alleys. Some of them were half covered by the flooding water. This was good, because the thief could shake their boots until spell four activated and *bounce* on the water like a trampoline, reaching enough height to climb a ceiling after several increasingly tall bunnylike hops.
+They ensured that their sack was intact, their yellow googles tied firm, and there was nothing caught on their outer layer of black and purple silks before taking a run for it, choosing little used alleys. Some of them were half covered by the flooding water. This was good, because the thief could shake their boots until spell four activated and *bounce* on the water like a trampoline, reaching enough height to climb a ceiling after several increasingly tall bunnylike hops.
 
 A pegasus guard looked at them there, shocked, holding a crossbow.
 
@@ -70,7 +70,7 @@ Enough of this! The thief punched the griffon with such strength that he was thr
 
  "You can't do that!"
 
-The thief didn't care about this... Were they hallucinating? No, they couldn't be. They ran on attempting to avoid the guards. More flooded streets! They twirled their hoof, doing a magician's trick to spawn a can out of their hammerspace, and sprayed a thick white gel on their boots. Now whey slid on the water as if it was ice, and the thief skated away hoping to regain as much distance as possible.
+The thief didn't care about this... Were they hallucinating? No, they couldn't be. They ran on attempting to avoid the guards. More flooded streets! They twirled their hoof, doing a magician's trick to spawn a can out of their hammerspace, and sprayed a thick white gel on their boots. Now whey slid on the water as if it was ice, and the thief skated away accross Landly hoping to regain as much distance as possible.
 
 *Water.* Looking up would've been suspicious, but they looked at the water instead. The moon reflected on it... And a dark pegasus gliding silently, blotting out stars in his advance.
 
@@ -401,4 +401,12 @@ Lucero giggled as he walked out behind Celestia.
 
  “*Creep.*”
 
- “I know right?”
+ “I know right?" The mare grabbed the glasses that Lucero had given the thief. "Hey, idea."
+
+ "Huh?"
+
+ "I can be the blue eyes and you'll be the yellow eyes."
+
+ "Huh!?"
+
+ "I want in on this." The mare pressed closer to the thief now, uncomfortably close. "I want in."

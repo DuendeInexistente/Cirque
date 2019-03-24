@@ -3,7 +3,8 @@
 
 The foal smiled for Celestia.
 
- "Good, now say it with me... 'They say there's nothing pretty on the streets nowadays, but we're here.'"
+ "Good, now say it with me... 'They say there's nothing pretty left, but we're here.'"
+ 
 The foal echoed her words. He was dressed  with colorful feathers and held a harp on his hooves, and with every word from Celestia, he grew more confident.
 
  "Now let's go show these ponies something pretty."
@@ -50,9 +51,9 @@ At last he walked away from the window, and returned to sculpting the stone wall
 
 Water raged, and wind howled. This wasn't a natural occurrence.
 
-She felt her chitin crack when the taint beast crashed into it, but grew it back to protect the tender insides and *bit* into the beast, letting her lower jaw come off and transforming it into a snake that dug itself into her foe. She then  warped hoof into something sharper, and impaled the beast while it howled in pain.
+She felt her chitin crack when the taint beast crashed into it, but grew it back to protect the tender insides and *bit* into the beast, letting her lower jaw come off and transforming it into a snake that dug itself into her foe tunneling through its flesh. She then  warped hoof into something sharper, and impaled the beast while it howled in pain.
 
-After all was said and done she was left there, alone, in the calming sea, with the taint beast slain at her hooves. Its blood attempted to crawl into her, but whenever it did her holiness burned it away, and -barely registered- her jaw crept back onto her face.
+After all was said and done she was left there, alone, in the calming sea, with the taint beast slain at her hooves. Its blood attempted to crawl into her, but whenever it did, holiness burned it away, and -barely noticed- her jaw crept back onto her face.
 
 Then a pink glimmer caught her by surprise in the early dusk, making her look at the sky. The elevator was turned from glimmering grays of steel into sparkling pinks by the aurora that outshone sun and moon both, hiding the stars.
 
@@ -68,7 +69,7 @@ An old mare, the corner of her mouth yellowed by years upon years of chain smoki
 
 She willed her flesh to mend while searching a small tub, and by the time she walked down the ladder from her porch to the water to fill it, there weren't any signs that she'd been hurt. After this she decided to just spend a moment outside, sitting with her rump on the tub until her loins had quietened down, and summoned the most basic of things in life. A cigarette.
 
-That's about when the aurora appeared on the night sky, bright pink, right over Landly. She looked at it for a while, and in the dark lit only by her stick, her shape seemed to warp and twist. Old, creaking gears in her head spun madly before she was able to remember the significance of such lights.
+That's about when the aurora appeared on the night sky, bright pink, right over Landly. She looked at it for a while, and in the dark of early dusk lit only by her stick, her shape seemed to warp and twist. Old, but well trained gears in her head spun madly before she was able to remember the significance of such lights.
 
  "What is this now, gods?" She asked to no one in particular, "What are you playing at?"
 
@@ -80,13 +81,13 @@ The moon approached.
 
 Stallions and mares alike ran to their posts. Candles and torches were unlit one after the next as the moon’s silver glow rendered them unnecessary. Here, a foal climbed to the ceiling to watch the display, there a small mare and stallion, both too small to do their duty safely, watched from the back lines.
 
-Here, a pegasus with long, flowing blue mane climbed out of a trapdoor in the ice, smiling widely. Some called him grandpa smileys, because he rarely had any other expression. Someone called him from downstairs but he told them not to worry, that he’d be careful. His large wings, not made for swiming, were open at first and came out from under his cape, but as the moon approached the icey town and the wind picked up, he had to fold them to avoid being pulled away. Next came his mane, which he tied without stopping his walk. Snow dust battered his face and made his fever weaker, and he joined all others who reported for the front line. He’d taken care of some of them as foals, and as such, the greetings were warm and abundant.
+Here, a pegasus with long, flowing blue mane climbed out of a trapdoor in the ice, smiling widely. Some called him gran grin, because he rarely had any other expression. Someone called him from downstairs but he told them not to worry, that he’d be careful. His large wings, not made for swimming, were open at first and came out from under his cape, but as the moon approached the icy town and the wind picked up, he had to fold them to avoid being pushed away. Next came his mane, which he tied without stopping his walk. Snow dust battered his face and made his fever weaker, and he joined all others who reported for the front line. He’d taken care of some of them as foals and advised or mentored almost everyone, and as such, the greetings were warm and abundant.
 
-His hindlegs and back held strong and firm, and his laugh and face were youthful in spite of his age, and many people would forget his real age, which didn’t particularly trouble him. They asked him if the wife was well and if the kids came strong, and he laughed and told them, yea, she looks like she’s about to burst, and that they still hadn’t decided on a name. ‘Smilets’, suggested someone. Grandpa smiley laughed.
+His hindlegs and back held strong and firm, and his laugh and face were youthful in spite of his age, and many people would forget his real age, which didn’t particularly trouble him. They asked him if the wife was well and if the kids came strong, and he laughed and told them, yea, she looks like she’s about to burst, and that they still hadn’t decided on a name. ‘Grinlets’, suggested someone. Grin laughed.
 
-Everyone walked into the large plaza where the moon was welcomed, some nervous and some laughing and some drunk. For some people the jitters never went away, and he did his best to laugh and smile and joke and help them forget how dangerous this was, that each time could be the last— for them and the world. The moon was only a few miles away now, and a bearded stallion whose name he forgot but whose face he remembered -an issue he’d always had, since his childhood so far away- made a bad joke that Grandpa answered to in kind.
+Everyone walked into the large plaza where the moon was welcomed, some nervous and some laughing and some drunk. For some people the jitters never went away, and he did his best to laugh and smile and joke and help them forget how dangerous this was, that each time could be the last— for them and the world. The moon was only a few miles away now, and a bearded stallion whose name he forgot but whose face he remembered -an issue he’d always had, since his childhood so far away- made a bad joke that Gran answered to in kind.
 
-They all readied , facing the same way, as the moon fell miles, meters closer to them; It’s sheer size belied the speed at which it fell, and even with the size of their town and taskforce, the plaza was *maybe* half the moon’s total diameter.
+They all readied , facing the same way, as the moon fell miles, meters closer to them; It’s sheer size belied the speed at which it fell, and even with the size of their town and task force, the plaza was *maybe* half the moon’s total diameter— an accomplishment belittled by their monumental task.
 
 It didn’t mater. They’d be enough and without asking for anyone’s thanks, just like they never had. The honor of this was reward enough. 
 

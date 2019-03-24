@@ -96,7 +96,7 @@ It felt so familiar. This mask of enchanted fabrics had indirectly led to a marr
 
 How could anyone fall in love with such a face, with swirly black and two frigid blue eyes? Look where it had gotten them…
 
-A marriage ended bitterly, an apprentice killed, and a budding lover driven to coldness. 
+A marriage ended bitterly, an apprentice killed, and a budding lover driven to lose his love.
 
 No, this… this wasn’t them. They closed the box it was in and slid into the bed, trying not to think. Mania. Was it mania to fall for someone, not once but *twice*? Was it pathetic that they had ruined it both times?
 
@@ -122,7 +122,7 @@ Something hit the upper decks of the ship. They opened the box, and unfolded the
 
 She was wandering the hallways of the ship now, trying not to think, worried what her thoughts might wander to. There was a ball somewhere nearby, or at least the music of one whispered softly.
 
-She remembered him dressing up nicely, a colt in the spring of his life who could keep his cool with a gun aimed at his face -thought she attempted to avoid this- but was fretting because he didn’t have anyone to take to the ball.
+She remembered him dressing up nicely, a colt in the spring of his life who could keep his cool with a gun aimed at his face -thought she attempted to avoid this happening- but was fretting because he didn’t have anyone to take to the ball.
 
 He’d been a good student. If only she was a teacher to match…
 
@@ -146,13 +146,13 @@ Hey, escalation!
 
 No, bad. Don’t be happy about that.
 
- “My lovely flank would snap your dick in half.” She was the one pushing her face onto his this time, her tone so crude even the stallion was taken aback by it. He looked back at his friends, who weren’t sure either but egged him forward.
+ “My lovely flank would snap your dick in half.” She was the one pushing her face onto his this time, her tone so crude and mean even the stallion was taken aback by it. He looked back at his friends, who weren’t sure either but egged him forward.
 
 Was Starry supposed to defend the mare, or to take them to separate timeout corners— Wearing chastity belts for good measure? Suddenly exhausted she turned around, unsure of what she’d do next and with a rancid taste lingering in her mouth. 
 
  “Hey!” Barked the stallion. “You peering on us, huh?”
 
- “Scram.” Starry wasn’t sure if they’d said that out loud and didn’t particurarly care, feeling the rancid taste turn stronger and a fever rising suddenly… maybe the oil before was bad, but their thought was interrupted when a hoof landed on their withers.
+ “Scram.” Starry wasn’t sure if they’d said that out loud and didn’t particularly care, feeling the rancid taste turn stronger and a fever rising suddenly… maybe the oil before was bad, but their thought was interrupted when a hoof landed on their withers.
 
 She took the hoof and pulled on it without thinking, pressing whoever had done it against her forehead painfully for both, their snouts so close to each other they might as well have kissed.
 
@@ -160,6 +160,6 @@ Their arms were hot, boiling, rising with a fever that seemed to spread to the r
 
  “I cou—”
 
-The stallion was shaking, staring at the limb that held his hoof painfully tight.
+The stallion was shaking, staring at the hoof that held his painfully tight.
 
 And when she realized what was happening the panic spread to Starry, who pushed him away violently and hid his hoof, its turgid strength still boiling inside like a fever that begged for release.
