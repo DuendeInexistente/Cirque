@@ -26,3 +26,10 @@
  * [Grief](ShortStories/Grief.md)
  * [It's only natural](ShortStories/OnlyNatural.md)
  * [In a lighthouse...](ShortStories/stars.md)
+ * [After the ceremony](ShortStories/afterparty.md)
+
+Various guests unwind after Twilight’s tumoltous ceremony.
+
+ * [Flight of the Valkyrie](ShortStories/pledge.md)
+ * [Night of the aurora](ShortStories/aurora.md)
+

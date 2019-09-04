@@ -36,3 +36,9 @@ Changelog:
  * [The trinary war](/LandlyLib/war.md)
  * [Scrap of a tale found between the pages of another book](/LandlyLib/2ndpart.md)
  * [Tritons](/LandlyLib/tritons.md)
+
+04/09/19: Somehow I forgot to get done with these almost finished stories… about six or seven months ago. In my defense, life’s been shaky!
+
+ * [After the ceremony](ShortStories/afterparty.md)
+ * [Flight of the Valkyrie](ShortStories/pledge.md)
+ * [Night of the aurora](ShortStories/aurora.md)

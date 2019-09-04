@@ -1,4 +1,4 @@
-Cobalt Cuirass had done much in his life— he’d been a knight of various causes for the last fifty years, and a mercenary for thrice that before, and at the end of the day there were few things that that life had not readied him for.
+Cobalt Cuirass had done much in his life— he’d been a knight of various causes for the last fifty years, and a mercenary for thrice that before, and at the end of the day there were few things life had not readied him for.
 
 Boredom, and small talk, were two of those things.
 
@@ -46,7 +46,7 @@ Diva whistled from the deck and, a minute later, climbed down the stairs, nodded
 
  “It’s a pity what happened to Arabesco.” Whispered Twilight, looking at the sleeping dragon.
 
- “Give it twenty or thirty years. It’ll be good as new.” Said Cobalt distractedly as he laid a hand on Diva’s neck, on one of his scars, to warm it.
+ “Give it twenty or thirty years. It’ll be good as new.” Said Cobalt distractedly as he laid a hand on Diva’s neck, on one of his scars to warm it.
 
 ---------------
 
@@ -70,7 +70,7 @@ He could’ve lied, but decided against it, “I felt my throat might tear.”
 
  “And look where it got you.”
 
- “Let an old friend mingle, ser…”
+ “Let an old friend mingle by himself, ser…”
 
 Finally they reached his royal quarters at the ship, a discrete but well furnished room with silver and gold etchings on the walls, and he was deposited on the bed at its center with utmost care. All of his eyes kept darting back to Querer’s crownet-wheel every time it jerked suddenly.
 
@@ -100,7 +100,7 @@ Her crownet kept moving jerkily left and right all the while, like an engine abo
 
 [Shemosh](https://www.youtube.com/watch?v=5Ca5AH9o8wU)[^pambo] sat on the edge of his troupe’s barge grumpily -his long cape resting on the boards nearby- wanting to not be seen. The already abundant scars on his skin had new additions now, several small burns and purples and a caved in head that he knew would be noticeable for at least a month after it got better, and more offending than injuring, the corners of his mouth hurt slightly.
 
-But wishes seldom come true by sheer force of want -something every triton was familiar with- and sooner than later one of his people ‘sneaked’ in behind him and watched, idle, before speaking. “Was it bad?”
+But wishes seldom come true by sheer force of want -a fact every triton was familiar with- and sooner than later one of his people ‘sneaked’ in behind him and watched, idle, before speaking. “Was it bad?”
 
  “Bugger off.”
 
@@ -118,7 +118,7 @@ Sindias didn’t bugger off.
 
  “Bugger off.”
 
-The triton kissed Shemosh’ cheek, “So it makes me feel bad to be *thankful* for it. Feels like enabling, you know?”
+The triton kissed Shemosh’ cheek, “So it makes me feel bad to be *thankful* for it. Feels like enabling.”
 
  “Bugger off.”
 
@@ -136,8 +136,37 @@ Shuga was falling, and soft bodies can only do so much— he knew with a glance 
 
 The wood bent under him.
 
-He knew that the air boomed around him, and that the there was here without the here ever changing, and then Shuga was in his arms. He didn’t have time to braze for impact, only to turn Shuga around forcefully so she’d fall on her legs.
+He knew that the air boomed around him, and that the there was here without the here ever changing, and then Shuga was in his arms. He didn’t have time to braze for impact, only to turn Shuga around forcefully so she’d fall on their legs. She cried out in pain when a bone was bent not to a breaking point, but  still to an incredibly painful one.
 
+The others didn’t stop to gasp, as such a mistake was dreaded but expected from rookies, and before Shemosh knew it they were rushing, orderly but implacably carrying both of them to a tent on the platform. He was twisted, oiled, cuddled and bandaged and perfumed for the next several hours, unable to get the others to listen and *bugger the fuck off already* no mater how much he cursed at them. Sindias was between the scenes all the while, directing the others and, he was sure the instant he saw her, ensuring no one had the presence of mind to quite register Shemosh’ grunts.
+
+At last he laid alone near a guilty-looking Shuga, who looked like she wished nothing more than for Styx to swallow her down.
+
+ “I hate you.” He grunted, feeling both exhausted and feverishly angry at once.
+
+ “You don’t mean that.” Said Sindias, sitting patiently near him.
+
+He grunted noncomitally. Nothing pissed him off more than being caught redhanded.
+
+ “You were wounded. I simply… took the chance. Was it an unicorn again? Giving you that look you hate?”
+
+ “There was an unicorn.” Was all he wanted to say, but then he added: “But no. He wasn’t the racist one.”
+
+ “Did you try…”
+
+ “Sindias, my mouth feels like it’ll fall off from smiling.” He cut her off.
+
+ “It looks like it’s falling off.” She said crudely, but laid a comforting hoof on his shoulder. “I understand. It’ll be fine.”
+
+He laid still, wondering if he was shaking. His chest felt hot and pained, like it was filled to a bursting point, and he tried to keep it under control. He could do this, he knew he could, only had to try a little harder, just be an adult…
+
+ “There was an unicorn too.” He repeated, and gulped “I… had to fight with him, with a weird griffon.”
+
+ “Did the unicorn do that?” She asked. “Your head?”
+
+ “I think.” Breathe in and out, he told himself, counting his breaths to ten. “It was a big fight, there was all sort of shit being flung.”
+
+His words bled out, little by little, and by nightfall he almost felt like he didn’t want to scream on someone’s face. Almost.
 
 
 -------------------

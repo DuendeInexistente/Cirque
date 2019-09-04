@@ -59,7 +59,7 @@ Then a pink glimmer caught her by surprise in the early dusk, making her look at
 
  "Ah." She nodded with her eyes lost, leaving her mouth open, and nearly mouthed something mutely, looking around, before talking aloud. "Her."
 
-No one answered.
+No one answered. No one ever answered.
 
 Still with her mouth half open and staring into the infinite, she tapped the controls of her elevator, and it sank with her and the corpse.
 
@@ -228,7 +228,3 @@ Maybe some of the neighbors would know what was happening. She didn’t have a c
 Her jaw was shaking when she walked outside, and her teeth gritted, and when a plank of wood disappeared under her hooves a squeak escaped her throat, and she realized it was harder and harder for her to breathe.
 
 There weren’t any neighbors. Just open sea all around her.
-
-------------------
-
-Lord Yellow was watching the sky near Lady Fireclay when she noticed he was quieter than usual, the soft murmurs of his presence seemingly having quieted down during the last several minutes.
