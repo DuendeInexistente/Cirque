@@ -63,19 +63,7 @@ No one answered. No one ever answered.
 
 Still with her mouth half open and staring into the infinite, she tapped the controls of her elevator, and it sank with her and the corpse.
 
--------------
-
-An old mare, the corner of her mouth yellowed by years upon years of chain smoking, coughed her way out of the shower. What had made the water heater act up like that suddenly? She didn't know and frankly, didn't care, all that she wanted now was to cool down, because the jets of steaming water had caused something on her crotch she wasn't particularly ashamed of, but found impractical.
-
-She willed her flesh to mend while searching a small tub, and by the time she walked down the ladder from her porch to the water to fill it, there weren't any signs that she'd been hurt. After this she decided to just spend a moment outside, sitting with her rump on the tub until her loins had quietened down, and summoned the most basic of things in life. A cigarette.
-
-That's about when the aurora appeared on the night sky, bright pink, right over Landly. She looked at it for a while, and in the dark of early dusk lit only by her stick, her shape seemed to warp and twist. Old, but well trained gears in her head spun madly before she was able to remember the significance of such lights.
-
- "What is this now, gods?" She asked to no one in particular, "What are you playing at?"
-
-Someone may have answered. She smoked the night away.
-
-------------------
+------------------------------
 
 The moon approached.
 
