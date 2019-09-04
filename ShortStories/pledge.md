@@ -40,7 +40,7 @@ A cage, asked Pledge?
 
 The automaton sought greatness, then. Transcendence.
 
- “*Is a way of, yes putting it. Do you have a destination, mister?*”
+ “*Is a way of, yes, putting it. Do you have a destination, mister?*”
 
 Something emerged from the water, like a pair of steel jaws surrounding the entire ship. Pledge’s wings flared furiously when he beat them, taking the winged automaton with him and escaping the jaws’ prison before they closed. It looked down speechless as Pledge continued to ascend to what felt like a safe distance, as the automaton cried about it’s kin trapped in the ship below.
 
@@ -64,9 +64,9 @@ Pledge let even more heat than before wrap his wings, and asked the automaton if
 
  “I do not know what that is either, my kind can—”
 
-Pledge interrupted the automaton with a mighty cry, not it it but to the pursuers. He sang his name and of his family, and even if his foes did not know the noble song, they knew fear.
+Pledge interrupted the automaton with a mighty cry, not for it but to the pursuers. He sang his name and of his family, and even if his foes did not know the noble song, they knew fear.
 
-Someone coal needed a lesson.
+Some coal needed a lesson.
  
 ------------------------------
 [^duda]:
