@@ -78,8 +78,10 @@ He was not known for his foresight, but heeded his father’s words and made fou
 
  “The foolish man looks for idiocy in another one’s words; The wise one is wary for it not to be on his.”
 
-Rimbles, who atempted to meditate in his home of homes, had a guest.
+------------------------------
 
-He had many words: His first home had been beset by insects, buzzing and pestering and ruining all his food. The second had suffered a similar fate, the third looked upsetingly like his father's, and the fourth been eclipsed by an old rival's. Finally Rimbles grew tired of such echoes, and politely walked out of his home of homes pulling his guest out along with him, and they parted ways.
+Rimbles, who attempted to meditate in his home of homes, had a guest.
 
-After much wandering, Rimbles found a bench near a beach to rest his legs in which an impoverished monk rested, watching the sand.
+The guest had many words: His first home had been beset by insects, buzzing and pestering and ruining all his food. The second had suffered a similar fate, the third looked upsetingly like his father's, and the fourth been eclipsed by an old rival's. Finally Rimbles grew tired of such echoes, and politely walked out of his home of homes pulling his guest out along with him, and they parted ways.
+
+After much wandering Rimbles found a bench near a beach to rest his legs in which an impoverished monk rested, watching the sand. He watched the man watch the sand but, before long, grew bored and turned to watch the waves instead
