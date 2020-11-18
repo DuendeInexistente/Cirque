@@ -44,6 +44,8 @@ After a time looking for his path again, he found a person who had fallen asleep
 
 The person conceded it might not, and chased butterflies with Rimbles.
 
+------------------------------
+
 Rimbles set out to find a home.
 
 The first one he found had many rooms in which dust gathered, which dissatisfied him as he could not rest or eat in such a place; The attic was filled with so many things the door could not be opened, and dust rained down from it.
@@ -68,15 +70,6 @@ Rimbles completely missunderstood the question, and kept talking his woes, “Th
 
 And long after Rimbles found a home, but that is another story.
 
-He was not known for his foresight, but heeded his father’s words and made four walls and a door, and a ceiling over them. He could then, it stood to reason build as many rooms as he needed.
-
-----------------
-
- "It is the fool's curse to be besmirched by another one's actions: It is the wise one's choice to first look at his own."
-
- "It is the fool's curse to be chained by his past self, yet the wise one's realization that these chains are pure imagination."
-
- “The foolish man looks for idiocy in another one’s words; The wise one is wary for it not to be on his.”
 
 ------------------------------
 
